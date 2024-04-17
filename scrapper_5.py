@@ -3,7 +3,7 @@ import urllib.request
 
 urlroot = "http://www.kuttner-institute.jura.uni-muenchen.de/kartei/"
 count = 1
-filelocation = "C:/Archive/development/atria/atria/filelist.txt"
+filelocation = "C:/Archive/development/atria/atria/filelist2.txt"
 outputfolder = "C:/Archive/development/atria/atria/images/"
 sleeptime = 2
 
