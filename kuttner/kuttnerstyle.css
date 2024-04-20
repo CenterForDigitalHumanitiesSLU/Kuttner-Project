@@ -1,13 +1,65 @@
 body {
-  background-color: lightblue;
+  background-color: whitesmoke;
 }
 
 h1 {
-  color: white;
+  color: whitesmoke;
   text-align: center;
+  background-color: rgb(205, 127, 50);
+  padding-bottom: 1em;
+  padding-top: 1em;
 }
 
+
+h2 {
+  color: black;
+  text-align: left;
+  font-size: 20px;
+}
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+l {
+    padding-left: 10em;
+}
+
+head {
+    font-family: "Georgia", sans-serif;
+    line-height: 24px;
+    padding-left: 50px;
+}
+
+table {
+  background: white;
+}
+
+tr {
+    font-family: "Georgia", sans-serif;
+    line-height: 24px;
+    padding-left: 50px;
+}
+
+.pages {
+  display: grid;
+  column-gap: 20px;
+  row-gap: 20px;
+  justify-content: space-evenly;
+  grid-template-columns: auto auto auto;
+}
+
+.about {
+  grid-row: 3;
+  grid-column: 1;
+}
+
+.publications {
+ grid-row: 3;
+  grid-column: 2;
+}
+
+.onlineresources {
+  grid-row: 3;
+  grid-column: 3;
 }
