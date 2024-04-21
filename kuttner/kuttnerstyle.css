@@ -5,7 +5,7 @@ body {
 h1 {
   color: whitesmoke;
   text-align: center;
-  background-color: rgb(205, 127, 50);
+  background-color: rgb(103, 49, 71);
   padding-bottom: 1em;
   padding-top: 1em;
 }
@@ -62,4 +62,16 @@ tr {
 .onlineresources {
   grid-row: 3;
   grid-column: 3;
+}
+
+button {
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 100%;
+  cursor: pointer;
 }
