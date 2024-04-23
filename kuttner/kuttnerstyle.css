@@ -52,6 +52,10 @@ tr {
     padding-left: 50px;
 }
 
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
 /* generic page structure */
 .grid {
   display: grid;
@@ -84,9 +88,6 @@ tr {
   z-index: 2;
   line-height: 1;
 }
-
-
-
 
 
 .info {
@@ -123,6 +124,11 @@ tr {
   color: white; 
 }
 
+.WHCard {
+
+  grid-row: 5;
+  grid-column: 2/9;
+}
 
 button {
   border: none;
