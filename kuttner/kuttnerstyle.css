@@ -76,7 +76,17 @@ tr {
 .global-nav {
   grid-row: 2;
   grid-column: 8/9;
+  grid-auto-columns: 50px;
+  position: -webkit-sticky;
+  position: sticky;
+  top:0;
+  background: black;
+  z-index: 2;
+  line-height: 1;
 }
+
+
+
 
 
 .info {
@@ -124,4 +134,67 @@ button {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   width: 100%;
   cursor: pointer;
+}
+
+
+
+/* Navbar attempt 3 -- code borrowed from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_subnav*/
+
+
+
+.navbar {
+  overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: #c20a0a;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: #c20a0a;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #b6c1c9;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
 }
