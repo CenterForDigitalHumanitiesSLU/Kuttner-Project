@@ -62,7 +62,7 @@ tr:nth-child(even) {
   column-gap: 20px;
   row-gap: 20px;
   justify-content: space-evenly;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
 }
 
 
@@ -71,15 +71,16 @@ tr:nth-child(even) {
 
 .colophon {
   grid-row:1;
-  grid-column: span 9;
+  grid-column: span 5;
   background-color: black;
   text-align: center;
   color: white;
+  background-color: rgb(103, 49, 71);
 }
 
 .global-nav {
   grid-row: 1;
-  grid-column: 10/11;
+  grid-column: 6/11;
   grid-auto-columns: 50px;
   position: -webkit-sticky;
   position: sticky;
