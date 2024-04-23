@@ -1,6 +1,6 @@
 
 body {
-  font-family: Carrois Gothic, Tahoma, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   background-color: whitesmoke;
 
 }
@@ -12,16 +12,18 @@ h1 {
   background-color: rgb(103, 49, 71);
   padding-bottom: 1em;
   padding-top: 1em;
+  font-family: "Playfair Display", sans-serif;
 }
 
 h2 {
   color: black;
   text-align: left;
   font-size: 20px;
+  font-family: "Playfair Display", sans-serif;
 }
 
 p {
-  font-family: verdana;
+  font-family: "Playfair Display", sans-serif;
   font-size: 20px;
 }
 
@@ -53,7 +55,7 @@ tr {
 }
 
 tr:nth-child(even) {
-  background-color: #D6EEEE;
+  background-color: lightgrey;
 }
 
 /* generic page structure */
@@ -70,12 +72,12 @@ tr:nth-child(even) {
 }
 
 .colophon {
-  grid-row:1;
+  grid-row: 1;
   grid-column: span 5;
-  background-color: black;
   text-align: center;
-  color: white;
+  color: whitesmoke;
   background-color: rgb(103, 49, 71);
+  font-family: "Playfair Display", sans-serif;
 }
 
 .global-nav {
@@ -120,13 +122,12 @@ tr:nth-child(even) {
 .main-footer {
   grid-column: span 12;
   grid-row: 8; 
-  background-color: black;
+  background-color: lightgrey;
   text-align: center;
-  color: white; 
+  color: whitesmoke; 
 }
 
 .WHCard {
-
   grid-row: 5;
   grid-column: 2/9;
 }
