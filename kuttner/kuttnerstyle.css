@@ -61,6 +61,14 @@ tr:nth-child(even) {
   background-color: lightgrey;
 }
 
+a {
+  color: whitesmoke;
+}
+
+a:visited {
+  color: lightblue;
+}
+
 /* generic page structure */
 .grid {
   display: grid;
