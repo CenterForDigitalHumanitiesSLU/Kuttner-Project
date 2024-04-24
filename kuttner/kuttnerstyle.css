@@ -27,6 +27,7 @@ h2 {
 p {
   font-family: "Playfair Display", sans-serif;
   font-size: 20px;
+  text-align: left;
 }
 
 l {
@@ -66,7 +67,7 @@ tr:nth-child(even) {
   column-gap: 20px;
   row-gap: 20px;
   justify-content: space-evenly;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
 }
 
 
@@ -80,7 +81,7 @@ tr:nth-child(even) {
   color: whitesmoke;
   background-color: rgb(103, 49, 71);
   font-family: "Playfair Display", sans-serif;
-  line-height: 24px;
+  line-height: 35px;
   border-radius: 8px;
   border-color: black;
   padding-bottom: 2em;
@@ -91,7 +92,7 @@ tr:nth-child(even) {
 
 .global-nav {
   grid-row: 1;
-  grid-column: 6/11;
+  grid-column: 6/9;
   grid-auto-columns: 50px;
   position: -webkit-sticky;
   position: sticky;
@@ -111,7 +112,6 @@ tr:nth-child(even) {
 .about {
   grid-row: 4;
   grid-column: 3;
-  a href="aboutSKIMCL.html"
 }
 
 
