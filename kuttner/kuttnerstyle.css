@@ -84,22 +84,43 @@ a:visited {
 
 .colophon {
   grid-row: 1;
-  grid-column: span 12;
-  text-align: center;
+  grid-column: 2/11;
+  text-align: left;
   color: whitesmoke;
   background-color: rgb(103, 49, 71);
   font-family: "Playfair Display", sans-serif;
   line-height: 35px;
-  border-radius: 8px;
+/*  border-radius: 8px;
   border-color: black;
   padding-bottom: 2em;
-  padding-top: 2em;
+  padding-top: 2em;*/
   font-size: 30px;
-  border: 2px solid;
+  #border: 2px solid;
   display: flex;
 }
 
-.global-nav {
+.title {
+  width: 90%;
+}
+
+.banner {
+  grid-row: 2;
+  grid-column: 2/11;
+  text-align: center;
+  background-color: rgb(103, 49, 71);
+}
+
+.solid {
+  border-style: solid;
+  margin: 20px;
+  border-color: white;
+}
+
+.left .right {
+  width:50%;
+}
+
+/*.global-nav {
   grid-row: 1;
   grid-column: 6/9;
   grid-auto-columns: 50px;
@@ -110,38 +131,40 @@ a:visited {
   border-radius: 8px;
   z-index: 2;
   line-height: 1;
-}
+}*/
 
 .info {
   grid-row: 3;
-  grid-column: 3/9;  
+  grid-column: 3/10;
+  background-color: white;  
 }
 
 .about {
   grid-row: 4;
-  grid-column: 3/9;
+  grid-column: 3/10;
   display: flex;
 }
 
-/*.publications {
- grid-row: 4;
-  grid-column: 3/9;
+.buttonbox {
+  padding: 30px;
+  width: 33%;
+  text-align: center;
 }
 
-.onlineresources {
-  grid-row: 4;
-  grid-column: 3/9;
+.sectionbutton {
+  height: 200px;
+  text-align: center;
 }
-*/
+
 
 .research {
-  grid-row: 7;
-  grid-column: 3/9;
+  grid-row: 5;
+  grid-column: 3/10;
 }
 
 .main-footer {
   grid-column: span 12;
-  grid-row: 8; 
+  grid-row: 6; 
   background-color: lightgrey;
   text-align: center;
   color: whitesmoke; 
@@ -172,6 +195,7 @@ button {
 
 .navbar {
   overflow: hidden;
+    float: right;
 }
 
 .navbar a {
