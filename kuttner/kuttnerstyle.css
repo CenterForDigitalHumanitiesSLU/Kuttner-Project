@@ -76,6 +76,18 @@ a:visited {
   color: lightblue;
 }
 
+button {
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 #316831, 0 6px 20px 0 #316831;
+  width: 100%;
+  cursor: pointer;
+}
+
 /* generic page structure */
 .grid {
   display: grid;
@@ -118,7 +130,6 @@ a:visited {
 
 .navigation a:hover {
   background-color: #316831;
-
 }
 
 .navigation a {
@@ -183,10 +194,14 @@ a:visited {
   text-align: center;
 }
 
+.sectionbutton hover {
+  box-shadow: 0 8px 16px 0 #316831, 0 6px 20px 0 #316831;
+}
+
 .buttontext {
   background-color: #316831;
   color: whitesmoke;
-  padding: 5px;
+  padding: 8px;
 }
 
 .research {
@@ -207,17 +222,7 @@ a:visited {
   grid-column: 2/9;
 }
 
-button {
-  border: none;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 4px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  width: 100%;
-  cursor: pointer;
-}
+
 
 #myInput {
   background-image: url('css/searchicon.png'); /* Add a search icon to input */
