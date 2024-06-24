@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:22:09.276+02:00</Created>
+        <LastChange>2024-06-20T23:57:28.831+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733396" pageNr="58" tsid="173194538" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=TGXERQCHITIBLWUQFLRQWRFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EZRDCBCBDJZUITGUKYZVAXZF" imageId="54996268"/>
+    </Metadata>
+    <Page imageFilename="0058_p058.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="164,308 164,2327 3395,2327 3395,308"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3094,363 3138,375 3159,375 3183,355 3203,375 3255,367 3275,375 3316,359 3336,371 3384,367 3384,226 3364,226 3336,197 3308,197 3279,201 3231,242 3191,218 3171,230 3146,205 3114,234 3094,234"/>
+                <Baseline points="3115,349 3140,347 3165,346 3191,348 3216,348 3242,346 3267,347 3293,349 3318,349 3344,349 3369,349 3395,349"/>
+                <TextEquiv>
+                    <Unicode>0051</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="145,391 524,407 568,375 733,427 778,403 886,419 959,379 1112,403 1112,342 1068,318 931,351 786,310 145,318"/>
+                <Baseline points="167,385 214,385 262,385 310,386 358,387 406,385 453,385 501,385 549,385 597,385 645,385 692,387 740,388 788,388 836,385 884,385 931,385 979,388 1027,387 1075,386 1123,385"/>
+                <TextEquiv>
+                    <Unicode>a) fehlt von App. ab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="149,536 3150,532 2969,443 149,463"/>
+                <Baseline points="173,522 322,519 471,520 621,519 770,520 920,521 1069,522 1219,519 1368,522 1518,522 1667,521 1816,522 1966,522 2115,520 2265,522 2414,522 2564,522 2713,519 2863,519 3012,519 3162,522"/>
+                <TextEquiv>
+                    <Unicode>Die Zusammengehoerigkeit duerfte jetzt ausser Zweifel stehen (vgl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="149,604 3255,612 3255,540 149,552"/>
+                <Baseline points="173,591 327,595 482,597 636,597 791,597 945,598 1100,598 1254,597 1409,598 1563,591 1718,597 1873,594 2027,594 2182,594 2336,594 2491,592 2645,594 2800,594 2954,594 3109,594 3264,591"/>
+                <TextEquiv>
+                    <Unicode>auch Lohmann S. 73 f. zu JL. 13urs), so dass auf die Verweise auf de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="149,685 3380,685 3328,600 149,608"/>
+                <Baseline points="170,669 331,669 492,672 653,672 814,670 975,669 1136,669 1297,670 1458,670 1619,669 1781,669 1942,669 2103,669 2264,669 2425,666 2586,666 2747,664 2908,666 3069,666 3230,666 3392,666"/>
+                <TextEquiv>
+                    <Unicode>Stammdekretale in den systematischen Sammlungen verzichtet werden kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="141,757 3195,761 3267,685 141,697"/>
+                <Baseline points="164,746 319,746 475,746 630,746 786,746 942,743 1097,745 1253,743 1408,742 1564,740 1720,738 1875,738 2031,737 2186,740 2342,740 2498,739 2653,737 2809,739 2964,740 3120,739 3276,737"/>
+                <TextEquiv>
+                    <Unicode>Auch die Inskription ist ueberall gut verstaendlich erhalten (nur in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="149,822 2937,842 3300,830 3300,741 149,765"/>
+                <Baseline points="173,815 329,819 486,818 643,818 800,818 957,817 1113,818 1270,818 1427,818 1584,821 1741,818 1897,812 2054,812 2211,815 2368,815 2525,812 2681,812 2838,815 2995,815 3152,815 3309,806"/>
+                <TextEquiv>
+                    <Unicode>der Lips. einige Verlesungen). In den systematischen Sammlungen fehlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="153,898 3122,915 3122,826 153,826"/>
+                <Baseline points="176,887 323,890 471,893 619,887 767,889 915,890 1063,893 1210,893 1358,893 1506,890 1654,893 1802,890 1950,889 2098,890 2245,887 2393,890 2541,889 2689,887 2837,888 2985,890 3133,893"/>
+                <TextEquiv>
+                    <Unicode>bei (e) durchweg die Copula Porro, gelegentlich auch vero am Anfang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="161,967 266,983 314,979 326,967 355,991 407,991 419,979 443,979 443,906 415,906 395,890 383,902 371,894 346,902 322,923 298,906 266,906 258,915 161,910"/>
+                <Baseline points="182,958 209,960 236,962 263,963 290,964 317,964 344,966 371,967 398,967 425,964 453,961"/>
+                <TextEquiv>
+                    <Unicode>von (d).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

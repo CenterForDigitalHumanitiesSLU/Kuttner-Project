@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:22:44.839+02:00</Created>
+        <LastChange>2024-06-21T05:00:08.918+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733414" pageNr="70" tsid="173205277" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=SSNMEPIGRTWMZJLUJHLPCUBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ACIQRMZYZVCBQQVRTSURGXYD" imageId="54996286"/>
+    </Metadata>
+    <Page imageFilename="0070_p070.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230034" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_768"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="132,967 3441,967 3441,1329 132,1329"/>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:0;}">
+                <Coords points="198,1111 3389,1107 3227,992 996,1068 198,972"/>
+                <Baseline points="221,1102 379,1102 538,1099 697,1102 855,1108 1014,1102 1173,1099 1331,1105 1490,1099 1649,1102 1808,1099 1966,1099 2125,1099 2284,1098 2442,1096 2601,1096 2760,1099 2918,1099 3077,1099 3236,1099 3395,1096"/>
+                <TextEquiv>
+                    <Unicode>Alc.50. Par.I 55. Roff.133. Cl. 329. Chelt. 4,13. Cott. VI 36. App. 15, 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:1;}">
+                <Coords points="202,1183 2203,1187 2373,1167 2377,1091 1726,1147 206,1111"/>
+                <Baseline points="224,1173 332,1170 440,1173 548,1176 656,1175 764,1173 872,1174 980,1176 1088,1176 1196,1171 1304,1170 1412,1174 1520,1181 1628,1173 1736,1173 1844,1173 1952,1173 2060,1173 2168,1175 2276,1167 2384,1154"/>
+                <TextEquiv>
+                    <Unicode>Bb.44,14. Lips. 52, 21. Cass. 53, 14. Tann. VI 3,14 (44?).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:2;}">
+                <Coords points="2417,1175 3020,1179 3064,1218 3112,1179 3203,1210 3417,1199 3417,1095 3207,1107 3171,1143 3108,1103 2933,1103 2893,1139 2850,1103 2417,1107"/>
+                <Baseline points="2440,1167 2489,1167 2538,1170 2588,1170 2637,1171 2687,1172 2736,1172 2785,1175 2835,1176 2884,1176 2934,1170 2983,1170 3032,1170 3082,1173 3131,1172 3181,1170 3230,1172 3279,1175 3329,1174 3378,1173 3428,1167"/>
+                <TextEquiv>
+                    <Unicode>Brug.4,17. Frkf. 21,8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:3;}">
+                <Coords points="198,1290 2746,1258 2691,1175 198,1183"/>
+                <Baseline points="221,1242 347,1244 474,1247 601,1247 728,1247 854,1245 981,1245 1108,1242 1235,1247 1361,1248 1488,1249 1615,1257 1742,1248 1868,1250 1995,1248 2122,1246 2249,1245 2375,1242 2502,1245 2629,1245 2756,1245"/>
+                <TextEquiv>
+                    <Unicode>Rot.12, 1 ausradiert. A III 33,19. Sang. VII 61 (S. 298).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_768" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="145,138 3474,138 3474,987 145,987"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="242,468 254,468 270,480 286,480 302,492 325,492 341,306 318,302 310,306 294,298 278,306 258,302"/>
+                <Baseline points="268,427 294,427 320,424 346,421"/>
+                <TextEquiv>
+                    <Unicode>55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2425,357 2473,369 2734,357 2850,377 2850,242 2778,238 2758,258 2734,238 2711,258 2647,214 2588,270 2532,226 2492,250 2425,234"/>
+                <Baseline points="2446,322 2471,325 2497,328 2523,326 2549,324 2574,322 2600,322 2626,322 2652,322 2677,322 2703,322 2729,322 2755,322 2780,323 2806,325 2832,331 2858,340"/>
+                <TextEquiv>
+                    <Unicode>JL. 14158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3104,329 3123,329 3155,357 3187,345 3238,385 3270,357 3302,381 3318,381 3342,349 3409,361 3397,155 3362,151 3338,131 3318,131 3294,155 3274,139 3238,151 3215,131 3187,131 3163,151 3096,151"/>
+                <Baseline points="3127,325 3153,325 3179,326 3205,327 3232,328 3258,328 3284,331 3310,334 3337,334 3363,335 3389,337 3416,337"/>
+                <TextEquiv>
+                    <Unicode>0061</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="476,520 3231,520 3231,437 3052,385 1718,464 476,413"/>
+                <Baseline points="498,507 642,503 786,504 930,504 1074,504 1218,502 1362,506 1507,504 1651,504 1795,507 1939,504 2083,501 2227,501 2372,496 2516,501 2660,504 2804,504 2948,500 3092,498 3237,504"/>
+                <TextEquiv>
+                    <Unicode>Ad aures nostras pervenit, quod Robertus et Willelmus de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="202,627 3203,659 3302,524 202,540"/>
+                <Baseline points="224,615 378,616 532,618 687,615 841,613 996,618 1150,615 1304,615 1459,615 1613,615 1768,618 1922,618 2076,618 2231,618 2385,618 2540,618 2694,618 2848,618 3003,618 3157,615 3312,615"/>
+                <TextEquiv>
+                    <Unicode>Coctona ius patronatus eiusdem loci -.et canonicis de Stodleia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="337,722 572,770 746,726 1492,742 1524,730 1524,631 1468,663 1107,651 1076,683 798,655 750,698 651,635 337,679"/>
+                <Baseline points="358,722 416,725 475,725 534,725 593,725 652,723 711,725 769,726 828,728 887,728 946,725 1005,725 1064,725 1123,725 1181,724 1240,724 1299,725 1358,722 1417,722 1476,725 1535,725"/>
+                <TextEquiv>
+                    <Unicode>veritate tacita impetrate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="194,845 3175,857 3092,758 194,794"/>
+                <Baseline points="218,839 366,842 514,839 662,836 811,840 959,842 1107,842 1255,842 1404,839 1552,842 1700,842 1848,840 1997,841 2145,839 2293,840 2441,839 2590,839 2738,839 2886,839 3034,842 3183,839"/>
+                <TextEquiv>
+                    <Unicode>Alexander ep. s.s.D. venerabili fratri R. Winton(siensi) episcopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="198,976 250,968 286,992 321,964 389,996 417,968 516,952 579,984 623,984 643,960 857,964 857,905 698,873 655,905 564,889 532,921 484,877 198,873"/>
+                <Baseline points="221,949 253,949 285,949 318,950 350,952 383,952 415,952 447,952 480,952 512,952 545,951 577,949 609,949 642,950 674,952 707,952 739,952 771,952 804,952 836,952 869,952"/>
+                <TextEquiv>
+                    <Unicode>sal.et ap.ben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="2615,968 2647,980 2699,964 2790,976 2814,952 2877,949 2929,964 2973,1000 3040,972 3040,877 3008,865 2988,885 2905,877 2877,905 2834,877 2770,869 2754,881 2655,865 2615,877"/>
+                <Baseline points="2637,946 2662,948 2688,949 2714,949 2740,949 2765,949 2791,948 2817,946 2843,946 2868,946 2894,948 2920,950 2946,952 2971,953 2997,955 3023,951 3049,952"/>
+                <TextEquiv>
+                    <Unicode>(1174-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="101,1311 62,2342 3428,2342 3428,1331"/>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:0;}">
+                <Coords points="206,1413 3381,1425 3350,1270 2719,1357 206,1294"/>
+                <Baseline points="229,1388 387,1394 545,1394 703,1396 861,1391 1019,1391 1177,1391 1336,1391 1494,1388 1652,1391 1810,1391 1968,1391 2126,1391 2284,1388 2443,1389 2601,1388 2759,1394 2917,1394 3075,1392 3233,1391 3392,1403"/>
+                <TextEquiv>
+                    <Unicode>a) soele.; Namen sind meist verkuerzt: R. et W. b) so Alc.; hocton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:1;}">
+                <Coords points="325,1504 3338,1496 3338,1417 2984,1389 325,1401"/>
+                <Baseline points="349,1469 506,1469 664,1470 822,1469 980,1466 1138,1469 1296,1472 1453,1469 1611,1469 1769,1469 1927,1469 2085,1469 2243,1466 2400,1466 2558,1469 2716,1471 2874,1466 3032,1465 3190,1466 3348,1502"/>
+                <TextEquiv>
+                    <Unicode>Roff., Corrimata Cl., Cornia Chelt., Octona Cott.App.Tann.Frkf.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:2;}">
+                <Coords points="333,1556 3254,1560 3254,1488 3016,1472 333,1488"/>
+                <Baseline points="355,1538 500,1541 645,1541 791,1544 936,1544 1082,1541 1227,1544 1373,1544 1518,1541 1664,1540 1809,1543 1954,1541 2100,1544 2245,1543 2391,1542 2536,1544 2682,1544 2827,1540 2973,1541 3118,1540 3264,1553"/>
+                <TextEquiv>
+                    <Unicode>weitere Lesarten s. A not.3. c) Toleja Cl.Cott., Toldeia Frkf.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:3;}">
+                <Coords points="329,1623 3024,1627 2961,1548 329,1556"/>
+                <Baseline points="352,1615 493,1618 634,1617 775,1621 916,1621 1057,1621 1198,1616 1339,1620 1480,1615 1621,1618 1762,1617 1903,1618 2044,1618 2185,1618 2326,1618 2467,1615 2608,1615 2749,1615 2890,1615 3031,1615"/>
+                <TextEquiv>
+                    <Unicode>weitere s. A. not.5. d) Roff. und Brug. nur bis restitui.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:4;}">
+                <Coords points="310,1734 3056,1758 3028,1619 310,1627"/>
+                <Baseline points="331,1696 467,1696 604,1696 741,1693 878,1696 1015,1693 1151,1693 1288,1693 1425,1693 1562,1693 1699,1693 1835,1693 1972,1693 2109,1694 2246,1691 2383,1693 2519,1693 2656,1693 2793,1693 2930,1693 3067,1699"/>
+                <TextEquiv>
+                    <Unicode>Wolle Adr. Alc.; W. Winton.op. Roff.App.Frkf., Id. Wigorn.ep.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:5;}">
+                <Coords points="337,1790 2798,1786 2798,1703 337,1703"/>
+                <Baseline points="358,1768 480,1771 602,1773 725,1771 847,1772 970,1771 1092,1771 1215,1768 1337,1769 1460,1771 1582,1773 1704,1774 1827,1771 1949,1771 2072,1768 2194,1768 2317,1765 2439,1766 2562,1765 2684,1768 2807,1765"/>
+                <TextEquiv>
+                    <Unicode>Chelt.Cott.; Id.Cant.aep.Brug., nur Idem Bbgr. Tann.A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:6;}">
+                <Coords points="377,1941 3310,1949 3310,1798 377,1830"/>
+                <Baseline points="400,1914 546,1914 692,1914 838,1914 984,1914 1130,1914 1276,1915 1422,1916 1568,1914 1714,1917 1860,1917 2006,1914 2152,1911 2298,1914 2444,1911 2590,1911 2736,1914 2882,1914 3028,1914 3174,1911 3321,1908"/>
+                <TextEquiv>
+                    <Unicode>guten Lesarten der Alc. zeigen, dass es sich um die dem Augustine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:7;}">
+                <Coords points="258,2020 2988,2024 3235,1929 258,1933"/>
+                <Baseline points="280,1986 428,1986 576,1989 724,1989 872,1992 1020,1986 1168,1990 1317,1989 1465,1989 1613,1989 1761,1989 1909,1991 2057,1991 2205,1989 2354,1989 2502,1989 2650,1988 2798,1986 2946,1988 3094,1986 3243,1983"/>
+                <TextEquiv>
+                    <Unicode>priorat Studley (westlich von Warwick) gehoerige Kirche in Coughton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:8;}">
+                <Coords points="579,2103 619,2111 659,2096 675,2111 706,2099 778,2107 861,2096 857,2016 818,2016 770,1996 730,2012 698,1996 683,2008 643,2012 575,2000"/>
+                <Baseline points="603,2072 629,2072 656,2071 683,2070 710,2070 737,2072 764,2072 791,2072 818,2072 845,2073 872,2075"/>
+                <TextEquiv>
+                    <Unicode>Studle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:9;}">
+                <Coords points="889,2103 3068,2092 3068,2012 2858,1988 889,1984"/>
+                <Baseline points="910,2075 1018,2072 1126,2071 1234,2075 1343,2075 1451,2075 1559,2075 1668,2078 1776,2074 1884,2074 1993,2075 2101,2075 2209,2075 2317,2075 2426,2075 2534,2078 2642,2080 2751,2078 2859,2078 2967,2078 3076,2075"/>
+                <TextEquiv>
+                    <Unicode>1) handelt. Nach der vollen Adresse in Alc. ist d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:10;}">
+                <Coords points="921,2175 2893,2187 2893,2092 2826,2084 921,2099"/>
+                <Baseline points="943,2156 1041,2153 1139,2153 1237,2156 1335,2156 1433,2153 1531,2150 1629,2152 1727,2153 1825,2154 1923,2156 2021,2153 2119,2156 2217,2160 2315,2159 2413,2159 2511,2156 2609,2157 2707,2154 2805,2153 2903,2159"/>
+                <TextEquiv>
+                    <Unicode>schof Richard von Winchester (geweiht 1174 o)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:18.145+02:00</Created>
+        <LastChange>2024-06-21T06:09:53.701+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733486" pageNr="132" tsid="173206418" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=JAZWRPMCUDVQSLNDEWCZGJKH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YKKHOAWBAQUFYISRBKEQQJSE" imageId="54996357"/>
+    </Metadata>
+    <Page imageFilename="0132_p132.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231096" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="244,383 3381,215 3327,822 244,822"/>
+            <TextLine id="l" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3116,370 3338,390 3341,360 3119,340"/>
+                <Baseline points="3116,370 3338,390"/>
+                <TextEquiv>
+                    <Unicode>0109</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="227,447 3208,458 3085,381 227,374"/>
+                <Baseline points="247,433 292,436 337,436 382,436 427,436 471,436 516,436 561,439 606,439 651,439 695,436 740,439 785,439 830,436 875,439 919,439 964,436 1009,439 1054,439 1099,436 1143,436 1188,439 1233,439 1278,439 1323,442 1367,442 1412,439 1457,439 1502,439 1547,439 1591,442 1636,442 1681,439 1726,439 1771,442 1815,442 1860,439 1905,439 1950,439 1995,442 2039,442 2084,439 2129,439 2174,439 2219,439 2263,439 2308,439 2353,442 2398,439 2443,442 2487,442 2532,439 2577,442 2622,439 2667,439 2711,439 2756,439 2801,442 2846,442 2891,442 2935,442 2980,442 3025,445 3070,445 3115,442 3159,442 3204,439 3216,436"/>
+                <TextEquiv>
+                    <Unicode>Der Kleriker T. des Koenigs von Schottland ist m. W. bisher nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="227,512 3231,543 2954,443 227,462"/>
+                <Baseline points="250,504 295,507 340,504 385,504 430,504 474,504 519,507 564,507 609,507 654,507 698,507 743,507 788,507 833,510 878,507 922,507 967,507 1012,507 1057,507 1102,510 1146,510 1191,510 1236,510 1281,510 1326,510 1370,513 1415,510 1460,513 1505,510 1550,510 1594,510 1639,510 1684,510 1729,510 1774,510 1818,510 1863,510 1908,513 1953,513 1998,513 2042,513 2087,510 2132,510 2177,513 2222,513 2266,513 2311,510 2356,513 2401,513 2446,510 2490,513 2535,513 2580,513 2625,513 2670,513 2714,513 2759,513 2804,513 2849,516 2894,513 2938,513 2983,513 3028,516 3052,516 3073,516 3118,516 3162,519 3207,522 3240,528"/>
+                <TextEquiv>
+                    <Unicode>ermittelt; in Cott.VII 17 heisst es.. illustris quondam regis...,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="231,585 3023,608 2946,524 227,528"/>
+                <Baseline points="253,576 298,579 343,576 388,576 433,576 477,579 522,579 567,582 612,582 657,582 701,582 746,582 791,582 836,582 881,582 925,582 970,582 1015,582 1060,582 1105,585 1149,582 1194,582 1239,582 1284,582 1329,585 1373,585 1418,585 1463,585 1508,588 1553,588 1597,585 1642,585 1687,582 1732,582 1777,585 1821,588 1866,585 1911,582 1956,585 2001,585 2045,582 2090,585 2135,585 2180,585 2225,585 2269,585 2314,585 2359,585 2404,585 2449,585 2493,588 2538,588 2583,588 2628,588 2673,588 2717,588 2762,585 2807,588 2852,591 2897,591 2941,591 2986,588 3031,588"/>
+                <TextEquiv>
+                    <Unicode>was auf Koenig Malcolm I. (gest.1165) deuten wuerde. Der volle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="227,666 2677,670 2480,593 227,593"/>
+                <Baseline points="247,651 292,651 337,651 382,651 427,651 471,651 516,654 561,654 606,654 651,654 695,654 740,654 785,654 830,654 875,657 919,657 964,654 1009,654 1054,657 1099,654 1143,657 1188,657 1233,654 1278,654 1323,657 1367,657 1412,663 1457,660 1502,657 1547,654 1591,654 1636,654 1681,657 1726,657 1771,660 1815,660 1860,660 1905,660 1950,660 1995,660 2039,660 2084,660 2129,660 2174,660 2219,660 2263,660 2308,660 2353,660 2398,660 2443,663 2487,660 2532,660 2577,660 2622,663 2667,660 2685,663"/>
+                <TextEquiv>
+                    <Unicode> Name des Klerikers H. ist, wie der Auszug zeigt, Hugo;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="227,732 3316,759 3258,666 227,682"/>
+                <Baseline points="247,722 292,725 337,725 382,725 427,725 471,728 516,728 561,725 606,725 651,725 695,725 740,725 785,728 830,728 875,728 919,728 964,728 1009,725 1054,725 1099,725 1143,725 1188,725 1233,728 1278,725 1323,728 1367,728 1412,728 1457,731 1502,731 1547,731 1591,728 1636,731 1681,731 1726,731 1771,731 1815,728 1860,728 1905,731 1950,731 1995,731 2039,731 2084,731 2129,731 2174,731 2219,731 2263,731 2308,731 2353,731 2398,731 2443,731 2487,731 2532,731 2577,734 2622,734 2667,731 2711,734 2756,731 2801,731 2846,731 2891,734 2935,734 2980,734 3025,734 3070,734 3115,734 3159,734 3204,734 3249,737 3294,740 3327,743"/>
+                <TextEquiv>
+                    <Unicode>die Ortsnamen sind vielleicht Sandy und Potten oestlich von Bedford;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="223,805 2954,828 2765,739 223,751"/>
+                <Baseline points="244,800 289,800 334,797 379,800 424,800 468,800 513,803 558,803 603,803 648,803 692,803 737,800 782,800 827,800 872,800 916,800 961,803 1006,803 1051,803 1096,800 1140,803 1185,803 1230,803 1275,803 1320,803 1364,806 1409,806 1454,806 1499,806 1544,803 1588,803 1633,806 1678,809 1723,806 1768,806 1812,806 1857,806 1902,806 1947,806 1992,806 2036,806 2081,806 2126,806 2171,806 2216,806 2260,806 2305,809 2350,809 2395,809 2440,806 2484,809 2529,806 2574,809 2619,806 2664,806 2708,806 2753,806 2798,809 2843,809 2888,809 2932,812 2959,812"/>
+                <TextEquiv>
+                    <Unicode>zahlreiche weitere Korrupteln der Namen siehe bei Friedberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

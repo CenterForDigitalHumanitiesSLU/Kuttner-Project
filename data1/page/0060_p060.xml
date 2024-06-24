@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:22:10.226+02:00</Created>
+        <LastChange>2024-06-21T00:00:17.830+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733398" pageNr="60" tsid="173193835" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=RFQPDCXACRJKTXWZYHXSKAKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UGTUDYEKPVGEPELHQDSNKRZX" imageId="54996270"/>
+    </Metadata>
+    <Page imageFilename="0060_p060.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="8,290 8,2333 3437,2333 3437,290"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3058,356 3107,356 3127,335 3139,347 3175,347 3192,335 3212,347 3244,347 3260,335 3285,347 3337,347 3337,218 3143,210 3107,238 3091,226 3058,226"/>
+                <Baseline points="3079,325 3105,325 3131,326 3157,328 3184,328 3210,328 3236,326 3263,324 3289,323 3315,322 3342,322"/>
+                <TextEquiv>
+                    <Unicode>0052</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="311,428 3155,420 3155,351 2913,327 311,343"/>
+                <Baseline points="334,421 475,415 617,418 758,415 900,415 1041,415 1183,415 1324,415 1466,412 1607,412 1749,413 1891,414 2032,412 2174,412 2315,409 2457,409 2598,413 2740,409 2881,406 3023,406 3165,406"/>
+                <TextEquiv>
+                    <Unicode>Die Zusammengehoerigkeit wird durch Bridl. und Wig.gr., ferner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="182,505 2872,509 3014,428 182,440"/>
+                <Baseline points="203,489 344,489 485,489 626,486 767,486 908,486 1049,486 1190,486 1331,480 1472,484 1614,486 1755,486 1896,483 2037,483 2178,483 2319,483 2460,482 2601,482 2742,481 2883,483 3025,480"/>
+                <TextEquiv>
+                    <Unicode>durch die Aufeinanderfolge von (8) und (b) in Par. und Vict., wo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="186,578 3196,586 3240,493 186,509"/>
+                <Baseline points="209,561 361,562 513,561 665,561 817,561 969,561 1121,560 1273,561 1425,558 1577,558 1729,558 1881,558 2033,561 2185,558 2337,555 2489,555 2641,555 2793,555 2945,554 3097,554 3249,555"/>
+                <TextEquiv>
+                    <Unicode>allein das Datum erhalten ist, bewiesen. Hier ist auch die richtige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="190,654 3046,650 3107,574 190,578"/>
+                <Baseline points="212,639 357,639 502,636 647,636 792,636 937,636 1082,638 1228,636 1373,636 1518,636 1663,633 1808,633 1953,630 2098,633 2244,630 2389,632 2534,630 2679,630 2824,630 2969,630 3115,624"/>
+                <TextEquiv>
+                    <Unicode>Inskription an den Erzbischof (Richard) von Canterbury und seine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="182,731 3240,715 3240,634 182,659"/>
+                <Baseline points="206,710 358,710 510,707 662,707 814,708 966,707 1118,708 1271,707 1423,707 1575,707 1727,707 1879,703 2031,702 2183,704 2336,701 2488,701 2640,701 2792,701 2944,699 3096,698 3249,698"/>
+                <TextEquiv>
+                    <Unicode>Suffragene erhalten und die pluralistischen Anrede ueberall bewahrt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="186,800 3276,792 3276,723 186,731"/>
+                <Baseline points="209,785 362,784 516,783 670,783 824,782 978,782 1131,782 1285,782 1439,778 1593,782 1747,781 1900,779 2054,779 2208,779 2362,776 2516,776 2669,776 2823,774 2977,773 3131,773 3285,776"/>
+                <TextEquiv>
+                    <Unicode>waehrend die Unrichtigkeit der Inskription an den Bischof von Exeter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="182,873 3329,869 3329,792 182,804"/>
+                <Baseline points="206,854 362,859 518,857 675,857 831,854 987,855 1144,857 1300,854 1456,854 1613,854 1769,854 1925,851 2082,851 2238,851 2394,851 2551,851 2707,848 2863,848 3020,845 3176,848 3333,842"/>
+                <TextEquiv>
+                    <Unicode>in (b) schon durch die dort ebenfalls bewahrte pluralistische Fassung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="178,941 3325,873 178,889"/>
+                <Baseline points="200,928 356,930 513,928 670,928 827,928 984,930 1140,928 1297,926 1454,925 1611,925 1768,922 1924,925 2081,922 2238,922 2395,922 2552,921 2708,919 2865,919 3022,916 3179,916 3336,916"/>
+                <TextEquiv>
+                    <Unicode>dargetan wird. Tann.(und Frkf.) haben zu (b) noch richtig den Verweis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="182,1014 3188,1006 3228,929 182,953"/>
+                <Baseline points="203,1003 354,1003 506,1000 658,1003 810,1000 962,1000 1114,1000 1265,1000 1417,1000 1569,999 1721,1000 1873,997 2025,997 2177,997 2328,999 2480,991 2632,997 2784,994 2936,991 3088,990 3240,985"/>
+                <TextEquiv>
+                    <Unicode>auf die Stammdekretale und ihr Vorkommen in III 1 der Tann. bewahrt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="182,1087 2957,1095 3430,1075 3430,998 182,1026"/>
+                <Baseline points="206,1081 367,1081 529,1078 690,1078 852,1074 1013,1075 1175,1072 1336,1075 1498,1072 1659,1072 1821,1072 1983,1070 2144,1069 2306,1069 2467,1071 2629,1069 2790,1067 2952,1063 3113,1066 3275,1063 3437,1066"/>
+                <TextEquiv>
+                    <Unicode>(p.c. Ad aures supra de excessibus); das hat Sang. VII 25 abgeschrieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="182,1164 2816,1172 3321,1155 3325,1079 186,1091"/>
+                <Baseline points="206,1149 362,1149 519,1149 675,1151 832,1146 988,1149 1145,1149 1301,1146 1458,1146 1614,1146 1771,1146 1927,1146 2084,1143 2240,1143 2397,1140 2553,1137 2710,1137 2866,1136 3023,1137 3179,1137 3336,1134"/>
+                <TextEquiv>
+                    <Unicode>womit die Erwaegungen von Singer S. 291 Not. 62 hinfaellig werden. Da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="178,1236 3236,1228 3289,1147 178,1172"/>
+                <Baseline points="200,1224 354,1224 509,1224 664,1224 819,1224 974,1224 1129,1221 1283,1221 1438,1221 1593,1218 1748,1217 1903,1218 2058,1218 2213,1215 2367,1215 2522,1215 2677,1212 2832,1211 2987,1209 3142,1209 3297,1209"/>
+                <TextEquiv>
+                    <Unicode>seit der App. der Zusammenhang der beiden Kapitel geloest ist, fehlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="186,1301 3353,1313 3353,1212 186,1240"/>
+                <Baseline points="209,1296 366,1299 524,1296 681,1299 839,1298 996,1296 1154,1296 1311,1295 1469,1296 1626,1293 1784,1293 1942,1293 2099,1290 2257,1289 2414,1287 2572,1287 2729,1284 2887,1284 3044,1281 3202,1287 3360,1278"/>
+                <TextEquiv>
+                    <Unicode>von da an in (b) auch die Anknuepfung mit Ceterum und das Stueck (b).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="178,1386 3289,1370 3216,1285 178,1301"/>
+                <Baseline points="200,1367 354,1373 509,1370 664,1369 819,1365 974,1367 1129,1365 1283,1367 1438,1364 1593,1361 1748,1363 1903,1361 2058,1361 2213,1359 2367,1358 2522,1358 2677,1358 2832,1358 2987,1358 3142,1355 3297,1350"/>
+                <TextEquiv>
+                    <Unicode>beginnt mit Quia. Raimund hat den Schluss umgestaltet (Expl.: spoli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="174,1450 2105,1471 2279,1446 2279,1394 174,1398"/>
+                <Baseline points="194,1448 298,1448 403,1448 508,1448 613,1448 718,1445 822,1442 927,1445 1032,1445 1137,1442 1242,1442 1346,1442 1451,1439 1556,1439 1661,1436 1766,1439 1870,1439 1975,1439 2080,1436 2185,1436 2290,1433"/>
+                <TextEquiv>
+                    <Unicode>ando). In Brug, beginnt (b) mit Ceterum quod.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -2,36 +2,32 @@
 <html lang="en">
 
 <head>
-
-<title>Kuttner Collection</title>
-<meta charset="UTF-8">
-<link rel="stylesheet" href="kuttnerstyle.css">
-
+	<title>Kuttner Collection</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="kuttnerstyle.css">
 </head>
 
 
 <body>
-
 	<div class="grid">
 
 		<div class="colophon">
 			Stephan Kuttner Institute of Medieval Canon Law (SKIMCL)
 		</div>
 
-		<nav class="global-nav" id="global-nav">
-			<div class="navbar" id="navbar">
-			    <div class="subnav">
-			      <button class="subnavbtn">Menu<i class="fas fa-caret-down"></i></button>
-			      <div class="subnav-content">
-			      	<a href="index_v2.html">Home</a>
-			        <a href="aboutSKIMCL.html">About</a>
-			        <a href="publications.html">Publications</a>
-			        <a href="onlineresources.html">Online Resources</a>
-			      </div>
-		    </div>			
+		<nav class="navigation">
+			<ul>
+			  <li><a href="index_v4.html">Home</a></li>
+			  <li><a href="aboutSKIMCL.html">About</li>
+			  <li><a href="publications.html">Publications</a></li>
+			  <li><a href="onlineresources.html">Online Resources</a></li>
+			</ul>
 		</nav>
 
+
 		<div class="info">
+
+
 			<div>
 				<h1>Walther Holtzmann Card Files</h1>
 				<p>
@@ -41,60 +37,49 @@
 			</div>
 		</div>
 
-		<div class="WHCard"> 
-			<div> <table> 
-				<tr>
-  				<th>KI Nummer</th>
-  				<th>WH Nummer</th>
-  				<th>JL Nummer</th>
-  				<th>Incipit</th>
-  				<th>Umfang des Entrags</th>
-  				<th>Seite</th>
-  				<th>Bemerkung</th>
-  				<th>Bild</th>
-				  </tr>
-				  <tr>
-				  <td>1</td>
-				  <td>1</td>
-				  <td>12530</td>
-				  <td>A memoria nostra non excidit - debeat habere.</td>
-				  <td>2</td>
-				  <td>recto</td>
-				  <td> </td>
-				  <td>Bild</td>
-				  </tr>
-
-				  <tr>
-				  <td>1</td>
-				  <td>1v</td>
-				  <td> </td>
-				  <td>A memoria nostra non excidit - debeat habere.</td>
-				  <td>2</td>
-				  <td>verso</td>
-				  <td> </td>
-				  <td>Bild</td>
-				  </tr>
-				  
-				  <tr>
-				  <td>2</td>
-				  <td>2</td>
-				  <td>16646</td>
-				  <td>A nobis est ex parte ecclesie vestre - meta prefigi.</td>
-				  <td>1</td>
-				  <td>recto</td>
-				  <td> </td>
-				  <td>Bild</td>
-				  </tr>
-
-
-			</table>
-
+		<div class="whcard">
+			<div>
+				<select name="tablevalue" id="tablevalue">
+				  <option value="0">KI Number</option>
+				  <option value="1">WH Number</option>
+				  <option value="2">JL Number</option>
+				  <option value="3">Incipit</option>
+  				  <option value="4">Text2</option>
+  				  <option value="6">References</option>
+				</select>
+				<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for...">
+			</div> 
+			<div> 
+				<table id="myTable"> 
+					<tr>
+		  				<th>KI Nummer</th>
+		  				<th>WH Nummer</th>
+		  				<th>JL Nummer</th>
+		  				<th>Incipit</th>
+		  				<th>Text2</th>
+		  				<th>Cards</th>
+		  				<th>References</th>
+  					</tr>
+					<tr>
+						<td>1</td>
+						<td>1</td>
+						<td>12530</td>
+						<td>A memoria nostra non excidit</td>
+						<td>debeat habere</td>
+						<td><a href="images/whr0001.gif" target="_blank">Card</a> <a href="images/whv0001.gif" target="_blank">Card</a></td>
+						<td>Chelt. 19,9. Cott.VII 55. Pet. III 30. App. 50, 37. Bb. 47,3. Lips. 56,3. Cass. 55, 3. Tann.VI 7,3. Sang.VII 143(S.310). Abrinc.VII 14,3 (S.385). Gilb. II 10,1. Fuld. II 13,1, B II 9, 1. Clar. II 36. Decr. II 16,1.</td>
+					</tr>  
+					<tr>
+						<td>2</td>
+						<td>2</td>
+						<td>16646</td>
+						<td>A nobis est ex parte ecclesie vestre</td>
+						<td>meta prefigi</td>
+						<td><a href="images/whr0002.gif" target="_blank">Card2</a></td>
+						<td>Seg.27, Dun.IV 177. Clar. II 42. Crac.43=67. Rot. 1,56. Luc.12. Hal.18. Mon. 15=56. Lamb. 19. Gilb. IV 12,4. Fuld. IV 13,3. B. IV 12, 4. Decr. IV 18,2</td>
+					</tr>
+				</table>
 			</div>
-
-
-
-
-
 		</div>
 
 
@@ -109,6 +94,38 @@
 
 
 </body>
+
+
+
+<!-- Borrowed from: https://www.w3schools.com/howto/howto_js_filter_table.asp -->
+
+<script>
+
+function myFunction() {
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue, selected;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  selected = document.getElementById("tablevalue");
+  console.log(selected)
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[selected.value];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
 
 
 </html> 

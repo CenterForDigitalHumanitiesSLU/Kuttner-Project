@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:42.624+02:00</Created>
+        <LastChange>2024-06-13T20:56:46.752+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733385" pageNr="48" tsid="171981375" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=XHFFGNPAGKOMLDXJKDFQCBNP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XBLIJSUUDWKUPDBADBOKDENM" imageId="54996257"/>
+    </Metadata>
+    <Page imageFilename="0048_p048.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229542" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_398"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="164,994 3336,994 3336,1178 164,1178"/>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:0;}">
+                <Coords points="186,1124 2706,1167 2765,1008 186,1044"/>
+                <Baseline points="206,1105 334,1111 462,1114 590,1111 719,1108 847,1108 975,1109 1103,1111 1232,1105 1360,1103 1488,1103 1616,1102 1745,1104 1873,1099 2001,1102 2129,1102 2258,1097 2386,1099 2514,1102 2642,1101 2771,1117"/>
+                <TextEquiv>
+                    <Unicode>Rot. 17, 16. Gilb. V 7, 2. Fuld. V 14,7. B.V 9,2. Decr. V 20, 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_398" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="92,145 3434,145 3434,994 92,994"/>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="228,499 278,502 379,439 425,443 443,432 471,443 502,422 520,425 531,330 513,327 495,341 478,320 457,316 436,334 404,330 344,376 295,355 242,358"/>
+                <Baseline points="256,424 281,423 306,426 331,426 356,424 381,422 406,418 431,406 456,408 481,409 506,409 531,409"/>
+                <TextEquiv>
+                    <Unicode>39</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:1;}">
+                <Coords points="2319,387 2481,387 2495,401 2590,387 2653,422 2692,383 2755,387 2751,246 2632,221 2590,264 2361,267 2340,292 2316,292"/>
+                <Baseline points="2338,346 2363,349 2388,352 2413,354 2438,355 2463,355 2488,355 2513,355 2538,356 2564,358 2589,360 2614,361 2639,359 2664,357 2689,356 2714,355 2739,355 2765,355"/>
+                <TextEquiv>
+                    <Unicode>JL. 15752</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3078,372 3120,379 3148,348 3169,369 3219,362 3243,387 3264,387 3296,355 3373,358 3370,148 3148,144 3075,155"/>
+                <Baseline points="3097,331 3123,333 3149,334 3175,336 3201,336 3227,334 3253,335 3279,337 3305,337 3331,337 3357,337 3383,334"/>
+                <TextEquiv>
+                    <Unicode>0043</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="506,520 3071,513 3071,436 2892,408 506,432"/>
+                <Baseline points="525,516 652,510 780,510 908,509 1035,507 1163,507 1291,507 1418,504 1546,501 1674,503 1802,501 1929,501 2057,501 2185,498 2312,497 2440,497 2568,498 2695,498 2823,498 2951,495 3079,495"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram te significante pervenit, quod cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="200,657 3018,625 3018,527 200,569"/>
+                <Baseline points="218,627 358,627 499,624 639,624 780,623 920,621 1061,621 1201,618 1342,618 1482,618 1623,618 1763,615 1904,615 2044,612 2185,612 2325,611 2466,611 2606,612 2747,610 2887,606 3028,603"/>
+                <TextEquiv>
+                    <Unicode>quosdam perversos clericos, qui falsaverunt sigillum carissimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="190,745 2857,755 2811,657 190,661"/>
+                <Baseline points="209,737 341,737 474,737 606,734 739,734 872,734 1004,734 1137,734 1269,729 1402,729 1535,730 1667,728 1800,728 1932,725 2065,723 2198,725 2330,725 2463,722 2595,722 2728,722 2861,719"/>
+                <TextEquiv>
+                    <Unicode>in Christo filii nostri Philippi illustris regis Francorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="190,857 432,871 502,847 587,882 808,854 984,868 984,812 826,777 538,791 488,822 422,780 190,794"/>
+                <Baseline points="209,851 248,851 287,851 326,853 365,853 404,851 443,850 482,848 521,845 560,850 600,851 639,849 678,847 717,846 756,847 795,845 834,845 873,845 912,845 951,847 991,851"/>
+                <TextEquiv>
+                    <Unicode>abire permittas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="183,980 306,970 425,991 552,956 583,980 777,970 777,928 741,924 703,885 671,900 590,885 545,917 485,885 467,903 313,889 267,903 232,885 183,900"/>
+                <Baseline points="203,958 233,960 263,961 294,961 324,961 355,961 385,961 416,961 446,961 477,960 507,958 538,958 568,958 599,958 629,958 660,957 690,955 721,955 751,952 782,946"/>
+                <TextEquiv>
+                    <Unicode>Urbanus III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="822,959 2154,977 2242,959 2242,910 1051,875 994,924 896,892 822,935"/>
+                <Baseline points="842,958 912,955 983,958 1053,958 1124,955 1194,955 1265,955 1335,953 1406,952 1476,953 1547,952 1617,952 1688,952 1758,952 1829,952 1899,946 1970,948 2040,949 2111,946 2181,946 2252,946"/>
+                <TextEquiv>
+                    <Unicode>W. Rothomagansi archiepiscopo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:9;}">
+                <Coords points="2649,959 2688,973 2713,959 2800,966 2829,987 2857,966 2895,970 2923,945 2994,966 3075,959 3071,871 3039,864 2646,871"/>
+                <Baseline points="2670,949 2695,946 2721,943 2747,943 2773,942 2798,940 2824,937 2850,934 2876,934 2901,935 2927,938 2953,942 2979,945 3004,949 3030,952 3056,958 3082,961"/>
+                <TextEquiv>
+                    <Unicode>(1185-87)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="203,1171 203,2343 3383,2343 3350,1151"/>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:0;}">
+                <Coords points="200,1307 492,1265 587,1314 640,1272 815,1258 1297,1268 1297,1191 1251,1177 1188,1212 1145,1174 1096,1212 921,1177 840,1230 780,1184 524,1216 337,1163 200,1177"/>
+                <Baseline points="218,1260 272,1260 326,1260 381,1262 435,1260 489,1260 544,1260 598,1259 652,1258 707,1258 761,1257 815,1257 870,1255 924,1257 978,1257 1033,1257 1087,1257 1141,1255 1196,1255 1250,1254 1305,1257"/>
+                <TextEquiv>
+                    <Unicode>a) nur soweit Gilb.B.X.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:1;}">
+                <Coords points="183,1441 397,1437 555,1504 854,1409 991,1472 1058,1413 1841,1427 1785,1328 1441,1374 183,1318"/>
+                <Baseline points="203,1409 285,1409 367,1409 450,1409 532,1407 615,1406 697,1406 779,1406 862,1406 944,1406 1027,1406 1109,1406 1191,1403 1274,1403 1356,1403 1439,1403 1521,1400 1603,1399 1686,1399 1768,1397 1851,1400"/>
+                <TextEquiv>
+                    <Unicode>Adresse bisher nur aus Rot. bekannt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

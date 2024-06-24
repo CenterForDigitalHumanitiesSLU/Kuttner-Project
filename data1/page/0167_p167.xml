@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:52.685+02:00</Created>
+        <LastChange>2024-05-04T19:32:57.587+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733560" pageNr="167" tsid="163766494" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=MPIHGUKXPAQUPIXVJHOCJSSL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPNVXEEMARXBZTGHRIXWNZUD" imageId="54996431"/>
+    </Metadata>
+    <Page imageFilename="0167_p167.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231661" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="307,266 3404,266 3404,792 307,792"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="286,360 3327,371 3397,232 286,279"/>
+                <Baseline points="307,316 352,328 397,334 442,340 486,343 531,343 576,343 621,343 666,343 710,343 755,340 800,340 845,343 890,343 934,343 979,343 1024,343 1069,346 1114,346 1158,343 1203,343 1248,343 1293,340 1338,340 1382,340 1427,340 1472,340 1517,343 1562,343 1606,343 1651,343 1696,343 1741,343 1786,343 1830,343 1875,343 1920,340 1965,340 2010,340 2054,340 2099,340 2144,343 2189,340 2234,340 2278,343 2323,343 2368,343 2413,340 2458,343 2502,340 2547,343 2592,340 2637,340 2682,340 2726,340 2771,340 2816,340 2861,343 2906,343 2950,340 2995,340 3040,340 3085,340 3130,340 3174,343 3219,343 3264,343 3309,343 3354,340 3401,345"/>
+                <TextEquiv>
+                    <Unicode>346 n.158). Der Abt Adam von Evesham ist aber bei diesem Absch 1136</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="290,429 3080,429 2871,348 290,364"/>
+                <Baseline points="310,412 313,415 358,415 403,415 448,412 492,415 537,412 582,412 627,412 672,415 716,415 761,415 806,412 851,415 896,415 940,415 985,415 1030,415 1075,415 1120,415 1164,412 1209,415 1254,415 1299,418 1344,415 1388,415 1433,415 1478,415 1523,415 1568,415 1612,418 1657,418 1702,418 1747,415 1792,415 1836,415 1881,415 1926,415 1971,415 2016,415 2060,412 2105,412 2150,412 2195,415 2240,412 2284,415 2329,415 2374,415 2419,415 2464,415 2508,415 2553,412 2598,412 2643,412 2688,412 2732,412 2777,412 2822,412 2867,412 2912,412 2956,412 3001,412 3046,412 3091,409"/>
+                <TextEquiv>
+                    <Unicode>nicht mehr beteiligt gewesen, doch muss das Stueck an mehrere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="286,499 3331,495 3234,402 286,433"/>
+                <Baseline points="307,486 352,489 397,486 442,486 486,486 531,486 576,486 621,486 666,486 710,486 755,486 800,486 845,486 890,489 934,486 979,486 1024,489 1069,486 1114,486 1158,486 1203,486 1248,486 1293,489 1338,486 1382,486 1427,486 1472,486 1517,486 1562,486 1606,486 1651,486 1696,486 1741,489 1786,486 1830,486 1875,486 1920,486 1965,486 2010,486 2054,483 2099,486 2144,486 2189,486 2234,486 2278,486 2323,483 2368,483 2413,486 2458,483 2502,486 2547,483 2592,480 2637,483 2682,483 2726,483 2771,483 2816,486 2861,483 2906,483 2950,483 2995,483 3040,483 3085,483 3130,483 3174,483 3219,483 3264,483 3309,486 3342,486"/>
+                <TextEquiv>
+                    <Unicode>Richter gegangen sein, da es pluralisch abgefasst ist (..audiatis..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="298,580 3393,576 3393,460 298,503"/>
+                <Baseline points="319,555 364,561 409,561 453,558 498,558 543,558 588,558 633,558 677,561 722,558 767,558 812,558 857,558 901,558 946,561 991,561 1036,558 1081,558 1126,558 1170,558 1215,561 1260,558 1305,558 1350,561 1394,558 1439,558 1484,558 1529,558 1574,558 1618,561 1663,561 1708,558 1753,558 1798,558 1842,561 1887,558 1932,558 1977,558 2022,561 2066,561 2111,558 2156,558 2201,558 2246,558 2290,558 2335,558 2380,558 2425,558 2470,558 2514,558 2559,558 2604,558 2649,558 2694,555 2738,555 2783,558 2828,558 2873,558 2918,558 2962,555 3007,555 3052,555 3097,555 3142,555 3186,558 3231,558 3276,558 3321,555 3366,555 3404,558"/>
+                <TextEquiv>
+                    <Unicode>provisuri). Der Ausgangspunkt fuer die Datierung ist der Amtsantritt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1261,634 3157,654 3350,642 3350,569 1261,607"/>
+                <Baseline points="1281,633 1326,624 1370,627 1415,630 1442,636 1478,633 1523,630 1568,630 1612,630 1657,630 1702,633 1747,630 1792,630 1836,633 1881,633 1926,633 1971,633 2016,636 2060,633 2105,633 2150,633 2195,630 2240,633 2284,630 2329,630 2374,630 2419,630 2464,633 2508,636 2553,633 2598,630 2643,630 2688,627 2732,630 2777,630 2822,630 2867,630 2912,630 2956,630 3001,630 3046,630 3091,630 3136,630 3180,630 3225,633 3270,630 3315,630 3360,633"/>
+                <TextEquiv>
+                    <Unicode>- Dass das bei JL. hierzu gerechnete Kapitel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="290,650 1207,650 1207,588 1114,573 631,580 607,604 290,580"/>
+                <Baseline points="313,633 316,633 361,636 406,633 450,630 495,633 540,633 585,633 630,630 675,633 719,633 764,630 809,633 854,633 899,633 943,633 988,633 1033,633 1078,633 1123,633 1167,633 1215,632"/>
+                <TextEquiv>
+                    <Unicode>Rogers von Worcester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="325,716 3350,720 3269,638 325,646"/>
+                <Baseline points="346,704 358,707 403,707 448,707 492,707 537,707 582,704 627,707 672,707 716,707 761,707 806,707 851,707 896,704 940,707 985,704 1030,704 1075,707 1120,707 1164,707 1209,707 1254,704 1299,704 1344,704 1388,707 1433,707 1478,707 1523,707 1568,707 1612,704 1657,704 1702,704 1747,704 1792,704 1836,707 1881,707 1926,704 1971,707 2016,707 2060,707 2105,707 2150,707 2195,707 2240,704 2284,707 2329,704 2374,704 2419,704 2464,704 2508,704 2553,704 2598,701 2643,704 2688,704 2732,701 2777,701 2822,701 2867,701 2912,701 2956,704 3001,704 3046,704 3091,701 3136,701 3180,704 3225,704 3270,704 3315,704 3360,701"/>
+                <TextEquiv>
+                    <Unicode>'Archidiaconis' hiermit nichts zu tun hat, ist dort bereits bemerkt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="286,785 317,797 619,801 619,743 588,743 569,727 286,727"/>
+                <Baseline points="307,782 313,779 358,779 403,779 448,779 492,782 537,782 582,782 627,779"/>
+                <TextEquiv>
+                    <Unicode>worden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

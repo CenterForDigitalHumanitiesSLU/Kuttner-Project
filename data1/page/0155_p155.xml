@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:49.647+02:00</Created>
+        <LastChange>2024-06-21T06:27:18.918+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733525" pageNr="155" tsid="173206999" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=QPLFZEMFKNDKFRYJMGJPYBGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VGKDPZAMCXLCIBMUARCPHDEQ" imageId="54996396"/>
+    </Metadata>
+    <Page imageFilename="0155_p155.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231365" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_633"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="124,779 3384,779 3384,990 124,990"/>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="281,923 2315,927 2319,804 281,858"/>
+                <Baseline points="301,910 304,913 349,913 394,913 439,913 483,910 528,910 573,913 618,910 663,913 707,910 752,907 797,907 842,904 887,904 931,907 976,907 1021,904 1066,904 1111,904 1155,904 1200,907 1245,904 1290,904 1335,901 1379,901 1424,899 1469,899 1514,899 1559,896 1603,896 1648,896 1693,896 1738,893 1783,893 1827,896 1872,896 1917,893 1962,893 2007,893 2051,893 2096,890 2141,890 2186,893 2231,896 2275,899 2320,901"/>
+                <TextEquiv>
+                    <Unicode>A II 18,10. Sang.VI 7,19(S.268). Decr. II 26,7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_633" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="124,36 3428,36 3428,801 124,801"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="273,477 292,477 308,492 392,488 404,500 454,488 450,388 400,408 381,392 269,392"/>
+                <Baseline points="295,468 340,471 385,471 430,471 462,477"/>
+                <TextEquiv>
+                    <Unicode>113</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="2054,342 2477,335 2477,208 2427,238 2392,212 2323,212 2304,231 2254,231 2219,265 2177,262 2123,212 2054,242"/>
+                <Baseline points="2075,304 2084,307 2129,307 2174,304 2219,304 2263,307 2308,310 2353,310 2398,310 2443,307 2487,301"/>
+                <TextEquiv>
+                    <Unicode>JL. 13510</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3073,338 3219,350 3231,338 3289,342 3312,323 3323,335 3362,338 3365,204 3308,212 3200,204 3173,227 3139,204 3081,219"/>
+                <Baseline points="3100,325 3142,325 3186,328 3231,322 3276,322 3321,319 3366,307"/>
+                <TextEquiv>
+                    <Unicode>0127</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="696,554 2808,546 3165,527 3169,431 696,465"/>
+                <Baseline points="716,543 755,540 800,540 845,537 890,537 934,537 979,537 1024,537 1069,537 1114,537 1158,534 1203,534 1248,534 1293,534 1338,531 1382,531 1427,531 1472,528 1517,531 1562,531 1606,528 1651,525 1696,528 1741,525 1786,525 1830,525 1875,522 1920,525 1965,522 2010,522 2054,522 2099,519 2144,519 2189,519 2234,519 2278,519 2323,519 2368,519 2413,519 2458,516 2502,516 2547,516 2592,519 2637,516 2682,516 2726,516 2771,513 2816,516 2861,513 2906,510 2950,510 2995,510 3040,507 3085,507 3130,504 3174,507"/>
+                <TextEquiv>
+                    <Unicode>Causam que inter dilectum filium nostrum J. Reginensem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="285,662 3369,585 285,615"/>
+                <Baseline points="304,648 334,657 379,654 424,654 468,654 513,654 558,651 603,651 648,651 692,651 737,651 782,651 827,648 872,645 916,645 961,645 1006,645 1051,645 1096,645 1140,645 1185,642 1230,642 1275,642 1320,639 1364,639 1409,639 1454,639 1499,639 1544,639 1588,639 1633,636 1678,636 1723,636 1768,636 1812,636 1857,636 1902,636 1947,633 1992,633 2036,633 2081,630 2126,630 2171,630 2216,630 2260,627 2305,624 2350,618 2395,621 2440,624 2484,627 2529,627 2574,627 2619,627 2664,627 2708,627 2753,624 2798,624 2843,624 2888,621 2932,621 2977,621 3022,621 3067,618 3112,618 3156,618 3201,618 3246,618 3291,615 3336,618 3380,621"/>
+                <TextEquiv>
+                    <Unicode>archidiaconum et nobilem virum G. de Baisio - prescribere ratione.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="285,785 1019,750 1127,796 1431,765 1431,708 1381,692 1027,708 973,658 827,700 554,688 519,719 288,696"/>
+                <Baseline points="307,767 319,764 364,764 409,761 453,761 498,761 543,761 588,761 633,761 677,761 722,758 767,758 812,755 857,752 901,752 946,749 991,749 1036,752 1081,752 1126,752 1170,755 1215,755 1260,755 1305,752 1350,752 1394,749 1439,749"/>
+                <TextEquiv>
+                    <Unicode>Idem Parmensi episcopo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="2865,738 2885,738 2912,762 2942,742 3042,750 3058,738 3069,750 3104,742 3115,754 3150,750 3150,658 3027,658 3012,673 2996,658 2969,673 2954,658 2904,658 2889,673 2865,673"/>
+                <Baseline points="2888,734 2932,734 2977,731 3022,734 3067,734 3112,734 3156,734 3159,734"/>
+                <TextEquiv>
+                    <Unicode>(1179)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="5,986 3373,957 3380,2330 5,2330"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="288,1065 369,1088 415,1058 550,1088 804,1073 827,1050 1112,1069 1112,1004 1035,981 981,1000 915,977 873,1019 788,981 758,1004 677,985 288,1004"/>
+                <Baseline points="310,1057 316,1057 361,1057 406,1054 450,1057 495,1057 540,1057 585,1057 630,1057 675,1057 719,1054 764,1054 809,1051 854,1048 899,1048 943,1051 988,1051 1033,1054 1078,1054 1123,1054"/>
+                <TextEquiv>
+                    <Unicode>a) Papiensi Sang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:1;}">
+                <Coords points="292,1208 2962,1196 3292,1119 292,1135"/>
+                <Baseline points="313,1200 343,1203 388,1203 433,1203 477,1203 522,1203 567,1206 612,1203 657,1200 701,1197 746,1194 791,1188 836,1194 881,1197 925,1197 970,1197 1015,1197 1060,1194 1105,1191 1149,1197 1194,1191 1239,1191 1284,1191 1329,1191 1373,1188 1418,1188 1463,1188 1508,1188 1553,1188 1597,1185 1642,1188 1687,1185 1732,1185 1777,1185 1821,1185 1866,1185 1911,1182 1956,1182 2001,1182 2045,1179 2090,1179 2135,1176 2180,1176 2225,1176 2269,1176 2314,1176 2359,1176 2404,1173 2449,1173 2493,1173 2538,1170 2583,1170 2628,1170 2673,1170 2717,1167 2762,1167 2807,1164 2852,1167 2897,1164 2941,1161 2986,1164 3031,1164 3076,1164 3121,1164 3165,1161 3210,1161 3255,1152 3300,1149"/>
+                <TextEquiv>
+                    <Unicode>Vgl. IP. V 372 n. 4, wo (wie bei JE.) die von Friedberg vorgeschla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:2;}">
+                <Coords points="292,1296 3154,1269 3250,1177 292,1223"/>
+                <Baseline points="313,1278 346,1278 391,1281 436,1281 480,1278 525,1278 570,1275 615,1275 660,1275 704,1272 749,1272 794,1272 839,1272 884,1275 928,1272 973,1266 1018,1269 1063,1272 1108,1269 1152,1269 1197,1269 1242,1269 1287,1266 1332,1266 1376,1263 1421,1263 1466,1263 1511,1263 1556,1263 1600,1260 1645,1260 1690,1260 1735,1260 1780,1260 1824,1257 1869,1257 1914,1257 1959,1254 2004,1254 2048,1254 2093,1254 2138,1254 2183,1251 2228,1251 2272,1248 2317,1248 2362,1248 2407,1248 2452,1248 2496,1245 2541,1245 2586,1245 2631,1242 2676,1242 2720,1242 2765,1239 2810,1239 2855,1239 2900,1242 2944,1239 2989,1239 3034,1239 3079,1242 3124,1242 3168,1239 3213,1236 3258,1233"/>
+                <TextEquiv>
+                    <Unicode>gene Datierung angenommen ist. Ein Archidiakon Jacobus von Reggio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;}">
+                <Coords points="312,1373 2458,1346 2519,1269 312,1327"/>
+                <Baseline points="334,1358 379,1352 424,1352 468,1352 513,1352 558,1352 603,1350 648,1350 692,1347 737,1350 782,1347 827,1347 872,1347 916,1344 961,1344 1006,1344 1051,1344 1096,1344 1140,1344 1185,1341 1230,1344 1275,1341 1320,1341 1364,1338 1409,1338 1454,1338 1499,1335 1544,1335 1588,1332 1633,1335 1678,1335 1723,1335 1768,1335 1812,1335 1857,1332 1902,1335 1947,1332 1992,1329 2036,1329 2081,1329 2126,1329 2171,1326 2216,1323 2260,1323 2305,1320 2350,1323 2395,1323 2440,1323 2484,1323 2529,1323"/>
+                <TextEquiv>
+                    <Unicode>(Emilia) erhaelt 1178 ein Privileg JP.V 372 n. 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

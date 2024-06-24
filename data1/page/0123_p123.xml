@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:12.931+02:00</Created>
+        <LastChange>2024-06-21T06:00:32.436+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733476" pageNr="123" tsid="173206125" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=MNFLADHYLITJEBGRHOBRZRMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQBYXMXFNQIEFPCTYESWAWMJ" imageId="54996348"/>
+    </Metadata>
+    <Page imageFilename="0123_p123.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="8,230 3488,230 3488,2327 8,2327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3017,307 3056,299 3067,311 3126,315 3141,299 3184,315 3203,299 3227,319 3246,319 3269,299 3293,299 3293,175 3231,171 3203,198 3164,171 3102,171 3079,194 3017,179"/>
+                <Baseline points="3039,285 3079,289 3124,292 3168,292 3213,292 3258,286 3303,280"/>
+                <TextEquiv>
+                    <Unicode>0103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="202,420 1302,424 1326,334 202,346"/>
+                <Baseline points="224,403 268,406 313,406 358,406 403,406 448,406 492,406 537,406 582,406 627,409 672,406 716,409 761,406 806,409 851,409 896,406 940,406 985,409 1030,409 1075,409 1120,412 1164,406 1209,409 1254,409 1299,406 1332,409"/>
+                <TextEquiv>
+                    <Unicode>Die Zusammengehoerigkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1407,424 3180,424 3180,338 3013,381 1407,338"/>
+                <Baseline points="1427,409 1472,409 1517,409 1562,409 1606,412 1651,409 1696,409 1741,409 1786,409 1830,409 1875,409 1920,409 1965,409 2010,409 2054,409 2099,409 2144,412 2189,409 2234,409 2278,409 2323,409 2368,409 2413,409 2458,409 2502,409 2547,409 2592,409 2637,409 2682,409 2726,409 2771,409 2816,409 2861,409 2906,409 2950,409 2995,409 3040,409 3085,409 3130,412 3174,409 3189,409"/>
+                <TextEquiv>
+                    <Unicode>durch uebereinstimmende Inskription und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="206,490 3207,494 3017,412 206,420"/>
+                <Baseline points="226,477 271,477 316,477 361,477 406,477 450,480 495,480 540,480 585,477 630,480 675,480 719,480 764,480 809,480 854,477 899,477 943,477 988,480 1033,477 1078,480 1123,480 1167,480 1212,477 1257,474 1302,477 1347,477 1391,477 1436,477 1481,480 1526,480 1571,480 1615,483 1660,480 1705,480 1750,480 1795,480 1839,483 1884,480 1929,483 1974,483 2019,480 2063,480 2108,480 2153,477 2198,477 2243,477 2287,480 2332,480 2377,480 2422,480 2467,480 2511,480 2556,480 2601,477 2646,480 2691,477 2735,477 2780,477 2825,477 2870,480 2915,480 2959,480 3004,480 3049,480 3094,480 3139,477 3183,480 3216,480"/>
+                <TextEquiv>
+                    <Unicode>Inhalt (Appellationsfragen) nahegelegt, wird durch Rot. bestaetigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="198,564 3316,571 3184,490 198,490"/>
+                <Baseline points="218,549 262,549 307,552 352,549 397,552 442,552 486,549 531,549 576,552 621,552 666,555 710,555 755,555 800,552 845,552 890,552 934,552 979,555 1024,555 1069,552 1114,552 1158,552 1203,552 1248,549 1293,552 1338,555 1382,555 1427,555 1472,555 1517,555 1562,555 1606,555 1651,555 1696,555 1741,555 1786,555 1830,555 1875,552 1920,552 1965,552 2010,555 2054,555 2099,552 2144,549 2189,546 2234,549 2278,552 2323,555 2368,552 2413,555 2458,555 2502,555 2547,552 2592,552 2637,552 2682,555 2726,552 2771,555 2816,555 2861,555 2906,552 2950,555 2995,552 3040,555 3085,552 3130,555 3174,555 3219,555 3264,555 3309,555 3327,555"/>
+                <TextEquiv>
+                    <Unicode>Die Namensintiale des Erzbischofs B(ubert) vondenterbury gestattet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="206,638 2729,657 2675,560 206,568"/>
+                <Baseline points="229,627 271,627 316,627 361,627 406,627 450,630 495,627 540,627 585,627 630,627 675,627 719,627 764,627 809,624 854,627 899,630 943,630 988,627 1033,627 1078,627 1123,627 1167,627 1212,627 1257,630 1302,627 1347,627 1391,630 1436,627 1481,630 1526,627 1571,630 1615,630 1660,630 1705,630 1750,630 1795,630 1839,630 1884,630 1929,630 1974,630 2019,627 2063,627 2108,627 2153,624 2198,627 2243,627 2287,627 2332,627 2377,630 2422,630 2467,627 2511,627 2556,624 2601,621 2646,624 2691,624 2735,618"/>
+                <TextEquiv>
+                    <Unicode>die Einengung der Datierung wie vorgeschlagen. (1193-98)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="225,750 2535,762 2453,676 2270,661 225,684"/>
+                <Baseline points="247,746 259,743 304,743 349,740 394,737 439,740 483,740 528,740 573,740 618,743 663,743 707,740 752,737 797,743 842,740 887,737 931,740 976,740 1021,740 1066,740 1111,737 1155,737 1200,737 1245,737 1290,737 1335,737 1379,737 1424,737 1469,737 1514,740 1559,737 1603,737 1648,737 1693,737 1738,740 1783,740 1827,740 1872,740 1917,737 1962,737 2007,737 2051,737 2096,737 2141,737 2186,734 2231,737 2275,737 2320,740 2365,737 2410,737 2455,737 2499,740 2544,743"/>
+                <TextEquiv>
+                    <Unicode>(Datierung in Tann, erst nachtraeglich eingefuegt.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

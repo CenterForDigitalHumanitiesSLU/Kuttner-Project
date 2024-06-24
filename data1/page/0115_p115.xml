@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:07</Creator>
+        <Created>2024-04-18T03:24:10.568+02:00</Created>
+        <LastChange>2024-06-21T05:54:19.172+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733468" pageNr="115" tsid="173206112" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=XKZAPSGUBTMSYOOEYYFQQNVO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKTXCBSANNCNBHXITHBGKUHR" imageId="54996340"/>
+    </Metadata>
+    <Page imageFilename="0115_p115.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230865" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="8,395 3389,220 3369,2324 461,2324 8,2324"/>
+            <TextLine id="l_366" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3022,364 3109,364 3210,364 3271,364 3271,333 3210,333 3109,333 3022,333"/>
+                <Baseline points="3022,364 3109,364 3210,364 3271,364"/>
+                <TextEquiv>
+                    <Unicode>0097</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="226,460 3211,464 3094,374 226,397"/>
+                <Baseline points="247,450 262,448 307,450 352,450 397,450 442,453 486,453 531,453 576,453 621,453 666,453 710,453 755,453 800,453 845,453 890,456 934,453 979,456 1024,456 1069,453 1114,453 1158,453 1203,453 1248,453 1293,453 1338,453 1382,450 1427,456 1472,453 1517,453 1562,453 1606,450 1651,453 1696,453 1741,450 1786,453 1830,456 1875,456 1920,453 1965,453 2010,453 2054,453 2099,453 2144,453 2189,453 2234,453 2278,453 2323,450 2368,453 2413,453 2458,450 2502,450 2547,450 2592,450 2637,450 2682,448 2726,450 2771,450 2816,448 2861,448 2906,448 2950,450 2995,453 3040,450 3085,448 3130,450 3174,448 3219,445"/>
+                <TextEquiv>
+                    <Unicode>ueberall uebereinstimmend, so dass Tornacen.ep.Raimundi verworfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="230,530 3343,538 3343,464 230,471"/>
+                <Baseline points="250,525 259,522 304,525 349,525 394,522 439,525 483,525 528,525 573,525 618,525 663,525 707,525 752,525 797,525 842,525 887,525 931,525 976,528 1021,525 1066,525 1111,525 1155,525 1200,525 1245,525 1290,528 1335,525 1379,525 1424,525 1469,525 1514,528 1559,528 1603,528 1648,528 1693,528 1738,528 1783,525 1827,525 1872,525 1917,528 1962,525 2007,525 2051,528 2096,525 2141,525 2186,525 2231,525 2275,522 2320,522 2365,522 2410,522 2455,525 2499,525 2544,525 2589,525 2634,525 2679,525 2723,525 2768,522 2813,522 2858,522 2903,522 2947,522 2992,525 3037,525 3082,525 3127,525 3171,525 3216,525 3261,522 3306,519 3351,516"/>
+                <TextEquiv>
+                    <Unicode>werden muss. Einen Bischof S. (Cc. Vict.) gibt es zur Zeit Alexanders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="230,616 3362,604 230,545"/>
+                <Baseline points="253,600 277,603 322,603 367,600 412,603 456,603 501,600 546,600 591,600 636,600 680,600 725,597 770,600 815,600 860,597 904,597 949,597 994,597 1039,600 1084,600 1128,600 1173,600 1218,600 1263,600 1308,600 1352,600 1397,600 1442,597 1487,594 1532,597 1577,600 1621,600 1666,603 1711,600 1756,600 1801,600 1845,600 1890,600 1935,600 1980,597 2025,600 2069,597 2114,597 2159,594 2204,597 2249,597 2293,597 2338,597 2383,600 2428,597 2473,600 2517,597 2562,597 2607,597 2652,597 2697,597 2741,597 2786,597 2831,600 2876,600 2921,597 2965,597 3010,600 3055,600 3100,600 3145,600 3189,600 3234,600 3279,597 3324,594 3369,585"/>
+                <TextEquiv>
+                    <Unicode>III. in Chartes aber nicht; der Name muss verlesen sein aus G(uillel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="226,682 3327,670 226,627"/>
+                <Baseline points="247,675 292,675 337,675 382,675 427,675 471,677 516,675 561,675 606,672 651,669 695,672 740,672 785,675 830,672 875,677 919,675 964,677 1009,677 1054,675 1099,677 1143,677 1188,675 1233,677 1278,675 1323,677 1367,675 1412,675 1457,675 1502,672 1547,675 1591,675 1636,675 1681,675 1726,675 1771,675 1815,675 1860,675 1905,677 1950,675 1995,675 2039,680 2046,676 2046,676 2084,672 2129,675 2174,675 2219,675 2263,675 2308,672 2353,675 2398,675 2443,675 2487,675 2532,675 2577,675 2622,675 2667,675 2711,675 2756,675 2801,675 2846,672 2891,672 2935,675 2980,675 3025,675 3070,675 3115,675 3159,675 3204,672 3249,672 3294,666 3339,660"/>
+                <TextEquiv>
+                    <Unicode>mus 1164-76) oder J(ohannes v. Salbsbury 1176-80); danach die Datie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="230,764 343,764 378,768 397,783 464,771 460,694 358,697 347,690 319,701 261,694 226,705"/>
+                <Baseline points="250,749 295,749 340,749 385,752 430,752 474,755"/>
+                <TextEquiv>
+                    <Unicode>rung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

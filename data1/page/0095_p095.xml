@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:23:18.752+02:00</Created>
+        <LastChange>2024-06-21T05:26:52.926+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733448" pageNr="95" tsid="173205654" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=MGOVVKDQCPUXWUHBLPXDZUWV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMAONKRDNZEJTLYAOYVTSKXX" imageId="54996320"/>
+    </Metadata>
+    <Page imageFilename="0095_p095.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230441" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="2,230 3369,230 3369,2327 2,2327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3077,309 3119,309 3146,289 3173,309 3211,293 3234,309 3279,301 3359,309 3363,179 3302,183 3264,171 3230,187 3203,175 3081,179"/>
+                <Baseline points="3100,286 3145,286 3189,286 3234,289 3279,289 3324,286 3369,280"/>
+                <TextEquiv>
+                    <Unicode>0082</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="198,388 3253,400 3150,297 198,320"/>
+                <Baseline points="218,376 262,376 307,376 352,379 397,382 442,382 486,382 531,379 576,379 621,379 666,382 710,379 755,379 800,379 845,379 890,382 934,382 979,382 1024,382 1069,379 1114,379 1158,382 1203,382 1248,382 1293,382 1338,382 1382,379 1427,379 1472,379 1517,379 1562,379 1606,376 1651,376 1696,376 1741,379 1786,379 1830,376 1875,379 1920,379 1965,379 2010,379 2054,376 2099,379 2144,376 2189,376 2234,376 2278,379 2323,376 2368,373 2413,373 2458,373 2502,373 2547,373 2592,373 2637,373 2682,373 2726,376 2771,376 2816,373 2861,376 2906,373 2950,373 2995,370 3040,376 3085,373 3130,376 3174,376 3219,379 3264,385"/>
+                <TextEquiv>
+                    <Unicode>wo indes dieses Stueck uebersehen ist und die Note zu S. 190 n.302,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="202,461 2986,465 3058,396 202,404"/>
+                <Baseline points="224,453 268,453 313,453 358,453 403,453 448,450 492,453 537,453 582,450 627,453 672,456 716,453 761,453 806,450 851,453 896,453 940,453 985,453 1030,453 1075,453 1120,456 1164,453 1209,456 1254,453 1299,456 1344,456 1388,456 1433,456 1478,453 1523,453 1568,453 1612,453 1657,453 1702,450 1747,450 1792,450 1836,450 1881,450 1926,450 1971,450 2016,450 2060,448 2105,448 2150,448 2195,450 2240,450 2284,448 2329,448 2374,448 2419,448 2464,448 2508,445 2553,445 2598,445 2643,445 2688,445 2732,445 2777,445 2822,445 2867,445 2912,442 2956,442 3001,445 3046,448 3067,453"/>
+                <TextEquiv>
+                    <Unicode>dass er erst von Celestin III. zum Kardinal kreiert worden sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="206,537 3127,537 3127,461 206,476"/>
+                <Baseline points="226,528 268,528 313,528 358,525 403,522 448,525 492,525 537,525 582,525 627,525 672,525 716,528 761,525 806,525 851,525 896,525 940,525 985,528 1030,525 1075,525 1120,525 1164,525 1209,522 1254,525 1299,525 1344,525 1388,525 1433,525 1478,525 1523,525 1568,522 1612,525 1657,525 1702,525 1747,522 1792,525 1836,525 1881,522 1926,522 1971,522 2016,522 2060,522 2105,519 2150,519 2195,519 2240,522 2284,522 2329,522 2374,522 2419,522 2464,519 2508,519 2553,519 2598,519 2643,519 2688,522 2732,519 2777,519 2822,522 2867,519 2912,522 2956,519 3001,519 3046,519 3091,522 3136,522"/>
+                <TextEquiv>
+                    <Unicode>zu berichtigen ist. Das Stueck ist interessant fuer die deutsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="198,613 2030,617 1954,537 198,541"/>
+                <Baseline points="218,600 262,603 307,600 352,597 397,600 442,600 486,600 531,600 576,600 621,600 666,600 710,603 755,597 800,600 845,600 890,600 934,597 979,600 1024,600 1069,600 1114,600 1158,600 1203,600 1248,600 1293,600 1338,600 1382,600 1427,600 1472,603 1517,600 1562,600 1606,600 1651,600 1696,600 1741,597 1786,597 1830,597 1875,597 1920,597 1965,597 2010,597 2039,600"/>
+                <TextEquiv>
+                    <Unicode>Einwanderung im suedlichen Kirchenstaat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="194,758 2110,766 2175,762 2175,678 194,701"/>
+                <Baseline points="215,749 259,749 304,752 349,752 394,749 439,749 483,752 528,749 573,749 618,749 663,746 707,746 752,746 797,743 842,746 887,743 931,746 976,746 1021,743 1066,743 1111,746 1155,746 1200,746 1245,746 1290,746 1335,746 1379,746 1424,746 1469,746 1514,749 1559,746 1603,746 1648,743 1693,746 1738,743 1783,746 1827,746 1872,746 1917,743 1962,743 2007,743 2051,743 2096,743 2141,743 2186,743"/>
+                <TextEquiv>
+                    <Unicode>Seg.31: Idem eidem in eodem. Dat. Lat. II non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="560,830 1215,823 1245,849 1337,849 1386,826 1383,769 1337,754 1242,754 1211,781 823,758 727,769 705,796 670,769 556,773"/>
+                <Baseline points="582,824 591,821 636,824 680,821 725,821 770,821 815,821 860,821 904,821 949,821 994,821 1039,821 1084,821 1128,821 1173,821 1218,824 1263,824 1308,827 1352,824 1397,818"/>
+                <TextEquiv>
+                    <Unicode>in eodem anno (3).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

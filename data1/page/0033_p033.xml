@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:12.895+02:00</Created>
+        <LastChange>2024-06-13T20:42:58.293+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733364" pageNr="33" tsid="171981094" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=JCWEOLUANRYSPZYHGTKSARHH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USEUHLDMZURBOGKWUDQDVCFZ" imageId="54996236"/>
+    </Metadata>
+    <Page imageFilename="0033_p033.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229183" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_308"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="46,915 3454,915 3454,1112 46,1112"/>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:0;}">
+                <Coords points="191,1073 342,1073 389,1093 423,1070 614,1073 607,963 476,969 459,986 409,966 362,999 332,979 255,983 188,963"/>
+                <Baseline points="209,1032 234,1033 260,1033 285,1035 311,1036 336,1036 362,1038 387,1041 413,1041 439,1039 464,1039 490,1040 515,1041 541,1043 566,1045 592,1049 618,1054"/>
+                <TextEquiv>
+                    <Unicode>Par.I 165.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_308" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="59,132 3415,132 3415,908 59,908"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="282,453 332,456 345,476 389,470 413,268 379,268 372,262 359,275 335,255 305,252"/>
+                <Baseline points="304,439 336,437 368,433 400,427"/>
+                <TextEquiv>
+                    <Unicode>28</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="2227,399 2294,399 2311,406 2348,402 2344,298 2314,302 2287,275 2277,285 2260,285 2240,265 2224,265"/>
+                <Baseline points="2246,367 2273,371 2301,372 2328,370 2356,370"/>
+                <TextEquiv>
+                    <Unicode>JL.-
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3085,379 3136,396 3166,369 3189,386 3233,376 3253,392 3300,379 3324,392 3391,386 3384,258 3367,262 3354,248 3317,278 3260,255 3189,262 3149,225 3116,262 3082,265"/>
+                <Baseline points="3103,361 3129,364 3156,367 3182,367 3209,367 3235,367 3262,369 3288,370 3315,370 3341,371 3368,373 3395,367"/>
+                <TextEquiv>
+                    <Unicode>0031</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:3;}">
+                <Coords points="580,520 1995,527 2026,429 1653,470 1533,436 718,470 681,436 580,473"/>
+                <Baseline points="597,516 668,514 740,513 812,513 884,513 956,513 1027,512 1099,510 1171,512 1243,512 1315,513 1386,513 1458,510 1530,510 1602,512 1674,510 1745,510 1817,510 1889,510 1961,506 2033,507"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram noveritis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:4;}">
+                <Coords points="2133,540 3327,523 3327,446 3210,433 2706,449 2656,493 2582,446 2133,443"/>
+                <Baseline points="2150,507 2209,512 2268,510 2327,510 2387,510 2446,510 2505,510 2565,513 2624,515 2683,516 2743,515 2802,513 2861,510 2920,514 2980,513 3039,513 3098,513 3158,510 3217,510 3276,510 3336,510"/>
+                <TextEquiv>
+                    <Unicode>pervenisse, quod quandoque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="178,631 1643,641 1643,580 1502,553 178,580"/>
+                <Baseline points="197,627 269,630 342,630 415,627 487,621 560,618 633,621 705,625 778,630 851,624 924,627 996,624 1069,624 1142,624 1214,623 1287,627 1360,624 1432,626 1505,624 1578,624 1651,624"/>
+                <TextEquiv>
+                    <Unicode>uxores - noveritis puniendos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="171,778 2405,761 2431,671 171,694"/>
+                <Baseline points="191,743 303,740 415,741 528,737 640,737 753,740 865,737 978,737 1090,737 1203,735 1315,734 1427,737 1540,737 1652,735 1765,734 1877,736 1990,734 2102,734 2215,737 2327,736 2440,740"/>
+                <TextEquiv>
+                    <Unicode>Alexander III. abbati et monachis de Barden(eia)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:7;}">
+                <Coords points="2619,741 2663,761 2717,748 2847,758 2901,731 2924,748 3038,758 3072,748 3069,654 2975,664 2941,647 2918,671 2864,671 2841,647 2800,647 2774,674 2750,654 2727,674 2670,651 2616,681"/>
+                <Baseline points="2637,740 2663,738 2689,737 2715,737 2741,736 2767,734 2793,734 2819,734 2845,732 2871,731 2897,731 2923,733 2949,737 2975,739 3001,740 3027,740 3053,740 3079,740"/>
+                <TextEquiv>
+                    <Unicode>(1159-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:8;}">
+                <Coords points="178,922 231,899 309,916 433,895 684,902 684,845 590,815 573,828 342,825 302,842 265,808 178,842"/>
+                <Baseline points="197,884 223,884 249,884 275,884 301,885 327,887 353,888 379,890 405,888 431,887 457,887 483,888 509,890 535,890 561,890 587,890 613,889 639,887 665,888 692,890"/>
+                <TextEquiv>
+                    <Unicode>a) noveris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="31,1113 11,2335 3461,2335 3454,1106"/>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:0;}">
+                <Coords points="171,1194 2552,1224 2867,1194 2867,1127 171,1137"/>
+                <Baseline points="191,1191 325,1188 459,1188 593,1188 727,1188 861,1188 995,1188 1129,1188 1263,1185 1397,1185 1532,1182 1666,1182 1800,1185 1934,1185 2068,1185 2202,1185 2336,1182 2470,1182 2604,1179 2738,1179 2873,1185"/>
+                <TextEquiv>
+                    <Unicode>Adressat ist die Benediktinerabtei Bardney in Lincolnshire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

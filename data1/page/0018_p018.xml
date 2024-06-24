@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:45.653+02:00</Created>
+        <LastChange>2024-06-13T20:26:19.505+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733348" pageNr="18" tsid="171978994" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=KVVYZBTGGPXWAJFAXKESFAAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JHRTFCXQWNQFMCKLJKYUVMXB" imageId="54996220"/>
+    </Metadata>
+    <Page imageFilename="0018_p018.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228951" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="52,204 14,2330 3506,2330 3513,140"/>
+            <TextLine id="l_1742" custom="readingOrder {index:0;}">
+                <Coords points="42,350 65,350 107,377 122,366 145,369 160,354 198,350 183,255 152,255 145,267 129,259 126,267 107,255 84,255 80,263 61,255 27,263"/>
+                <Baseline points="58,321 104,329 116,329 154,338 171,342 204,342"/>
+                <TextEquiv>
+                    <Unicode>14v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+                <Coords points="3017,347 3074,350 3097,331 3123,350 3161,339 3180,354 3241,343 3317,350 3314,126 3276,145 3192,141 3119,209 3013,217"/>
+                <Baseline points="3034,331 3060,328 3086,330 3113,331 3139,331 3165,331 3192,331 3218,333 3244,334 3271,334 3297,330 3324,325"/>
+                <TextEquiv>
+                    <Unicode>0016</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="1207,442 2034,503 2182,453 3020,453 3020,339 2742,400 1821,400 1318,270 1207,347"/>
+                <Baseline points="1227,424 1317,436 1407,450 1497,456 1587,456 1677,459 1767,456 1857,456 1947,456 2037,459 2127,456 2217,450 2307,454 2397,453 2487,448 2577,450 2667,450 2757,450 2847,442 2937,445 3028,445"/>
+                <TextEquiv>
+                    <Unicode>ed. Századok 93 (1959) 404-417 No. 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="613,754 3249,747 3302,670 613,682"/>
+                <Baseline points="633,746 774,740 915,738 1056,738 1197,740 1338,737 1479,737 1620,734 1761,731 1902,731 2043,732 2184,731 2325,734 2466,734 2607,731 2748,731 2889,733 3030,734 3171,728 3312,731"/>
+                <TextEquiv>
+                    <Unicode>(e) continues... quod cum generaliter traditum sit [here Cott. ends with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="826,815 2217,826 2217,766 2099,743 1836,777 1573,743 1527,785 826,754"/>
+                <Baseline points="848,812 916,812 985,815 1054,813 1123,812 1192,814 1261,812 1329,812 1398,810 1467,814 1536,811 1605,812 1674,812 1743,809 1811,809 1880,809 1949,806 2018,806 2087,808 2156,809 2225,815"/>
+                <TextEquiv>
+                    <Unicode>etc. '] ut actor... iudicio conuenire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="2278,849 2876,865 2937,842 2963,868 3093,865 3093,788 3032,781 2929,815 2883,777 2563,766 2449,773 2422,800 2392,773 2278,792"/>
+                <Baseline points="2299,833 2339,838 2379,839 2419,841 2459,844 2500,844 2540,842 2580,842 2620,842 2660,839 2701,839 2741,842 2781,842 2821,842 2861,844 2902,845 2942,845 2982,846 3022,848 3062,845 3103,848"/>
+                <TextEquiv>
+                    <Unicode>=JL 15213 WH 309 q.v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="129,1032 3142,1006 3176,922 129,929"/>
+                <Baseline points="149,1012 300,1012 452,1009 604,1006 756,1006 908,1009 1060,1007 1211,1003 1363,1002 1515,1000 1667,997 1819,997 1971,997 2123,995 2274,994 2426,994 2578,991 2730,991 2882,988 3034,989 3186,982"/>
+                <TextEquiv>
+                    <Unicode>(Sk in a letter to H.A. Hanley, (Belfast) Nov. 1860, discussed the possibility of JL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="126,1097 3135,1093 3188,1002 126,1032"/>
+                <Baseline points="146,1090 298,1087 450,1084 602,1084 755,1083 907,1084 1059,1077 1212,1078 1364,1075 1516,1075 1669,1075 1821,1074 1973,1072 2125,1073 2278,1073 2430,1072 2582,1069 2735,1071 2887,1068 3039,1063 3192,1060"/>
+                <TextEquiv>
+                    <Unicode>15213 belonging to 15196, because of the sequence Tann. 4.6.4-5, Sang. 5.5.8-9 and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="118,1162 3142,1165 3142,1097 118,1101"/>
+                <Baseline points="140,1158 290,1155 441,1155 591,1152 742,1154 892,1152 1043,1149 1193,1149 1344,1148 1494,1146 1645,1146 1796,1144 1946,1146 2097,1144 2247,1146 2398,1140 2548,1143 2699,1140 2849,1140 3000,1140 3151,1146"/>
+                <TextEquiv>
+                    <Unicode>the internal connection between the end of (d) and JL 15213; see X 2.1.8, 2.2.8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="110,1249 1939,1245 1866,1165 1733,1154 110,1165"/>
+                <Baseline points="131,1236 226,1233 322,1233 418,1230 513,1230 609,1233 705,1230 801,1228 896,1227 992,1227 1088,1227 1184,1227 1279,1224 1375,1224 1471,1224 1567,1224 1662,1222 1758,1221 1854,1224 1950,1233"/>
+                <TextEquiv>
+                    <Unicode>But he did not know the Cotton text at the time. I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="2662,1352 2704,1367 2887,1356 2952,1371 2975,1348 3036,1371 3154,1364 3154,1272 2948,1287 2929,1268 2860,1295 2822,1268 2784,1295 2758,1268 2716,1268 2689,1295 2662,1295"/>
+                <Baseline points="2682,1350 2707,1350 2732,1350 2757,1350 2783,1350 2808,1350 2833,1351 2858,1352 2884,1352 2909,1352 2934,1352 2959,1352 2985,1352 3010,1352 3035,1352 3060,1351 3086,1350 3111,1350 3136,1350 3162,1350"/>
+                <TextEquiv>
+                    <Unicode>Sk Nov. 1974</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

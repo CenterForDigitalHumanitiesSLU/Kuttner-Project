@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:22:45.072+02:00</Created>
+        <LastChange>2024-06-21T05:00:47.254+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733415" pageNr="71" tsid="173205254" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=EQXRTUBZLTBYEECYSVHVLVZY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVYSGKSSELGZRHJOYQNPJVHQ" imageId="54996287"/>
+    </Metadata>
+    <Page imageFilename="0071_p071.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230040" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="116,280 116,2335 3470,2335 3470,280"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="2987,332 3039,340 3068,324 3100,340 3141,328 3161,344 3206,332 3218,344 3266,340 3262,195 3218,190 3197,170 3165,199 3120,186 3104,203 3076,199 3060,215 3039,199 3023,211 2983,211"/>
+                <Baseline points="3010,316 3036,318 3063,318 3089,317 3116,317 3143,319 3169,321 3196,322 3222,320 3249,320 3276,322"/>
+                <TextEquiv>
+                    <Unicode>0061</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="211,434 1508,442 1532,361 211,369"/>
+                <Baseline points="235,421 300,421 365,421 431,421 496,423 562,421 627,420 693,418 758,418 824,418 889,420 954,418 1020,417 1085,417 1151,418 1216,416 1282,418 1347,417 1413,418 1478,418 1544,418"/>
+                <TextEquiv>
+                    <Unicode>gangen; danach die Datierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="1564,430 3234,430 3234,357 3161,340 2565,340 2525,381 1564,349"/>
+                <Baseline points="1588,418 1670,418 1753,418 1836,418 1919,418 2001,417 2084,415 2167,415 2250,412 2332,415 2415,414 2498,414 2581,413 2663,415 2746,415 2829,412 2912,412 2994,415 3077,412 3160,412 3243,409"/>
+                <TextEquiv>
+                    <Unicode>In Par.I steht unter der Inskription</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="215,511 438,490 721,490 762,519 1037,507 1062,503 1062,434 746,430 713,462 588,426 438,462 215,438"/>
+                <Baseline points="238,495 279,492 321,492 362,492 404,492 445,489 487,489 528,492 570,492 611,492 653,490 695,489 736,489 778,487 819,489 861,492 902,492 944,492 985,492 1027,492 1069,492"/>
+                <TextEquiv>
+                    <Unicode>Item eidem (vorher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="1123,507 3230,498 3230,430 3129,426 1123,430"/>
+                <Baseline points="1143,492 1247,489 1352,489 1457,489 1562,487 1667,489 1772,489 1876,489 1981,486 2086,486 2191,486 2296,486 2401,486 2506,486 2610,483 2715,483 2820,483 2925,486 3030,483 3135,483 3240,480"/>
+                <TextEquiv>
+                    <Unicode>Innocent.p.H.Winton.ep.) nur der Satz: Cum ins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="227,592 3307,575 3343,503 227,511"/>
+                <Baseline points="248,565 403,567 558,564 713,561 868,564 1023,564 1178,557 1334,561 1489,561 1644,561 1799,562 1954,561 2109,559 2264,559 2420,558 2575,557 2730,555 2885,558 3040,558 3195,559 3351,555"/>
+                <TextEquiv>
+                    <Unicode>patronatus connexum sit spirituali, nemini licitum est vendere illud,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="207,648 3400,665 3465,584 207,596"/>
+                <Baseline points="229,636 391,638 553,636 715,637 877,636 1039,639 1201,636 1363,639 1525,633 1687,636 1849,634 2011,634 2173,636 2335,633 2497,633 2659,631 2821,633 2983,633 3145,633 3307,633 3470,624"/>
+                <TextEquiv>
+                    <Unicode>den Friedberg offenbar nicht unterzubringen wusste und deshalb abge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="211,721 503,729 531,713 547,729 725,729 725,673 665,648 640,661 551,648 527,673 494,652 458,665 438,652 312,665 272,648 211,661"/>
+                <Baseline points="232,710 257,712 282,713 307,715 332,716 357,716 382,715 407,713 432,714 457,716 483,714 508,713 533,713 558,713 583,713 608,713 633,713 658,713 683,713 708,713 734,713"/>
+                <TextEquiv>
+                    <Unicode>druckt hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:54.032+02:00</Created>
+        <LastChange>2024-05-04T19:45:58.677+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733566" pageNr="171" tsid="163769626" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=ZEAJOFFPBRWZPPADVDCTTWGG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VMHKDAWXUENAYLNXCTLFEMTL" imageId="54996437"/>
+    </Metadata>
+    <Page imageFilename="0171_p171.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="26,233 3392,233 3392,2327 26,2327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3062,305 3120,313 3135,301 3165,317 3219,301 3261,313 3280,294 3303,317 3352,320 3360,183 3333,179 3280,202 3265,183 3242,191 3223,179 3154,191 3139,206 3116,191 3070,187"/>
+                <Baseline points="3085,298 3091,298 3136,298 3180,301 3225,298 3270,295 3315,286 3360,283"/>
+                <TextEquiv>
+                    <Unicode>0139</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="225,358 3284,378 2853,282 225,275"/>
+                <Baseline points="247,352 292,358 337,361 382,361 427,361 471,361 516,361 561,361 606,361 651,361 695,361 740,361 785,361 830,361 875,364 919,361 964,358 1009,361 1054,361 1099,367 1143,364 1188,361 1233,361 1278,361 1323,361 1367,361 1412,361 1457,361 1502,361 1547,358 1591,358 1636,361 1681,361 1726,361 1771,361 1815,361 1860,361 1905,361 1950,358 1995,361 2039,361 2084,361 2129,361 2174,361 2219,361 2263,361 2308,361 2353,361 2398,358 2443,358 2487,358 2532,358 2577,358 2622,358 2667,358 2711,361 2756,364 2801,364 2846,361 2891,361 2935,358 2980,361 3025,364 3070,361 3115,361 3159,361 3204,361 3249,358 3294,361 3297,358"/>
+                <TextEquiv>
+                    <Unicode>der nach A. Morey, Bartholomen of Exeter S.121 seit 1175 begegnende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="240,442 3200,454 3200,370 240,378"/>
+                <Baseline points="262,430 298,433 343,433 388,433 433,436 477,436 522,436 567,436 612,436 657,433 701,436 746,433 791,433 836,433 881,430 925,433 970,436 1015,433 1060,436 1105,436 1149,436 1194,433 1239,436 1284,433 1329,436 1373,436 1418,436 1463,433 1508,436 1553,436 1597,433 1642,433 1687,433 1732,433 1777,433 1821,436 1866,436 1911,436 1956,436 2001,436 2045,436 2090,436 2135,433 2180,433 2225,433 2269,433 2314,433 2359,433 2404,433 2449,433 2493,433 2538,433 2583,433 2628,433 2673,433 2717,433 2762,433 2807,433 2852,433 2897,430 2941,433 2986,433 3031,433 3076,433 3121,427 3165,421 3210,424"/>
+                <TextEquiv>
+                    <Unicode>(Balduin) Abt von Fordyin der Inskription. Robinson fuehrt S. 83</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="233,511 3242,526 3242,454 3059,442 233,465"/>
+                <Baseline points="253,507 298,507 343,507 388,507 433,507 477,507 522,507 567,507 612,507 657,507 701,507 746,504 791,507 836,507 881,507 925,507 970,507 1015,507 1060,507 1105,507 1149,507 1194,507 1239,507 1284,510 1329,513 1373,507 1418,510 1463,507 1508,507 1553,507 1597,507 1642,504 1687,507 1732,507 1777,507 1821,507 1866,504 1911,504 1956,507 2001,507 2045,504 2090,504 2135,504 2180,504 2225,504 2269,504 2314,504 2359,504 2404,504 2449,504 2493,501 2538,504 2583,504 2628,504 2673,504 2717,501 2762,504 2807,504 2852,504 2897,504 2941,501 2986,501 3031,504 3076,501 3121,501 3165,504 3210,507 3252,507"/>
+                <TextEquiv>
+                    <Unicode>eine Koenigsurkunde an, welche den Vergleich bestaetigt und die er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="233,591 3120,530 233,542"/>
+                <Baseline points="253,579 298,579 343,579 388,579 433,576 477,579 522,579 567,570 612,570 657,567 701,570 746,573 791,573 836,579 881,579 925,576 970,579 1015,579 1060,579 1105,579 1149,579 1194,579 1239,579 1284,579 1329,579 1373,579 1418,576 1463,579 1508,579 1553,579 1597,579 1642,579 1687,579 1732,579 1777,579 1821,579 1866,579 1911,576 1956,579 2001,579 2045,579 2090,579 2135,576 2180,576 2225,579 2269,576 2314,576 2359,576 2404,576 2449,576 2493,576 2538,576 2583,576 2628,576 2673,576 2717,576 2762,579 2807,576 2852,579 2897,576 2941,573 2986,576 3031,576 3076,576 3121,579 3130,579"/>
+                <TextEquiv>
+                    <Unicode>auf 1175-76 ansetzt. Nach dem Itenerar des Papstes bleiben dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="225,660 3272,679 3181,580 225,614"/>
+                <Baseline points="247,651 292,654 337,654 382,654 427,654 471,654 516,657 561,654 606,654 651,654 695,654 740,654 785,654 830,654 875,657 919,657 964,657 1009,654 1054,654 1099,657 1143,657 1188,657 1233,657 1278,657 1323,654 1367,654 1412,654 1457,654 1502,654 1547,654 1591,654 1636,654 1681,657 1726,654 1771,657 1815,657 1860,657 1905,654 1950,654 1995,657 2039,657 2084,654 2129,654 2174,654 2219,654 2263,654 2308,654 2353,654 2398,654 2443,654 2487,651 2532,654 2577,654 2622,654 2667,654 2711,657 2756,654 2801,654 2846,654 2891,657 2935,654 2980,654 3025,654 3070,654 3115,654 3159,654 3204,654 3249,657 3282,660"/>
+                <TextEquiv>
+                    <Unicode>fuer die Datierung des Stueckes nur die Jahre 1178 und 1179 uebrig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="236,927 1518,957 1514,873 1430,862 988,854 877,896 686,847 633,900 580,850 519,877 423,843 378,892 233,866"/>
+                <Baseline points="256,922 301,922 346,925 391,925 436,925 480,928 525,931 570,937 594,931 622,932 669,928 713,928 758,928 803,928 848,928 893,931 937,931 982,931 1027,931 1072,931 1117,931 1161,931 1206,934 1251,934 1296,937 1341,937 1385,937 1430,940 1475,937 1520,940 1526,940"/>
+                <TextEquiv>
+                    <Unicode>ed. Morey, Barth, of Exeter p.133.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

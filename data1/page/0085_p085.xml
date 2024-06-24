@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:22:48.917+02:00</Created>
+        <LastChange>2024-06-21T05:16:12.782+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733432" pageNr="85" tsid="173205512" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=GSKCLYUVUDPGPUBDTLIITRCD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JEAIXSHWWRKBYEGYYRQMXIHH" imageId="54996304"/>
+    </Metadata>
+    <Page imageFilename="0085_p085.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230246" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_711"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="99,941 3388,941 3388,1132 99,1132"/>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:0;}">
+                <Coords points="215,1057 1476,1061 1435,979 1198,975 1161,1012 1087,968 1031,1012 938,975 215,998"/>
+                <Baseline points="235,1048 280,1048 325,1048 370,1048 415,1048 459,1048 504,1048 549,1048 594,1048 639,1048 683,1048 728,1048 773,1048 818,1048 863,1042 907,1042 952,1042 997,1042 1042,1039 1087,1042 1131,1042 1176,1048 1221,1051 1266,1051 1311,1051 1355,1051 1400,1051 1445,1051 1487,1048"/>
+                <TextEquiv>
+                    <Unicode>Gilb.Brux.I 2,4 (= I 2,3a).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_711" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="125,204 3454,204 3454,967 125,967"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="189,501 208,497 237,523 267,504 389,560 438,523 482,545 527,541 516,452 464,445 430,415 419,423 341,356 308,386 267,378 248,360 178,367"/>
+                <Baseline points="209,507 253,501 298,510 343,519 388,531 433,525 477,525 522,531 534,528"/>
+                <TextEquiv>
+                    <Unicode>65 a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="2066,456 2125,471 2214,471 2255,441 2362,452 2366,382 2196,404 2151,360 2069,356"/>
+                <Baseline points="2087,450 2102,450 2147,453 2192,450 2237,448 2281,442 2326,439 2371,439"/>
+                <TextEquiv>
+                    <Unicode>JL. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3123,378 3175,393 3208,371 3241,393 3279,371 3301,393 3323,393 3342,375 3360,393 3401,397 3397,267 3364,278 3349,263 3271,263 3253,252 3230,256 3208,278 3175,248 3141,271 3119,271"/>
+                <Baseline points="3142,370 3186,370 3231,370 3276,370 3321,373 3366,373 3410,373"/>
+                <TextEquiv>
+                    <Unicode>0074</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="616,682 3167,694 3227,608 616,634"/>
+                <Baseline points="636,680 677,680 722,677 767,677 812,677 857,677 901,677 946,677 991,677 1036,675 1081,677 1126,675 1170,675 1215,675 1260,675 1305,675 1350,675 1394,675 1439,675 1484,675 1529,675 1574,675 1618,675 1663,675 1708,675 1753,675 1798,675 1842,675 1887,675 1932,675 1977,675 2022,675 2066,675 2111,675 2156,675 2201,675 2246,675 2290,675 2335,675 2380,675 2425,675 2470,675 2514,675 2559,675 2604,675 2649,672 2694,675 2738,675 2783,672 2828,672 2873,672 2918,675 2962,675 3007,675 3052,672 3097,672 3142,672 3186,669 3231,669"/>
+                <TextEquiv>
+                    <Unicode>Ad hec presentium significatione iniungimus, ut si contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="219,812 1650,805 1650,738 219,742"/>
+                <Baseline points="241,788 271,791 316,791 361,785 406,788 450,788 495,788 540,788 585,788 630,788 675,788 719,791 764,788 809,788 854,788 899,788 943,782 988,782 1033,785 1078,785 1123,788 1167,788 1212,788 1257,788 1302,785 1347,788 1391,785 1436,788 1481,788 1526,788 1571,785 1615,785 1660,785"/>
+                <TextEquiv>
+                    <Unicode>predictos fratres super decimis -
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1940,801 3034,797 3034,742 2967,712 2863,738 2607,716 2526,757 2481,723 2329,753 2162,712 1940,738"/>
+                <Baseline points="1959,782 2004,788 2048,785 2093,782 2138,782 2183,785 2228,785 2272,782 2317,785 2362,782 2407,785 2452,782 2496,785 2541,785 2586,785 2631,785 2676,782 2720,782 2765,782 2810,779 2855,782 2900,785 2944,785 2989,785 3034,788 3043,788"/>
+                <TextEquiv>
+                    <Unicode>excedere non attemptent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="211,909 2355,912 2440,849 211,857"/>
+                <Baseline points="232,901 253,901 298,899 343,899 388,899 433,899 477,899 522,899 567,899 612,899 657,896 701,899 746,899 791,899 836,899 881,896 925,899 970,899 1015,896 1060,899 1105,896 1149,896 1194,896 1239,896 1284,896 1329,896 1373,899 1418,899 1463,899 1508,896 1553,896 1597,896 1642,896 1687,899 1732,896 1777,896 1821,899 1866,899 1911,899 1956,899 2001,899 2045,896 2090,899 2135,896 2180,896 2225,896 2269,893 2314,893 2359,893 2404,893 2449,893"/>
+                <TextEquiv>
+                    <Unicode>Alexander Cantuariensi archiepiscopo p.c. Dilecti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2622,909 2659,920 2722,905 2767,920 2808,909 2833,920 2863,898 2893,898 3026,920 3026,860 3008,860 2967,820 2922,816 2889,846 2867,846 2841,820 2778,823 2763,838 2748,823 2667,812 2622,827"/>
+                <Baseline points="2643,899 2673,899 2717,896 2762,896 2807,896 2852,890 2897,890 2941,893 2986,896 3031,896"/>
+                <TextEquiv>
+                    <Unicode>(1159-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="26,1123 3403,1123 3410,1712 26,1712"/>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:0;}">
+                <Coords points="219,1213 3130,1202 3130,1131 2737,1109 219,1116"/>
+                <Baseline points="238,1197 271,1197 316,1197 361,1194 406,1197 450,1197 495,1197 540,1197 585,1197 630,1197 675,1197 719,1197 764,1197 809,1197 854,1197 899,1197 943,1197 988,1197 1033,1197 1078,1197 1123,1197 1167,1194 1212,1197 1257,1194 1302,1194 1347,1197 1391,1197 1436,1197 1481,1194 1526,1197 1571,1194 1615,1194 1660,1194 1705,1194 1750,1194 1795,1194 1839,1194 1884,1194 1929,1194 1974,1191 2019,1194 2063,1194 2108,1191 2153,1191 2198,1191 2243,1191 2287,1191 2332,1191 2377,1191 2422,1188 2467,1188 2511,1191 2556,1191 2601,1188 2646,1188 2691,1191 2735,1188 2780,1188 2825,1188 2870,1188 2915,1188 2959,1188 3004,1191 3049,1188 3094,1188 3139,1191"/>
+                <TextEquiv>
+                    <Unicode>Die Dekretale scheint im Interesse der Gisterzienser erlassen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:1;}">
+                <Coords points="219,1283 3030,1280 3082,1209 219,1220"/>
+                <Baseline points="241,1269 268,1272 313,1272 358,1275 403,1272 448,1278 492,1275 537,1272 582,1272 627,1272 672,1272 716,1272 761,1269 806,1269 851,1272 896,1272 940,1272 985,1272 1030,1272 1075,1272 1120,1269 1164,1269 1209,1269 1254,1269 1299,1269 1344,1272 1388,1269 1433,1269 1478,1269 1523,1269 1568,1269 1612,1269 1657,1269 1702,1269 1747,1269 1792,1266 1836,1269 1881,1269 1926,1266 1971,1266 2016,1266 2060,1269 2105,1269 2150,1269 2195,1266 2240,1266 2284,1269 2329,1266 2374,1266 2419,1269 2464,1266 2508,1266 2553,1266 2598,1266 2643,1266 2688,1263 2732,1263 2777,1263 2822,1263 2867,1263 2912,1263 2956,1263 3001,1263 3046,1260 3091,1260"/>
+                <TextEquiv>
+                    <Unicode>sein, aber &lt; eine Stammdekretale mit dem Incipit Dilecti an die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:2;}">
+                <Coords points="215,1357 3034,1365 3164,1276 215,1283"/>
+                <Baseline points="235,1344 262,1347 307,1347 352,1347 397,1344 442,1347 486,1347 531,1347 576,1347 621,1347 666,1347 710,1347 755,1347 800,1347 845,1347 890,1344 934,1344 979,1344 1024,1338 1069,1338 1114,1338 1158,1341 1203,1344 1248,1341 1293,1341 1338,1344 1382,1344 1427,1344 1472,1344 1517,1344 1562,1341 1606,1341 1651,1341 1696,1341 1741,1341 1786,1341 1830,1341 1875,1335 1920,1338 1965,1341 2010,1341 2054,1341 2099,1341 2144,1341 2189,1338 2234,1341 2278,1338 2323,1338 2368,1338 2413,1338 2458,1338 2502,1335 2547,1338 2592,1338 2637,1335 2682,1338 2726,1335 2771,1335 2816,1335 2861,1335 2906,1338 2950,1341 2995,1335 3040,1338 3085,1338 3130,1338 3174,1341"/>
+                <TextEquiv>
+                    <Unicode>Provinz Canterbury - das Mandat ist pluralistisch abgefasst, ging</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:3;}">
+                <Coords points="219,1432 3145,1428 3193,1354 219,1372"/>
+                <Baseline points="238,1421 247,1421 292,1418 337,1421 382,1421 427,1421 471,1418 516,1421 561,1421 606,1421 651,1421 695,1421 740,1418 785,1421 830,1421 875,1418 919,1421 964,1418 1009,1418 1054,1421 1099,1418 1143,1418 1188,1418 1233,1418 1278,1418 1323,1418 1367,1418 1412,1418 1457,1418 1502,1418 1547,1418 1591,1418 1636,1415 1681,1415 1726,1415 1771,1415 1815,1412 1860,1415 1905,1415 1950,1415 1995,1412 2039,1415 2084,1415 2129,1415 2174,1415 2219,1412 2263,1412 2308,1412 2353,1412 2398,1412 2443,1412 2487,1412 2532,1412 2577,1412 2622,1412 2667,1412 2711,1412 2756,1412 2801,1409 2846,1409 2891,1409 2935,1412 2980,1409 3025,1409 3070,1409 3115,1409 3159,1409 3204,1400"/>
+                <TextEquiv>
+                    <Unicode>also offenbar auch an die suffragene - ist bisher noch nicht auf¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:4;}">
+                <Coords points="215,1517 282,1528 334,1506 642,1513 642,1461 582,1435 215,1446"/>
+                <Baseline points="235,1505 247,1502 292,1496 337,1496 382,1496 427,1496 471,1496 516,1496 561,1496 606,1496 651,1496"/>
+                <TextEquiv>
+                    <Unicode>getaucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:5;}">
+                <Coords points="215,1702 820,1695 946,1743 1083,1691 1153,1728 1246,1684 1491,1702 1521,1580 1402,1587 1346,1639 1235,1587 1165,1650 1083,1613 998,1650 853,1587 757,1628 449,1591 215,1665"/>
+                <Baseline points="235,1702 271,1702 316,1702 361,1699 406,1696 450,1696 495,1696 540,1699 585,1699 630,1699 675,1699 719,1699 764,1696 809,1693 854,1693 899,1690 943,1690 988,1690 1033,1687 1078,1684 1123,1687 1167,1684 1212,1681 1257,1678 1302,1675 1347,1675 1391,1675 1436,1678 1481,1681 1526,1690"/>
+                <TextEquiv>
+                    <Unicode>ed. Chodorow-Duggan, Nr. 47</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

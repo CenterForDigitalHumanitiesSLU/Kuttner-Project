@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:44.534+02:00</Created>
+        <LastChange>2024-06-13T20:24:20.396+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733345" pageNr="16" tsid="171978869" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=TFHOMXWDESCEMSLMOXHRWHXO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XOVOWDARJPBNYEUGWKZINMUF" imageId="54996217"/>
+    </Metadata>
+    <Page imageFilename="0016_p016.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228889" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_615"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="171,902 3434,902 3434,1112 171,1112"/>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:0;}">
+                <Coords points="180,986 2900,1014 2927,861 180,931"/>
+                <Baseline points="203,982 339,979 476,982 613,985 750,979 886,973 1023,973 1160,970 1297,970 1433,969 1570,968 1707,968 1844,964 1980,959 2117,956 2254,958 2391,955 2527,955 2664,955 2801,958 2938,952"/>
+                <TextEquiv>
+                    <Unicode>Oriel.I 57,50(a). Rot. 24, 10 (a); 19, 1(b). A V 6,11(a);III 33,29(b).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:1;}">
+                <Coords points="192,1072 3225,1061 3264,963 192,998"/>
+                <Baseline points="215,1057 367,1057 520,1052 673,1057 826,1054 979,1051 1132,1053 1285,1048 1438,1048 1591,1045 1744,1045 1896,1039 2049,1036 2202,1036 2355,1038 2508,1036 2661,1038 2814,1031 2967,1027 3120,1030 3273,1024"/>
+                <TextEquiv>
+                    <Unicode>Sang. IV 13,4(S.210(a));III 7,4 (S.157(b.)). Decr.V 7,9(a);III 38,23(b).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_615" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="99,197 3428,197 3428,869 99,869"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="180,407 200,407 207,415 247,419 254,427 301,423 301,333 282,333 270,321 258,333 211,329 204,337 180,337"/>
+                <Baseline points="203,400 229,398 256,398 283,399 310,400"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2012,340 2442,337 2446,219 2364,223 2348,239 2313,207 2266,239 2231,219 2192,258 2137,254 2113,231 2016,227"/>
+                <Baseline points="2036,301 2062,304 2088,304 2114,304 2140,304 2166,306 2193,307 2219,307 2245,307 2271,307 2297,306 2324,304 2350,304 2376,303 2402,299 2428,294 2455,289"/>
+                <TextEquiv>
+                    <Unicode>JL. 15109</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3072,305 3092,305 3108,321 3139,321 3158,301 3194,321 3225,305 3244,321 3381,313 3381,188 3307,184 3288,196 3264,180 3237,204 3209,188 3178,188 3166,200 3115,188 3104,200 3072,200"/>
+                <Baseline points="3094,301 3120,298 3147,298 3174,298 3201,298 3228,298 3254,298 3281,296 3308,295 3335,295 3362,296 3389,298"/>
+                <TextEquiv>
+                    <Unicode>0015</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="442,513 3139,493 3299,423 446,462"/>
+                <Baseline points="465,504 607,499 749,498 891,495 1034,495 1176,493 1318,492 1461,491 1603,489 1745,486 1888,480 2030,483 2172,481 2314,480 2457,477 2599,477 2741,474 2884,474 3026,471 3168,468 3311,464"/>
+                <TextEquiv>
+                    <Unicode>Ad abolendam diversarum heresum - appellantibus prebituri. Dat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="196,630 384,661 493,611 532,634 1057,611 1057,552 943,575 908,536 783,560 567,540 509,579 470,544 380,567 313,536 196,552"/>
+                <Baseline points="218,621 260,618 302,618 345,615 387,615 430,615 472,613 514,612 557,612 599,610 642,609 684,609 726,609 769,609 811,609 854,608 896,607 938,608 981,603 1023,600 1066,603"/>
+                <TextEquiv>
+                    <Unicode>(a) Ad abolendam —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="1135,638 2207,607 2207,548 2168,532 1765,552 1734,524 1659,571 1526,528 1460,556 1389,524 1135,544"/>
+                <Baseline points="1155,606 1207,604 1260,603 1313,603 1366,606 1419,603 1472,602 1525,600 1578,600 1631,600 1684,599 1736,598 1789,598 1842,597 1895,592 1948,594 2001,594 2054,594 2107,594 2160,594 2213,594"/>
+                <TextEquiv>
+                    <Unicode>privilegiis obsequantur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="196,744 2121,724 2160,658 873,673 744,618 693,669 196,665"/>
+                <Baseline points="218,728 315,722 413,722 510,719 608,722 706,715 803,713 901,720 999,716 1096,713 1194,712 1292,713 1389,711 1487,710 1585,707 1682,701 1780,707 1878,704 1975,704 2073,701 2171,701"/>
+                <TextEquiv>
+                    <Unicode>(b) Preterea quoniam advocati - prebituri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="180,849 2603,838 2607,728 180,771"/>
+                <Baseline points="203,839 323,836 443,833 564,833 684,833 804,829 925,830 1045,827 1165,825 1286,822 1406,824 1526,821 1647,822 1767,820 1887,818 2008,813 2128,813 2248,809 2369,810 2489,808 2610,809"/>
+                <TextEquiv>
+                    <Unicode>Lusius III. (Constitutio Lucii III facta apud Veronam)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="2912,814 2967,834 2982,818 3115,806 3147,818 3170,794 3198,822 3331,810 3417,826 3417,708 3370,740 3201,732 3174,759 3143,736 2974,736 2947,708 2912,708"/>
+                <Baseline points="2935,803 2960,803 2986,803 3012,803 3038,802 3063,800 3089,800 3115,800 3141,800 3167,800 3192,800 3218,800 3244,800 3270,799 3296,797 3321,801 3347,804 3373,805 3399,809 3425,815"/>
+                <TextEquiv>
+                    <Unicode>(1184 Nov.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="190,1138 203,1955 3425,1955 3425,1066"/>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:0;}">
+                <Coords points="196,1217 3272,1182 3331,1104 196,1147"/>
+                <Baseline points="218,1200 374,1200 530,1198 686,1199 842,1199 998,1188 1154,1194 1310,1191 1466,1188 1622,1187 1778,1185 1934,1182 2090,1179 2246,1179 2402,1179 2558,1174 2714,1173 2870,1167 3026,1167 3182,1164 3339,1158"/>
+                <TextEquiv>
+                    <Unicode>a) Nur Rot.19,1. b) p.c.ad abolendam A. Sang.; Ad abolondam et infra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:1;}">
+                <Coords points="317,1288 337,1288 344,1295 427,1295 442,1284 454,1295 477,1295 485,1288 521,1295 521,1237 497,1237 474,1217 403,1225 395,1217 348,1213 337,1225 317,1225"/>
+                <Baseline points="337,1275 364,1275 392,1275 420,1275 447,1275 475,1275 503,1277 531,1275"/>
+                <TextEquiv>
+                    <Unicode>Rot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:2;}">
+                <Coords points="681,1276 755,1299 806,1272 1319,1295 1452,1280 1452,1209 1335,1198 1307,1225 1284,1198 1229,1202 1162,1245 1100,1209 1010,1202 947,1229 755,1209 681,1233"/>
+                <Baseline points="701,1275 739,1275 777,1271 815,1269 853,1269 891,1269 929,1269 967,1269 1005,1269 1043,1267 1082,1267 1120,1269 1158,1269 1196,1269 1234,1269 1272,1269 1310,1267 1348,1265 1386,1263 1424,1263 1463,1263"/>
+                <TextEquiv>
+                    <Unicode>c) so Rot. 25,10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:3;}">
+                <Coords points="192,1440 3131,1405 3335,1323 192,1366"/>
+                <Baseline points="212,1424 368,1421 525,1418 681,1415 838,1415 994,1412 1151,1409 1307,1409 1464,1406 1620,1406 1777,1406 1933,1401 2090,1397 2246,1397 2403,1394 2559,1390 2716,1391 2872,1388 3029,1385 3185,1383 3342,1379"/>
+                <TextEquiv>
+                    <Unicode>Der Zusammenhang der beiden Teilstuecke ist ueberall durch den Verweis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:4;}">
+                <Coords points="200,1511 3111,1479 3115,1397 200,1444"/>
+                <Baseline points="221,1493 366,1493 511,1491 656,1490 801,1489 946,1487 1091,1484 1236,1481 1381,1484 1526,1484 1671,1482 1816,1478 1961,1475 2106,1472 2251,1473 2396,1467 2541,1466 2686,1465 2831,1463 2976,1460 3121,1460"/>
+                <TextEquiv>
+                    <Unicode>auf die Stammdekretale (in Sang.III 7,4 korrupt) gewahrt. Oriel.I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:5;}">
+                <Coords points="196,1581 2481,1577 3268,1483 196,1526"/>
+                <Baseline points="218,1568 371,1571 524,1569 677,1568 830,1567 983,1565 1136,1559 1289,1559 1442,1556 1595,1556 1748,1556 1901,1550 2054,1550 2207,1547 2360,1547 2513,1544 2666,1541 2819,1538 2972,1535 3125,1535 3279,1523"/>
+                <TextEquiv>
+                    <Unicode>schliesst schon mit den Worten excommunicatione ligandi. Eine Auslas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:6;}">
+                <Coords points="200,1663 3064,1636 3068,1550 200,1605"/>
+                <Baseline points="221,1645 363,1647 506,1645 649,1642 792,1642 934,1639 1077,1638 1220,1633 1363,1633 1505,1633 1648,1630 1791,1630 1934,1625 2076,1625 2219,1621 2362,1621 2505,1618 2647,1615 2790,1613 2933,1610 3076,1603"/>
+                <TextEquiv>
+                    <Unicode>sung in dem Kapitel a besteht nicht; et infra ist, wie Friedberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:7;}">
+                <Coords points="204,1738 2845,1714 3115,1699 3119,1612 204,1667"/>
+                <Baseline points="224,1720 369,1720 514,1712 659,1714 804,1714 949,1713 1094,1711 1239,1711 1384,1705 1529,1705 1674,1705 1819,1702 1964,1699 2109,1702 2254,1694 2399,1693 2544,1690 2689,1687 2834,1685 2979,1684 3124,1678"/>
+                <TextEquiv>
+                    <Unicode>not. 24 bemerkt, Zusatz Raimundi. Bei not. 31 von Friedbergs Text</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:8;}">
+                <Coords points="192,1804 3064,1777 3115,1695 192,1753"/>
+                <Baseline points="215,1795 360,1792 505,1790 651,1789 796,1789 942,1786 1087,1783 1233,1784 1378,1783 1524,1779 1669,1777 1814,1774 1960,1774 2105,1771 2251,1768 2396,1766 2542,1765 2687,1764 2833,1760 2978,1759 3124,1756"/>
+                <TextEquiv>
+                    <Unicode>ist mit Rot. zu lesen: Ad hec de speciali consilio etessestione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:9;}">
+                <Coords points="196,1875 3010,1863 3284,1843 3288,1769 196,1824"/>
+                <Baseline points="218,1866 380,1866 542,1864 704,1860 866,1860 1028,1857 1190,1857 1352,1855 1514,1853 1676,1848 1838,1848 2000,1845 2162,1842 2324,1839 2486,1836 2648,1833 2810,1836 2972,1831 3134,1827 3297,1821"/>
+                <TextEquiv>
+                    <Unicode>culminis imperialis. Vgl. zu dieser Ketzerkonstitution des Kongresses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:10;}">
+                <Coords points="196,1941 2704,1937 2873,1922 2877,1851 196,1883"/>
+                <Baseline points="218,1938 351,1938 484,1937 617,1935 750,1932 884,1932 1017,1929 1150,1930 1283,1929 1416,1926 1550,1925 1683,1922 1816,1920 1949,1920 2082,1920 2215,1917 2349,1914 2482,1911 2615,1911 2748,1911 2882,1908"/>
+                <TextEquiv>
+                    <Unicode>von Verona Giesrebrecht, Geschichte d. dt. Kaiserzeit 6,622.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

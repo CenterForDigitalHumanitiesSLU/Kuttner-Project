@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:25:13.106+02:00</Created>
+        <LastChange>2024-05-04T20:08:18.036+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733593" pageNr="178" tsid="163772849" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=FDSOSBZTLJFEGUBPWCLLXGDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIJLEPGXEVUBIZNOZJOAUKCB" imageId="54996464"/>
+    </Metadata>
+    <Page imageFilename="0178_p178.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231968" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="122,319 3351,319 3351,607 122,607"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3052,380 3072,380 3088,396 3135,384 3155,400 3199,400 3215,388 3270,400 3290,384 3310,400 3345,400 3345,269 3321,265 3286,281 3270,265 3246,265 3215,285 3191,261 3167,261 3139,281 3112,257 3092,257 3076,273 3052,273"/>
+                <Baseline points="3073,370 3079,370 3124,373 3168,376 3213,376 3258,379 3303,376 3351,369"/>
+                <TextEquiv>
+                    <Unicode>0144</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="131,400 170,400 182,388 261,400 293,372 309,388 424,396 424,281 404,281 376,309 317,301 301,317 273,301 131,301"/>
+                <Baseline points="152,373 197,373 241,376 286,373 331,373 376,373 421,376 433,373"/>
+                <TextEquiv>
+                    <Unicode>(129 II)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="99,527 3258,530 3282,451 99,463"/>
+                <Baseline points="122,516 152,516 197,519 241,516 286,516 331,516 376,516 421,516 465,516 510,516 555,519 600,516 645,516 689,513 734,516 779,513 824,516 869,513 913,513 958,513 1003,516 1048,513 1093,513 1137,513 1182,513 1227,513 1272,513 1317,510 1361,513 1406,510 1451,513 1496,510 1541,513 1585,513 1630,507 1675,510 1720,510 1765,513 1809,513 1854,510 1899,513 1944,513 1989,513 2033,510 2078,513 2123,513 2168,513 2213,513 2257,513 2302,513 2347,510 2392,507 2437,510 2481,510 2526,510 2571,510 2616,513 2661,513 2705,513 2750,510 2795,510 2840,510 2885,510 2929,510 2974,510 3019,510 3064,510 3109,510 3154,510 3198,507 3243,507 3288,501"/>
+                <TextEquiv>
+                    <Unicode>Ausserdem H. Labande, Bullaire de l'abbaye de Lérins, in Annales Soc. Alpes Maritimes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="103,606 3056,614 3056,527 103,538"/>
+                <Baseline points="125,594 155,594 200,597 244,597 289,597 334,597 379,594 424,594 468,591 513,591 558,597 603,594 648,591 692,591 737,594 782,594 827,594 872,594 916,594 961,591 1006,591 1051,594 1096,594 1140,591 1185,591 1230,588 1275,591 1320,588 1364,591 1409,591 1454,591 1499,594 1544,594 1588,594 1633,591 1678,591 1723,591 1768,591 1812,591 1857,591 1902,591 1947,591 1992,591 2036,591 2081,594 2126,594 2171,591 2216,588 2260,588 2305,588 2350,588 2395,588 2440,588 2484,588 2529,588 2574,591 2619,591 2664,591 2708,591 2753,591 2798,591 2843,594 2888,594 2932,588 2977,591 3022,597 3067,591"/>
+                <TextEquiv>
+                    <Unicode>24 (1922) 153 Nr. 26, zit. bei V. Pfaff, Arch. für Diplomatik 18 (1222) 343 n. 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

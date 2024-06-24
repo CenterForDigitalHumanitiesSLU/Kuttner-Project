@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:13.434+02:00</Created>
+        <LastChange>2024-06-21T06:02:50.180+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733478" pageNr="125" tsid="173206136" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=PKUIFUSCGTVSWNRCTFOEAAQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLESLZDCIPZFCNKFJSMORWRB" imageId="54996350"/>
+    </Metadata>
+    <Page imageFilename="0125_p125.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231026" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="310,114 3216,114 3216,738 310,738"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="2940,182 2987,192 3006,178 3031,196 3133,185 3154,163 3173,163 3176,58 3115,40 3082,62 3042,36 3020,58 2962,22 2944,22"/>
+                <Baseline points="2962,170 2998,167 3043,164 3088,167 3133,164 3177,164"/>
+                <TextEquiv>
+                    <Unicode>0104
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="290,316 3027,309 3104,225 294,243"/>
+                <Baseline points="310,301 331,301 376,301 421,301 465,301 510,301 555,301 600,301 645,298 689,298 734,301 779,298 824,298 869,298 913,301 958,301 1003,301 1048,298 1093,301 1137,298 1182,301 1227,298 1272,298 1317,298 1361,298 1406,298 1451,298 1496,298 1541,295 1585,295 1630,295 1675,295 1720,295 1765,292 1809,292 1854,295 1899,295 1944,292 1989,295 2033,292 2078,289 2123,292 2168,292 2213,289 2257,289 2302,292 2347,289 2392,289 2437,289 2481,289 2526,289 2571,286 2616,289 2661,289 2705,286 2750,286 2795,283 2840,286 2885,286 2929,286 2974,283 3019,286 3064,286 3109,280"/>
+                <TextEquiv>
+                    <Unicode>schon fruehzeitig in einen Sammlungstext eingedrungen ist, und es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="298,399 2875,388 2879,309 298,323"/>
+                <Baseline points="316,385 331,385 376,385 421,385 465,385 510,382 555,382 600,385 645,385 689,385 734,382 779,382 824,382 869,382 913,379 958,382 1003,382 1048,382 1093,382 1137,379 1182,379 1227,382 1272,382 1317,382 1361,382 1406,379 1451,379 1496,382 1541,379 1585,379 1630,379 1675,379 1720,379 1765,379 1809,379 1854,379 1899,376 1944,376 1989,376 2033,376 2078,376 2123,376 2168,373 2213,373 2257,376 2302,373 2347,373 2392,373 2437,373 2481,373 2526,373 2571,373 2616,373 2661,370 2705,370 2750,370 2795,370 2840,370 2885,367"/>
+                <TextEquiv>
+                    <Unicode>waere nur noch die Dekretale festzustellen, der diese Glosse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="294,483 3205,476 3104,378 294,399"/>
+                <Baseline points="313,468 349,471 394,468 439,465 483,468 528,468 573,468 618,468 663,465 707,465 752,468 797,465 842,468 887,468 931,465 976,468 1021,465 1066,465 1111,465 1155,465 1200,465 1245,465 1290,465 1335,465 1379,462 1424,465 1469,462 1514,465 1559,462 1603,462 1648,462 1693,462 1738,459 1783,462 1827,462 1872,462 1917,459 1962,459 2007,459 2051,459 2096,462 2141,459 2186,456 2231,459 2275,459 2320,459 2365,459 2410,456 2455,459 2499,459 2544,459 2589,459 2634,456 2679,456 2723,456 2768,456 2813,453 2858,453 2903,456 2947,456 2992,456 3037,456 3082,456 3127,456 3171,453 3216,456"/>
+                <TextEquiv>
+                    <Unicode>beigefuegt war und die vielleicht die Inskription erklaeren koennte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="294,577 3056,555 3056,476 294,486"/>
+                <Baseline points="313,555 334,555 379,555 424,555 468,555 513,552 558,555 603,555 648,555 692,555 737,555 782,552 827,555 872,552 916,552 961,552 1006,552 1051,552 1096,552 1140,552 1185,549 1230,549 1275,549 1320,549 1364,549 1409,549 1454,549 1499,549 1544,546 1588,549 1633,546 1678,546 1723,552 1768,546 1812,546 1857,549 1902,546 1947,546 1992,549 2036,546 2081,546 2126,543 2171,543 2216,543 2260,543 2305,540 2350,540 2395,540 2440,540 2484,540 2529,540 2574,540 2619,540 2664,540 2708,540 2753,540 2798,543 2843,543 2888,540 2932,540 2977,540 3022,540 3067,537"/>
+                <TextEquiv>
+                    <Unicode>Die Dekretale 'Causam que vertitur' JL. 13166 ist das sicher nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="290,668 3125,577 290,592"/>
+                <Baseline points="310,645 355,642 400,639 445,639 489,642 534,642 579,639 624,639 669,639 713,639 758,639 803,639 848,639 893,639 937,639 982,639 1027,639 1072,639 1117,639 1161,639 1206,636 1251,636 1296,633 1341,633 1385,630 1430,633 1475,636 1520,633 1565,633 1609,636 1654,636 1699,633 1744,636 1789,633 1833,633 1878,630 1923,630 1968,630 2013,630 2057,630 2102,630 2147,630 2192,630 2237,630 2281,627 2326,627 2371,627 2416,627 2461,627 2505,627 2550,624 2595,627 2640,627 2685,627 2729,627 2774,627 2819,627 2864,627 2909,627 2953,627 2998,624 3043,621 3088,618 3133,612"/>
+                <TextEquiv>
+                    <Unicode>gewesen, denn in ihr ist von der Jurisdiktionsgewalt der Archidia-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="290,737 1162,737 1162,686 1078,653 926,675 577,653 497,690 472,664 290,668"/>
+                <Baseline points="310,728 319,728 364,725 409,725 453,725 498,725 543,725 588,725 633,725 677,725 722,725 767,722 812,722 857,722 901,722 946,722 991,722 1036,722 1081,722 1126,722 1170,719"/>
+                <TextEquiv>
+                    <Unicode>come nicht die Rede.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

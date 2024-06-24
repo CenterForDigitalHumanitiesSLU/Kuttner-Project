@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:07</Creator>
+        <Created>2024-04-18T03:24:11.432+02:00</Created>
+        <LastChange>2024-06-21T05:56:09.355+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733472" pageNr="119" tsid="173206057" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=KRJFTMCTQYRPGIZJWERRCDPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDLVDXORNAFFESQTCARKTHSJ" imageId="54996344"/>
+    </Metadata>
+    <Page imageFilename="0119_p119.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230951" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="5,320 3396,125 3383,2327 5,2327"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3015,316 3102,310 3170,310 3230,310 3291,310 3291,279 3230,279 3170,279 3101,279 3013,286"/>
+                <Baseline points="3015,316 3102,310 3170,310 3230,310 3291,310"/>
+                <TextEquiv>
+                    <Unicode>0100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="224,396 3372,392 3372,318 2810,298 224,302"/>
+                <Baseline points="247,379 247,376 292,385 337,382 382,385 427,382 471,385 516,382 561,385 606,382 651,382 695,382 740,382 785,379 830,379 875,382 919,382 964,382 1009,379 1054,379 1099,379 1143,382 1188,382 1233,376 1278,376 1323,379 1367,382 1412,379 1457,379 1502,379 1547,379 1591,379 1636,379 1681,379 1726,379 1771,376 1815,376 1860,379 1905,379 1950,376 1995,376 2039,376 2084,376 2129,376 2174,376 2219,376 2263,376 2308,376 2353,376 2398,373 2443,376 2487,373 2532,373 2577,376 2622,376 2667,373 2711,373 2756,373 2801,373 2846,373 2891,370 2935,370 2980,373 3025,376 3070,376 3115,379 3159,376 3204,379 3249,376 3294,376 3339,370 3383,373"/>
+                <TextEquiv>
+                    <Unicode>Inskription: Universis suffraganeis Cantuariensis ecclesie p.c. supra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="224,498 3332,495 3332,416 224,432"/>
+                <Baseline points="247,474 250,477 295,480 340,480 385,480 430,480 474,477 519,477 564,477 609,477 654,477 698,477 743,477 788,477 833,477 878,477 922,474 967,477 1012,474 1057,474 1102,468 1146,468 1191,471 1236,474 1281,477 1326,474 1370,477 1415,477 1460,477 1505,477 1550,477 1594,477 1639,477 1684,477 1729,477 1774,477 1818,477 1863,477 1908,477 1953,474 1998,474 2042,477 2087,474 2132,474 2177,474 2222,474 2266,474 2311,474 2356,474 2401,474 2446,474 2490,474 2535,474 2580,474 2625,477 2670,474 2714,474 2759,468 2804,468 2849,474 2894,471 2938,471 2983,471 3028,471 3073,474 3118,474 3162,474 3207,474 3252,474 3297,471 3342,468"/>
+                <TextEquiv>
+                    <Unicode>proxmi; vorausgeht - wie in der Bb.gr. in dem Titel De preeminentia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="224,565 3156,577 3273,495 224,498"/>
+                <Baseline points="244,552 280,555 325,555 370,552 415,552 459,552 504,555 549,552 594,555 639,552 683,552 728,552 773,552 818,552 863,552 907,549 952,552 997,552 1042,552 1087,552 1131,552 1176,549 1221,552 1266,552 1311,552 1355,552 1400,552 1445,552 1490,552 1535,549 1579,549 1624,549 1669,552 1714,549 1759,549 1803,549 1848,549 1893,546 1938,549 1983,549 2028,549 2072,546 2117,549 2162,549 2207,546 2252,546 2296,546 2341,546 2386,549 2431,549 2476,549 2520,546 2565,546 2610,546 2655,546 2700,543 2744,546 2789,543 2834,546 2879,543 2924,543 2968,546 3013,546 3058,546 3103,546 3148,543 3192,546 3237,543 3282,546"/>
+                <TextEquiv>
+                    <Unicode>Lundoniensis et Eboracensis der Brief Gregors I. Cum certum sit JE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="224,640 3179,640 3376,565 224,569"/>
+                <Baseline points="247,627 289,627 334,627 379,630 424,624 468,627 513,627 558,630 603,627 648,627 692,627 737,627 782,627 827,627 872,627 916,627 961,627 1006,627 1051,630 1096,630 1140,627 1185,627 1230,630 1275,627 1320,627 1364,624 1409,624 1454,624 1499,627 1544,624 1588,627 1633,627 1678,624 1723,624 1768,621 1812,618 1857,621 1902,624 1947,621 1992,621 2036,624 2081,624 2126,624 2171,624 2216,621 2260,618 2305,621 2350,618 2395,621 2440,621 2484,621 2529,621 2574,618 2619,621 2664,618 2708,618 2753,621 2798,618 2843,618 2888,618 2932,621 2977,621 3022,621 3067,621 3112,621 3156,621 3201,621 3246,618 3291,618 3336,618 3380,618"/>
+                <TextEquiv>
+                    <Unicode>1829. Die falsche Inskription und der falsche Verweis ist uebernommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="224,710 2241,718 2155,632 224,648"/>
+                <Baseline points="247,695 292,701 337,701 382,701 427,701 471,701 516,701 561,701 606,701 651,704 695,704 740,701 785,701 830,701 875,701 919,698 964,698 1009,701 1054,701 1099,701 1143,701 1188,701 1233,698 1278,698 1323,698 1367,698 1412,701 1457,701 1502,698 1547,698 1591,701 1636,701 1681,698 1726,698 1771,698 1815,698 1860,698 1905,698 1950,698 1995,698 2039,698 2084,698 2129,698 2174,698 2219,701 2246,707"/>
+                <TextEquiv>
+                    <Unicode>in Sang. (Idem) und Abrinc. 'Alexander III.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="228,820 310,844 440,812 1193,828 1193,761 1087,730 977,761 860,746 816,781 781,746 726,781 632,746 404,781 353,726 228,742"/>
+                <Baseline points="250,806 295,812 340,812 385,812 430,812 474,815 519,815 564,815 609,812 654,815 698,812 743,812 788,812 833,812 878,812 922,809 967,812 1012,809 1057,809 1102,806 1146,806 1191,812 1203,812"/>
+                <TextEquiv>
+                    <Unicode>Vgl. auch A memoria.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

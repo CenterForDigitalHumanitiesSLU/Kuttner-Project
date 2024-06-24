@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:22:35.114+02:00</Created>
+        <LastChange>2024-06-21T04:55:07.457+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733408" pageNr="65" tsid="173205253" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=UTURKATNOPLGYBJTQZCMCPHK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLOTEKXALNQOTQEYDHONHEOX" imageId="54996280"/>
+    </Metadata>
+    <Page imageFilename="0065_p065.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229902" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_559"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="72,849 3474,849 3474,1060 72,1060"/>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:0;}">
+                <Coords points="197,947 3316,967 3428,866 197,878"/>
+                <Baseline points="218,934 379,940 540,938 701,937 862,937 1023,934 1184,932 1345,931 1506,929 1667,929 1829,928 1990,925 2151,927 2312,925 2473,925 2634,925 2795,926 2956,921 3117,919 3278,923 3440,922"/>
+                <TextEquiv>
+                    <Unicode>Pet. IV.11. Brug.4,4. Sang.II 4,2(S.134). Abr.II 2,1(S.359). Alan.V 3,2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:1;}">
+                <Coords points="193,1064 2337,1031 2337,947 2059,927 1720,979 193,947"/>
+                <Baseline points="215,1015 321,1015 428,1015 534,1016 641,1015 748,1015 854,1012 961,1012 1067,1012 1174,1012 1281,1010 1387,1007 1494,1006 1600,1009 1707,1008 1814,1006 1920,1008 2027,1009 2133,1011 2240,1005 2347,1006"/>
+                <TextEquiv>
+                    <Unicode>Fuld.V 3,2. Esten.V 2,7. B V 2,4. Decr. V 3,24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_559" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="86,145 3461,145 3461,862 86,862"/>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:0;}">
+                <Coords points="218,451 242,447 254,459 274,451 302,451 290,330 266,330 262,338 246,334 234,322 226,330 205,330"/>
+                <Baseline points="235,427 262,425 289,427 316,436"/>
+                <TextEquiv>
+                    <Unicode>50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="2143,447 2574,439 2574,286 2546,286 2518,314 2421,306 2397,330 2349,330 2317,363 2280,363 2212,314 2143,342"/>
+                <Baseline points="2165,406 2191,406 2217,406 2243,406 2270,405 2296,403 2322,403 2349,403 2375,403 2401,403 2428,403 2454,404 2480,406 2507,406 2533,406 2559,406 2586,406"/>
+                <TextEquiv>
+                    <Unicode>JL. 15192</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3138,383 3167,379 3195,351 3223,375 3352,359 3368,342 3416,351 3416,149 3388,149 3368,133 3271,149 3219,137 3134,149"/>
+                <Baseline points="3156,328 3183,326 3210,326 3237,327 3264,328 3292,328 3319,326 3346,326 3373,328 3400,331 3428,334"/>
+                <TextEquiv>
+                    <Unicode>0056</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="459,572 3420,544 3219,471 459,496"/>
+                <Baseline points="483,564 630,564 777,564 925,564 1072,558 1220,558 1367,558 1514,557 1662,555 1809,555 1957,555 2104,552 2251,555 2399,552 2546,549 2694,546 2841,544 2988,543 3136,544 3283,543 3431,543"/>
+                <TextEquiv>
+                    <Unicode>Ad aures nostras pervenisse cognoveris, quod cum G. de Senevilla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="205,705 318,689 395,709 560,677 596,709 786,681 915,697 967,689 967,608 830,600 677,628 596,596 552,628 524,604 342,596 205,616"/>
+                <Baseline points="226,680 263,677 301,677 338,675 376,675 413,676 451,677 488,677 526,680 563,676 601,675 638,675 676,675 713,675 751,675 788,675 826,675 863,675 901,674 938,672 976,672"/>
+                <TextEquiv>
+                    <Unicode>propter pecuniam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="1241,677 1833,665 2224,697 2228,604 2079,620 2043,588 1950,588 1829,637 1789,592 1378,628 1321,596 1241,628"/>
+                <Baseline points="1263,669 1311,669 1359,669 1408,669 1456,669 1505,669 1553,669 1601,669 1650,666 1698,666 1747,668 1795,666 1843,666 1892,666 1940,666 1989,664 2037,663 2085,663 2134,660 2182,660 2231,663"/>
+                <TextEquiv>
+                    <Unicode>ei noluerint exhibere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="185,802 234,826 266,810 487,802 536,834 588,802 637,830 657,810 737,798 737,761 673,717 544,717 516,745 471,729 403,737 387,721 351,737 322,709 270,729 185,721"/>
+                <Baseline points="209,791 236,791 263,791 290,791 317,791 344,791 371,791 398,791 425,791 452,790 479,788 506,788 533,788 560,788 587,788 614,788 641,786 668,786 695,788 722,789 749,791"/>
+                <TextEquiv>
+                    <Unicode>Lucius III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="794,786 1579,798 1616,782 1620,677 1402,733 1245,713 1193,661 1084,717 991,737 870,717 794,753"/>
+                <Baseline points="815,782 855,784 895,785 936,783 976,782 1017,782 1057,782 1098,782 1138,781 1179,776 1219,779 1259,779 1300,779 1340,779 1381,779 1421,779 1462,779 1502,779 1543,778 1583,776 1624,776"/>
+                <TextEquiv>
+                    <Unicode>decano Remensi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="2748,802 2836,786 2985,786 3001,769 3070,794 3110,786 3146,798 3146,689 3038,689 3001,725 2949,685 2897,697 2872,677 2832,701 2788,689 2748,701"/>
+                <Baseline points="2768,773 2793,771 2819,770 2844,770 2870,770 2895,770 2921,770 2946,770 2972,768 2997,767 3023,769 3048,770 3074,770 3099,772 3125,776 3151,776"/>
+                <TextEquiv>
+                    <Unicode>(1181-85)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="39,1090 32,2337 3440,2337 3447,1051"/>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:0;}">
+                <Coords points="359,1164 2768,1172 2977,1156 2977,1092 359,1112"/>
+                <Baseline points="379,1161 509,1161 640,1161 770,1160 901,1158 1031,1156 1162,1155 1292,1155 1423,1155 1553,1149 1684,1155 1814,1152 1945,1149 2075,1151 2206,1151 2336,1151 2467,1149 2597,1149 2728,1148 2858,1143 2989,1143"/>
+                <TextEquiv>
+                    <Unicode>Schluss in X veraendert (- requisiti). a) Brug.X: Idem.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:1;}">
+                <Coords points="197,1309 500,1241 677,1293 741,1249 955,1273 1015,1245 1043,1273 1160,1253 1160,1176 1035,1160 971,1197 878,1164 197,1168"/>
+                <Baseline points="218,1233 265,1239 313,1239 360,1239 408,1239 456,1239 503,1238 551,1237 598,1239 646,1239 694,1239 741,1239 789,1239 836,1239 884,1242 932,1239 979,1239 1027,1236 1074,1236 1122,1234 1170,1236"/>
+                <TextEquiv>
+                    <Unicode>b) nur Brug. Sang. Abr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

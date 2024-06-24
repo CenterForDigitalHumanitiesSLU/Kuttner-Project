@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:07</Creator>
+        <Created>2024-04-18T03:23:47.689+02:00</Created>
+        <LastChange>2024-06-21T05:38:13.626+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733458" pageNr="105" tsid="173205677" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=DWLMMVODBXNQMZDVHLWRWFTN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ANGPNYSCTOSNCTJVSCWBNNAM" imageId="54996330"/>
+    </Metadata>
+    <Page imageFilename="0105_p105.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230680" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="0,326 3506,326 3506,2327 0,2327"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3010,385 3051,402 3095,383 3125,402 3163,383 3193,402 3234,385 3267,402 3300,396 3300,276 3261,252 3242,271 3188,273 3174,287 3152,287 3130,268 3092,298 3056,271 3010,295"/>
+                <Baseline points="3025,376 3070,382 3115,385 3159,385 3204,388 3249,382 3294,376 3306,376"/>
+                <TextEquiv>
+                    <Unicode>0089</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="200,448 2397,457 2397,396 2288,377 200,396"/>
+                <Baseline points="215,450 250,448 295,448 340,448 385,448 430,448 474,448 519,448 564,448 609,448 654,448 698,448 743,448 788,445 833,448 878,448 922,445 967,445 1012,448 1057,448 1102,448 1146,445 1191,448 1236,448 1281,445 1326,445 1370,445 1415,445 1460,442 1505,445 1550,445 1594,442 1639,445 1684,442 1729,442 1774,442 1818,442 1863,445 1908,442 1953,442 1998,439 2042,442 2087,442 2132,442 2177,442 2222,439 2266,442 2311,442 2356,442 2401,445"/>
+                <TextEquiv>
+                    <Unicode>Soehne Heinrichs II. gegen ihren Vater beendete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

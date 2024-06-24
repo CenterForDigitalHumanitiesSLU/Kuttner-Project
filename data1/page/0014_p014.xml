@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:41.291+02:00</Created>
+        <LastChange>2024-06-13T20:21:45.085+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733343" pageNr="14" tsid="171978295" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=OFDWAWMHOWPZSMHWLNBHUFQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTSNZJTMQRVLHQFNZUHMDVSM" imageId="54996215"/>
+    </Metadata>
+    <Page imageFilename="0014_p014.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="158,141 158,2336 3451,2336 3451,141"/>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3094,315 3144,303 3159,315 3209,315 3221,303 3244,322 3282,322 3301,303 3340,303 3344,146 3098,150"/>
+                <Baseline points="3115,298 3140,298 3166,298 3191,300 3217,300 3242,298 3268,297 3293,295 3319,297 3345,301"/>
+                <TextEquiv>
+                    <Unicode>0013</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="161,411 3248,411 3248,311 2868,242 783,349 161,223"/>
+                <Baseline points="182,382 335,382 489,385 642,385 796,383 949,380 1103,379 1256,379 1410,379 1563,376 1717,375 1870,373 2024,373 2177,367 2331,367 2484,367 2638,365 2791,365 2945,364 3098,359 3252,349"/>
+                <TextEquiv>
+                    <Unicode>Von der Bb.gr. ab ist die Inskription weggelassen und durch Idem er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="146,484 2015,476 2157,461 2157,388 146,407"/>
+                <Baseline points="167,459 267,459 367,459 467,459 567,456 667,456 767,456 867,456 967,456 1067,453 1167,451 1267,450 1367,450 1467,449 1567,448 1667,448 1767,448 1867,447 1967,445 2067,443 2168,445"/>
+                <TextEquiv>
+                    <Unicode>setzt sowie das Incipit einheitlich Accepta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="138,610 2092,607 2403,576 2407,480 138,537"/>
+                <Baseline points="158,585 270,582 383,581 496,579 609,579 721,573 834,578 947,576 1060,573 1172,569 1285,568 1398,570 1511,565 1623,561 1736,558 1849,558 1962,558 2074,562 2187,563 2300,563 2413,564"/>
+                <TextEquiv>
+                    <Unicode>ed. Holtzmann-Hemp, Papal decretals. Lincoln, Nr 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:25:33.945+02:00</Created>
+        <LastChange>2024-05-04T20:46:58.132+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733606" pageNr="191" tsid="163779092" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=FHPORJLKVMECZKURHNOCGWXU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOELPGWWDYNQKLUCSPJJNBWH" imageId="54996477"/>
+    </Metadata>
+    <Page imageFilename="0191_p191.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011232156" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_581"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_581" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="139,99 3487,99 3487,860 139,860"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="167,418 185,414 218,440 258,422 280,440 323,425 338,440 392,440 407,425 472,429 472,305 414,313 342,302 323,320 291,291 262,309 243,309 211,283 167,294"/>
+                <Baseline points="188,403 232,403 277,406 322,406 367,403 412,409 456,406 477,403"/>
+                <TextEquiv>
+                    <Unicode>138</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2358,363 2489,371 2511,360 2718,360 2714,262 2674,265 2627,302 2478,280 2453,254 2355,254"/>
+                <Baseline points="2380,328 2425,331 2470,334 2514,331 2526,328 2559,337 2604,337 2649,343 2694,346 2723,343"/>
+                <TextEquiv>
+                    <Unicode>JL. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;}">
+                <Coords points="3136,251 3154,251 3176,273 3223,262 3252,276 3347,276 3372,254 3390,273 3423,276 3419,134 3365,153 3336,153 3314,134 3136,142"/>
+                <Baseline points="3156,250 3201,253 3246,250 3291,250 3336,253 3380,253 3425,253 3431,256"/>
+                <TextEquiv>
+                    <Unicode>0154</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="596,494 3172,491 3289,487 3292,411 596,425"/>
+                <Baseline points="615,480 654,483 698,480 743,483 788,483 833,480 878,483 922,480 967,477 1012,480 1057,480 1102,477 1146,477 1191,477 1236,477 1281,477 1326,480 1370,477 1415,477 1460,477 1505,480 1550,477 1594,477 1639,480 1684,480 1729,477 1774,477 1818,477 1863,477 1908,477 1953,474 1998,477 2042,474 2087,474 2132,474 2177,474 2222,474 2266,474 2311,471 2356,474 2401,474 2446,474 2490,474 2535,474 2580,474 2625,474 2670,474 2714,471 2759,471 2804,471 2849,471 2894,471 2938,471 2983,471 3028,471 3073,471 3118,471 3162,471 3207,468 3252,468 3297,471"/>
+                <TextEquiv>
+                    <Unicode>Conquerente dilecto filio magistro R. ad nostram audientiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="276,603 2896,600 3063,592 3063,516 276,534"/>
+                <Baseline points="295,594 340,594 385,594 430,591 474,591 519,591 564,591 609,591 654,588 698,591 743,591 788,591 833,588 878,591 922,591 967,588 1012,588 1057,591 1102,591 1146,591 1191,588 1236,591 1281,591 1326,591 1370,588 1415,588 1460,588 1505,591 1550,588 1594,588 1639,588 1684,588 1729,588 1774,588 1818,585 1863,585 1908,585 1953,585 1998,585 2042,585 2087,585 2132,582 2177,582 2222,582 2266,579 2311,579 2356,582 2401,582 2446,582 2490,582 2535,582 2580,582 2625,582 2670,582 2714,582 2759,582 2804,579 2849,582 2894,582 2938,579 2983,579 3028,576 3073,576"/>
+                <TextEquiv>
+                    <Unicode>noveris pervenisse, quod, cum R. de sancto Paulo ei ecclesiam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="273,701 2958,709 2849,614 273,658"/>
+                <Baseline points="292,698 325,701 370,701 415,701 459,701 504,701 549,701 594,701 639,701 683,701 728,698 773,698 818,698 863,698 907,701 952,701 997,698 1042,698 1087,698 1131,698 1176,698 1221,698 1266,698 1311,695 1355,695 1400,695 1445,689 1490,686 1535,692 1579,695 1624,698 1669,698 1714,695 1759,698 1803,695 1848,695 1893,692 1938,695 1983,695 2028,695 2072,695 2117,695 2162,695 2207,695 2252,695 2296,695 2341,695 2386,692 2431,692 2476,692 2520,692 2565,689 2610,689 2655,692 2700,689 2744,689 2789,689 2834,689 2879,689 2924,689 2968,689"/>
+                <TextEquiv>
+                    <Unicode>de Kelintem concessisset - ordine iudiciario permittatis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="276,818 407,832 512,810 799,843 1065,828 1065,770 916,741 276,759"/>
+                <Baseline points="295,812 313,812 358,812 403,812 448,812 492,809 537,812 582,812 627,812 672,812 716,812 761,812 806,815 851,809 896,812 940,809 985,809 1030,812 1075,809"/>
+                <TextEquiv>
+                    <Unicode>Ohne Inskription.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="146,854 3401,854 3401,1033 146,1033"/>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="273,988 796,999 796,912 749,894 672,890 636,908 596,883 494,912 476,894 316,890 273,908"/>
+                <Baseline points="292,955 337,961 382,958 427,958 471,958 516,958 561,958 606,958 651,955 695,955 740,958 785,961 800,958"/>
+                <TextEquiv>
+                    <Unicode>Cott. VI 48.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="12,1034 3457,1021 3470,2327 5,2327"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="276,1116 3020,1116 3190,1108 3190,1010 276,1028"/>
+                <Baseline points="295,1105 334,1105 379,1105 424,1102 468,1105 513,1102 558,1102 603,1102 648,1105 692,1105 737,1105 782,1105 827,1102 872,1102 916,1102 961,1105 1006,1105 1051,1102 1096,1102 1140,1102 1185,1105 1230,1105 1275,1102 1320,1099 1364,1102 1409,1102 1454,1102 1499,1099 1544,1099 1588,1099 1633,1099 1678,1099 1723,1102 1768,1099 1812,1099 1857,1099 1902,1099 1947,1099 1992,1099 2036,1096 2081,1096 2126,1099 2171,1096 2216,1096 2260,1096 2305,1096 2350,1096 2395,1096 2440,1096 2484,1093 2529,1093 2574,1093 2619,1096 2664,1096 2708,1093 2753,1093 2798,1093 2843,1093 2888,1093 2932,1093 2977,1096 3022,1093 3067,1093 3112,1093 3156,1093 3201,1087"/>
+                <TextEquiv>
+                    <Unicode>Beim Fehlen der Inskription ist eine genauere Lohali sierung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:1;}">
+                <Coords points="280,1188 3063,1185 3063,1108 280,1119"/>
+                <Baseline points="301,1176 340,1179 385,1176 430,1176 474,1179 519,1179 564,1176 609,1179 654,1179 698,1176 743,1176 788,1179 833,1176 878,1179 922,1176 967,1173 1012,1176 1057,1176 1102,1176 1146,1176 1191,1176 1236,1173 1281,1173 1326,1173 1370,1173 1415,1176 1460,1176 1505,1173 1550,1173 1594,1173 1639,1173 1684,1176 1729,1173 1774,1173 1818,1173 1863,1173 1908,1170 1953,1170 1998,1170 2042,1170 2087,1173 2132,1173 2177,1173 2222,1170 2266,1170 2311,1173 2356,1170 2401,1173 2446,1170 2490,1170 2535,1170 2580,1173 2625,1170 2670,1170 2714,1170 2759,1167 2804,1167 2849,1164 2894,1167 2938,1167 2983,1164 3028,1164 3073,1167"/>
+                <TextEquiv>
+                    <Unicode>Datierung kaum moeglich. Eine Ortschaft Kellington gibt es in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:2;}">
+                <Coords points="280,1257 1697,1257 1697,1210 1613,1185 1254,1188 1217,1225 803,1192 734,1228 280,1188"/>
+                <Baseline points="298,1254 316,1254 361,1251 406,1251 450,1251 495,1251 540,1251 585,1251 630,1251 675,1251 719,1251 764,1251 809,1251 854,1251 899,1251 943,1251 988,1251 1033,1251 1078,1251 1123,1251 1167,1251 1212,1248 1257,1248 1302,1248 1347,1251 1391,1251 1436,1248 1481,1248 1526,1245 1571,1245 1615,1248 1660,1245 1705,1245"/>
+                <TextEquiv>
+                    <Unicode>Yorkshire suedoestl. von Leeds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;}">
+                <Coords points="294,1461 2740,1468 2776,1370 2631,1286 2551,1366 2231,1319 2097,1414 1813,1312 1493,1414 1119,1348 298,1392"/>
+                <Baseline points="316,1454 331,1457 376,1457 421,1460 465,1463 510,1460 555,1463 600,1460 645,1460 689,1457 734,1457 779,1457 824,1457 869,1460 913,1460 958,1460 1003,1457 1048,1454 1095,1453 1095,1453 1126,1457 1170,1451 1215,1448 1260,1448 1305,1448 1350,1448 1394,1448 1439,1448 1484,1448 1529,1445 1574,1442 1618,1442 1663,1442 1708,1439 1753,1439 1798,1433 1842,1433 1887,1433 1932,1436 1977,1439 2022,1436 2066,1442 2111,1439 2156,1439 2201,1439 2246,1433 2290,1430 2335,1430 2380,1433 2425,1436 2470,1436 2514,1430 2559,1433 2604,1430 2649,1433 2694,1433 2738,1433 2783,1433"/>
+                <TextEquiv>
+                    <Unicode>ed. Chodorow-Ouggan, Nr. So.. (1159-8M)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

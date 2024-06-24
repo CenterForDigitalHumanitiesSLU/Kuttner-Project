@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:39.930+02:00</Created>
+        <LastChange>2024-06-13T20:16:35.891+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733335" pageNr="8" tsid="171977889" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=REQMODVGUZOGRKGWEBLJVMWM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFSHKDVRWQOHYRCRHNLOQGJC" imageId="54996207"/>
+    </Metadata>
+    <Page imageFilename="0008_p008.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228740" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_381"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_381" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="138,671 3474,671 3474,1014 138,1014"/>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="179,799 3450,815 3356,709 179,714"/>
+                <Baseline points="200,782 363,785 526,786 689,788 852,789 1015,791 1178,791 1341,791 1504,794 1667,791 1830,792 1993,794 2156,791 2319,794 2482,797 2645,794 2808,797 2971,797 3134,797 3297,803 3461,800"/>
+                <TextEquiv>
+                    <Unicode>Alc.94. Cant.II 13.Dun.III 37. Bridl.96. Claud.81. Royal 121. Wig.VII 32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:1;}">
+                <Coords points="183,864 3392,901 3307,795 183,803"/>
+                <Baseline points="206,860 365,857 525,863 685,861 845,861 1005,869 1165,866 1325,863 1485,864 1645,869 1805,867 1964,869 2124,869 2284,866 2444,869 2604,872 2764,869 2924,871 3084,875 3244,874 3404,875"/>
+                <TextEquiv>
+                    <Unicode>Cl. 255. Chelt. 17,7. Cott.VII 15. App. 22, 7. Brug.31,7.. Frkf (Max). 36, 72</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:2;}">
+                <Coords points="179,942 2703,962 2663,877 179,877"/>
+                <Baseline points="200,931 325,931 450,933 576,934 701,937 827,937 952,939 1077,937 1203,937 1328,937 1454,937 1579,940 1704,939 1830,940 1955,939 2081,937 2206,938 2331,939 2457,937 2582,943 2708,946"/>
+                <TextEquiv>
+                    <Unicode>Tann. V 1,1). A I 31, 2. Sang. VI 1,13(S. 247). Decr.I 40,2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="164,151 3494,151 3494,684 164,684"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="216,379 245,383 261,400 314,400 318,281 298,281 257,318 220,314"/>
+                <Baseline points="238,382 265,382 292,381 319,379"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2145,359 2190,375 2316,359 2393,375 2410,363 2475,387 2589,375 2589,281 2369,277 2328,318 2287,318 2255,285 2198,281 2165,314 2145,314"/>
+                <Baseline points="2168,352 2193,355 2218,358 2243,358 2268,357 2293,356 2318,355 2343,355 2368,355 2394,355 2419,355 2444,355 2469,355 2494,355 2519,355 2544,356 2569,358 2595,355"/>
+                <TextEquiv>
+                    <Unicode>JL. 14131</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3074,343 3115,355 3160,343 3180,359 3213,359 3233,343 3262,363 3299,351 3323,363 3380,355 3376,228 3335,224 3307,245 3274,224 3246,236 3225,224 3185,224 3168,236 3107,228 3091,245 3070,245"/>
+                <Baseline points="3097,334 3123,332 3150,332 3177,333 3204,334 3231,334 3257,336 3284,337 3311,337 3338,335 3365,331 3392,334"/>
+                <TextEquiv>
+                    <Unicode>0006</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="612,497 3250,522 3250,436 612,428"/>
+                <Baseline points="636,495 767,495 898,492 1029,495 1161,495 1292,495 1423,495 1554,494 1686,493 1817,498 1948,498 2079,493 2211,498 2342,498 2473,501 2604,501 2736,504 2867,504 2998,504 3129,504 3261,504"/>
+                <TextEquiv>
+                    <Unicode>'Abbas sancti Edmundi - cum integrate restituas.' Alexander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="179,612 1443,620 1443,559 1399,538 620,555 449,481 375,534 179,534"/>
+                <Baseline points="200,603 262,602 325,600 388,602 450,600 513,600 576,602 638,602 701,606 764,606 827,606 889,603 952,603 1015,603 1077,605 1140,603 1203,606 1265,606 1328,606 1391,606 1454,609"/>
+                <TextEquiv>
+                    <Unicode>III. Wigorniensi episcopo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2332,661 2377,677 2402,665 2548,677 2606,652 2626,673 2736,677 2760,656 2818,656 2818,620 2785,620 2732,567 2646,563 2618,591 2585,591 2557,563 2516,559 2479,587 2455,563 2389,559 2361,587 2332,587"/>
+                <Baseline points="2356,648 2381,650 2407,651 2432,649 2458,649 2483,651 2535,651 2613,651 2705,658 2823,655"/>
+                <TextEquiv>
+                    <Unicode>(1163-79)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="194,964 200,1472 3461,1472 3461,1004"/>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:0;}">
+                <Coords points="179,1089 2031,1101 2031,1048 1847,995 1533,1048 179,1023"/>
+                <Baseline points="203,1081 294,1075 386,1081 477,1081 569,1081 661,1083 752,1081 844,1082 936,1084 1027,1083 1119,1082 1211,1084 1302,1084 1394,1086 1486,1084 1577,1084 1669,1084 1761,1084 1852,1084 1944,1084 2036,1084"/>
+                <TextEquiv>
+                    <Unicode>a) nur Dun.Claud. Royal, Cott., sonst Idem.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:1;}">
+                <Coords points="179,1240 2691,1248 2638,1150 179,1162"/>
+                <Baseline points="200,1224 325,1224 450,1226 575,1227 700,1227 825,1227 950,1227 1075,1227 1200,1228 1325,1227 1450,1230 1575,1230 1700,1228 1825,1230 1950,1230 2075,1230 2200,1233 2325,1233 2450,1230 2575,1230 2700,1233"/>
+                <TextEquiv>
+                    <Unicode>Erst A stellt die Worte am Schluss um (expl.: universa).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:2;}">
+                <Coords points="179,1313 3409,1325 3409,1240 179,1240"/>
+                <Baseline points="200,1296 369,1298 538,1299 708,1299 877,1299 1047,1302 1216,1301 1385,1302 1555,1302 1724,1302 1894,1302 2063,1305 2233,1305 2402,1302 2571,1305 2741,1305 2910,1306 3080,1305 3249,1305 3419,1308"/>
+                <TextEquiv>
+                    <Unicode>Da alle Namen fehlen, ist genauere Datierung unmoeglich; nur soviel wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:3;}">
+                <Coords points="179,1386 3295,1395 3295,1325 179,1313"/>
+                <Baseline points="200,1367 355,1370 510,1373 665,1373 820,1373 975,1375 1130,1376 1286,1373 1441,1376 1596,1376 1751,1379 1906,1379 2061,1379 2216,1379 2372,1377 2527,1379 2682,1377 2837,1382 2992,1383 3147,1382 3303,1382"/>
+                <TextEquiv>
+                    <Unicode>man annehmen duerfen, dass das Stueck an Roger von „Worcester“ gegangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:4;}">
+                <Coords points="179,1460 1350,1468 1350,1399 1313,1390 444,1382 404,1419 179,1390"/>
+                <Baseline points="203,1445 260,1446 318,1448 376,1445 434,1445 491,1448 549,1448 607,1448 665,1448 722,1448 780,1448 838,1449 896,1451 953,1449 1011,1448 1069,1451 1127,1451 1184,1451 1242,1452 1300,1453 1358,1454"/>
+                <TextEquiv>
+                    <Unicode>ist, danach die Datierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

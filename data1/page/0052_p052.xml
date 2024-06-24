@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:44.355+02:00</Created>
+        <LastChange>2024-06-20T23:48:55.770+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733390" pageNr="52" tsid="173193932" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=XSFZKQOCTZUREFYLMWOCPXKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XPWLKIOFBWDUTSGZIXUAFXGB" imageId="54996262"/>
+    </Metadata>
+    <Page imageFilename="0052_p052.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229600" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_701"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="112,974 3480,974 3480,1283 112,1283"/>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:0;}">
+                <Coords points="194,1114 270,1110 301,1126 325,1106 416,1126 468,1106 500,1134 555,1122 611,1146 607,979 472,1055 440,1027 385,1055 333,1031 285,1051 190,1035"/>
+                <Baseline points="218,1087 243,1097 268,1102 293,1102 318,1103 343,1105 369,1105 394,1105 419,1105 444,1106 469,1107 495,1109 520,1111 545,1111 570,1111 595,1109 621,1105"/>
+                <TextEquiv>
+                    <Unicode>Pet.I 32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:1;}">
+                <Coords points="777,1126 2807,1122 2807,1051 777,1039"/>
+                <Baseline points="797,1108 903,1105 1009,1108 1115,1108 1222,1112 1328,1111 1434,1111 1540,1113 1647,1114 1753,1114 1859,1112 1965,1114 2072,1114 2178,1117 2284,1117 2390,1117 2497,1114 2603,1118 2709,1120 2816,1117"/>
+                <TextEquiv>
+                    <Unicode>(a) A IV 1,1. Sang.VIII 26 (S. 317). Decr. IV 1,4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:2;}">
+                <Coords points="214,1229 3109,1209 2879,1047 2316,1166 214,1118"/>
+                <Baseline points="235,1182 379,1182 523,1185 667,1184 811,1182 955,1185 1099,1185 1244,1185 1388,1188 1532,1191 1676,1191 1820,1191 1964,1189 2108,1192 2253,1191 2397,1191 2541,1194 2685,1195 2829,1191 2973,1188 3118,1194"/>
+                <TextEquiv>
+                    <Unicode>(b) p.c. Ad audientiam: A II 13, 8 = IV 19,4. Sang.X 19(S.348).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_701" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="99,138 3474,138 3474,1027 99,1027"/>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:0;}">
+                <Coords points="202,436 226,432 282,460 325,452 313,353 274,357 258,345 234,373 230,369 194,373"/>
+                <Baseline points="224,421 250,425 277,428 304,432 331,433"/>
+                <TextEquiv>
+                    <Unicode>41</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:1;}">
+                <Coords points="1967,361 2157,389 2835,377 2835,262 2783,238 2538,297 2482,297 2435,250 2399,274 2375,250 2228,250 2161,309 2058,242 1967,266"/>
+                <Baseline points="1989,337 2031,337 2074,337 2117,340 2160,338 2203,342 2246,341 2288,340 2331,342 2374,341 2417,342 2460,348 2503,349 2546,343 2588,340 2631,340 2674,339 2717,338 2760,341 2803,342 2846,340"/>
+                <TextEquiv>
+                    <Unicode>JL. 13137 - 14331</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3124,381 3156,389 3192,381 3228,416 3251,408 3267,424 3299,400 3342,393 3354,377 3390,389 3382,226 3335,226 3307,210 3287,218 3275,210 3255,226 3212,202 3144,258 3116,258"/>
+                <Baseline points="3142,358 3167,360 3193,361 3219,363 3245,364 3271,364 3297,364 3323,364 3349,366 3375,369 3401,373"/>
+                <TextEquiv>
+                    <Unicode>0047</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:3;} structure {type:heading;}">
+                <Coords points="468,515 3105,547 3105,452 2930,436 468,468"/>
+                <Baseline points="489,507 620,507 751,507 882,510 1014,509 1145,511 1276,512 1408,512 1539,514 1670,516 1802,516 1933,518 2064,519 2195,519 2327,522 2458,522 2589,522 2721,522 2852,525 2983,528 3115,528"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostri apostolatus pervenit, quod cum H(ugo)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:4;}">
+                <Coords points="194,623 1467,630 1467,571 1154,555 1063,591 971,543 194,571"/>
+                <Baseline points="215,618 278,618 341,618 404,618 467,620 530,621 593,621 657,621 720,621 783,621 846,624 909,621 972,621 1035,621 1099,623 1162,624 1225,622 1288,621 1351,617 1414,615 1478,621"/>
+                <TextEquiv>
+                    <Unicode>Alberici Papiensis civis -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:5;}">
+                <Coords points="1507,626 1844,630 1951,662 2038,638 2117,666 2379,638 2379,571 2339,567 2030,547 1868,567 1836,599 1705,551 1507,575"/>
+                <Baseline points="1529,621 1572,624 1615,627 1658,627 1701,627 1744,627 1787,627 1830,627 1873,629 1916,628 1959,629 2002,630 2045,630 2088,630 2131,630 2174,630 2217,629 2260,628 2303,630 2346,631 2389,633"/>
+                <TextEquiv>
+                    <Unicode>merito repellentur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:6;}">
+                <Coords points="190,749 2645,757 2645,666 190,654"/>
+                <Baseline points="212,737 334,729 456,731 578,731 700,734 822,734 944,731 1066,731 1188,734 1310,737 1432,737 1554,737 1676,737 1798,740 1920,743 2042,740 2164,740 2286,743 2408,749 2530,747 2652,749"/>
+                <TextEquiv>
+                    <Unicode>(a) Ad audientiam - distinctione compellas (JL 13137).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="210,868 2744,884 2795,813 206,785"/>
+                <Baseline points="232,848 360,842 489,845 617,845 746,846 875,848 1003,848 1132,848 1260,848 1389,850 1518,849 1646,847 1775,854 1903,855 2032,857 2161,857 2289,857 2418,860 2546,860 2675,860 2804,863"/>
+                <TextEquiv>
+                    <Unicode>(b) Ad hec quoniam consuetudo - repellentur (JL. 14331).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="186,967 1669,975 1669,920 1558,888 186,912"/>
+                <Baseline points="209,955 282,955 355,955 428,955 502,955 575,958 648,958 722,958 795,958 868,958 942,958 1015,958 1088,960 1161,961 1235,961 1308,961 1381,961 1455,963 1528,961 1601,964 1675,964"/>
+                <TextEquiv>
+                    <Unicode>Alexander III.L.Papiensi electo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:9;}">
+                <Coords points="2926,987 2974,999 2994,987 3113,991 3120,983 3208,999 3204,880 3140,884 3120,904 3105,896 2922,904"/>
+                <Baseline points="2947,976 2974,974 3001,972 3028,971 3055,970 3083,970 3110,972 3137,973 3164,973 3191,976 3219,982"/>
+                <TextEquiv>
+                    <Unicode>(1180)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="49,1250 29,2336 3491,2336 3491,1277"/>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:0;}">
+                <Coords points="186,1340 3339,1356 3335,1273 3180,1265 186,1253"/>
+                <Baseline points="209,1326 365,1327 522,1326 678,1329 835,1332 992,1332 1148,1332 1305,1335 1462,1335 1618,1335 1775,1335 1932,1335 2088,1335 2245,1335 2402,1338 2558,1338 2715,1338 2872,1338 3028,1338 3185,1341 3342,1341"/>
+                <TextEquiv>
+                    <Unicode>Die Zusammengehoerigkeit ist durch den Verweis auf die Stammdekretale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:1;}">
+                <Coords points="190,1412 3220,1435 3097,1352 190,1344"/>
+                <Baseline points="212,1403 362,1406 513,1406 663,1403 814,1409 965,1406 1115,1409 1266,1412 1417,1412 1567,1411 1718,1412 1869,1418 2019,1412 2170,1412 2321,1412 2471,1414 2622,1415 2773,1415 2923,1415 3074,1415 3225,1415"/>
+                <TextEquiv>
+                    <Unicode>in A nahegelegt (in Sang. nur: p.c.), ferner durch die Inskription</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:2;}">
+                <Coords points="194,1491 3247,1511 3216,1427 194,1416"/>
+                <Baseline points="218,1478 369,1478 521,1481 672,1481 824,1481 975,1481 1127,1484 1278,1485 1430,1484 1581,1484 1733,1484 1885,1490 2036,1486 2188,1487 2339,1490 2491,1486 2642,1490 2794,1490 2945,1490 3097,1489 3249,1490"/>
+                <TextEquiv>
+                    <Unicode>Papiensi electo (b) (A und Sang.), die bei (a) in Sang. ebenso</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:3;}">
+                <Coords points="194,1558 3156,1578 3132,1507 194,1487"/>
+                <Baseline points="215,1553 362,1553 510,1555 657,1556 805,1554 953,1554 1100,1556 1248,1556 1396,1556 1543,1556 1691,1562 1839,1559 1986,1559 2134,1562 2282,1559 2429,1560 2577,1561 2725,1562 2872,1562 3020,1559 3168,1556"/>
+                <TextEquiv>
+                    <Unicode>lautet. In einer Handschrift von A steht: J. Papiensi electo, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:4;}">
+                <Coords points="198,1645 3152,1638 3017,1562 198,1566"/>
+                <Baseline points="219,1620 366,1626 513,1629 660,1630 807,1630 954,1627 1101,1628 1249,1630 1396,1631 1543,1631 1690,1636 1837,1636 1984,1633 2131,1635 2279,1633 2426,1636 2573,1633 2720,1636 2867,1636 3014,1638 3162,1627"/>
+                <TextEquiv>
+                    <Unicode>Friedberg not.2 au (a) als unmöeglich bezeichnet, da es z.Z. Ale¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:5;}">
+                <Coords points="182,1745 2962,1745 3184,1725 3184,1638 182,1653"/>
+                <Baseline points="206,1699 355,1702 504,1702 654,1708 803,1702 953,1704 1102,1705 1252,1705 1401,1705 1551,1708 1700,1706 1849,1708 1999,1708 2148,1711 2298,1708 2447,1708 2597,1709 2746,1708 2896,1711 3045,1709 3195,1711"/>
+                <TextEquiv>
+                    <Unicode>xanders III. keinen Bischof J. in Pavia gegeben habe. Das ist aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:6;}">
+                <Coords points="194,1780 3382,1820 3299,1693 194,1729"/>
+                <Baseline points="218,1774 376,1777 535,1777 693,1777 852,1777 1010,1777 1169,1777 1327,1779 1486,1779 1644,1780 1803,1783 1962,1783 2120,1783 2279,1786 2437,1781 2596,1783 2754,1783 2913,1783 3071,1783 3230,1786 3389,1780"/>
+                <TextEquiv>
+                    <Unicode>ein leicht zu verbessernder Schreibfehler fuer L (an franco) und damit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:7;}">
+                <Coords points="194,1864 3085,1899 3085,1804 2938,1788 194,1780"/>
+                <Baseline points="215,1851 366,1848 518,1851 669,1851 821,1851 972,1851 1124,1852 1275,1854 1427,1854 1578,1852 1730,1856 1881,1857 2033,1857 2184,1857 2336,1857 2487,1860 2639,1854 2790,1858 2942,1860 3094,1866"/>
+                <TextEquiv>
+                    <Unicode>bestätigt sich die von Singer 348 N.12 ausgesprochene Vermutung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:8;}">
+                <Coords points="194,1939 3168,1955 3204,1840 194,1864"/>
+                <Baseline points="215,1917 364,1917 514,1925 664,1926 814,1926 963,1926 1113,1929 1263,1928 1413,1931 1562,1920 1712,1926 1862,1929 2012,1932 2161,1929 2311,1927 2461,1929 2611,1929 2760,1932 2910,1932 3060,1932 3210,1917"/>
+                <TextEquiv>
+                    <Unicode>der auch Heyer Akenn.95(1915) si6 in der Kritik von Kehr JP.VIa 183.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:9;}">
+                <Coords points="194,2002 3243,2018 3045,1939 194,1939"/>
+                <Baseline points="215,1995 366,1990 518,1995 670,1998 822,1997 974,1998 1126,2001 1277,2001 1429,2001 1581,2001 1733,2004 1885,2004 2037,2004 2189,2007 2340,2006 2492,2004 2644,2002 2796,2005 2948,2007 3100,2007 3252,2004"/>
+                <TextEquiv>
+                    <Unicode>n.44(=b) und 48(=a) beigetreten ist. Da Lanfranks Vorgaenger Petrus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:10;}">
+                <Coords points="182,2082 3295,2109 3148,2010 182,1998"/>
+                <Baseline points="206,2069 360,2069 515,2072 670,2074 825,2072 980,2078 1135,2078 1289,2078 1444,2078 1599,2078 1754,2076 1909,2078 2064,2081 2219,2081 2373,2081 2528,2081 2683,2081 2838,2081 2993,2082 3148,2084 3303,2081"/>
+                <TextEquiv>
+                    <Unicode>nach Kehrs Note zu JP.VI a 183 n.44 am 21.Mai 1180 starb und Lanfrank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:11;}">
+                <Coords points="341,2185 3113,2201 3113,2105 2946,2082 341,2086"/>
+                <Baseline points="361,2144 499,2150 637,2153 775,2151 913,2153 1051,2153 1189,2152 1328,2153 1466,2153 1604,2158 1742,2160 1880,2159 2018,2156 2156,2156 2295,2159 2433,2160 2571,2162 2709,2164 2847,2159 2985,2160 3124,2162"/>
+                <TextEquiv>
+                    <Unicode>h von Alexander geweiht wurde, ist die Datierung eng begrenzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:12;}">
+                <Coords points="575,2256 670,2280 777,2244 845,2280 952,2240 1047,2276 1102,2240 1166,2280 1229,2272 1229,2169 940,2165 912,2193 849,2153 698,2177 575,2149"/>
+                <Baseline points="597,2222 629,2224 661,2225 693,2225 725,2225 757,2227 789,2228 821,2228 853,2230 885,2230 918,2228 950,2228 982,2228 1014,2228 1046,2228 1078,2228 1110,2227 1142,2224 1174,2222 1206,2224 1239,2228"/>
+                <TextEquiv>
+                    <Unicode>idem pp electo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

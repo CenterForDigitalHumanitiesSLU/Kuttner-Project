@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:53.316+02:00</Created>
+        <LastChange>2024-05-04T19:40:09.895+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733563" pageNr="169" tsid="163768328" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=JNJCPQGFXWGQLVEPWTBPDOZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPRDWEYRMNMUMTJQKEGVNEFP" imageId="54996434"/>
+    </Metadata>
+    <Page imageFilename="0169_p169.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231778" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="146,120 3413,120 3413,1082 146,1082"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="3013,430 3057,452 3094,438 3109,452 3212,452 3237,438 3296,449 3333,434 3333,327 3274,313 3241,331 3197,309 3171,335 3149,313 3127,316 3112,335 3086,320 3013,335"/>
+                <Baseline points="3034,427 3079,430 3124,430 3168,433 3213,433 3258,433 3303,430 3342,433"/>
+                <TextEquiv>
+                    <Unicode>0138</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="136,401 1446,427 1446,338 136,327"/>
+                <Baseline points="158,397 203,400 247,400 292,400 337,400 382,403 427,403 471,403 516,403 561,400 606,403 651,403 695,403 740,403 785,403 830,403 875,403 919,406 964,403 1009,406 1054,406 1099,406 1143,409 1188,412 1233,409 1278,412 1323,409 1367,409 1412,409 1454,409"/>
+                <TextEquiv>
+                    <Unicode>To be divided into two parts:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="143,629 2410,655 2358,570 143,555"/>
+                <Baseline points="164,621 209,621 253,621 298,618 343,621 388,621 433,621 477,621 522,621 567,621 612,621 657,621 701,624 746,624 791,624 836,624 881,624 925,624 970,627 1015,624 1060,618 1105,615 1149,618 1194,624 1239,627 1284,627 1329,627 1373,627 1418,627 1463,627 1508,627 1553,627 1597,630 1642,630 1687,630 1732,630 1777,630 1821,630 1866,630 1911,630 1956,630 2001,630 2045,630 2090,633 2135,633 2180,636 2225,636 2269,636 2314,636 2359,636 2404,636 2419,636"/>
+                <TextEquiv>
+                    <Unicode>(a) Causam que verititur inter -- iustitia mediante decidant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="143,739 3098,754 143,658"/>
+                <Baseline points="164,731 209,731 253,731 298,725 343,728 388,728 433,731 477,731 522,731 567,731 612,731 657,731 701,731 746,728 791,731 836,731 881,731 925,731 970,734 1015,731 1060,734 1105,734 1149,734 1194,731 1239,734 1284,734 1329,734 1373,737 1418,737 1463,737 1508,737 1553,740 1597,740 1642,737 1687,740 1732,737 1777,737 1821,740 1866,743 1911,740 1956,743 2001,746 2045,740 2090,740 2135,743 2180,746 2225,743 2269,743 2314,746 2359,746 2404,746 2449,746 2493,746 2538,746 2583,749 2628,749 2673,749 2717,749 2762,749 2807,749 2852,749 2897,749 2941,746 2986,746 3031,737 3076,740 3106,740"/>
+                <TextEquiv>
+                    <Unicode>(b) Quia uero uenerabilis frater noster I. Florentius episcopus --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="125,857 640,865 640,802 585,784 563,802 541,780 511,798 493,780 427,798 408,780 228,776 125,798"/>
+                <Baseline points="146,839 191,842 235,842 280,842 325,842 370,842 415,842 459,842 504,842 549,845 594,845 639,845 651,845"/>
+                <TextEquiv>
+                    <Unicode>remittatis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="129,1067 1876,1089 1803,979 1508,1030 129,990"/>
+                <Baseline points="149,1057 194,1057 238,1057 283,1060 328,1060 373,1060 418,1060 462,1063 507,1063 552,1060 597,1060 642,1063 686,1060 731,1060 776,1063 821,1063 866,1063 910,1063 955,1063 1000,1063 1045,1063 1090,1066 1134,1066 1179,1066 1224,1066 1269,1066 1314,1066 1358,1069 1403,1069 1448,1069 1493,1069 1538,1069 1582,1069 1627,1072 1672,1072 1717,1072 1762,1072 1806,1069 1851,1072 1887,1072"/>
+                <TextEquiv>
+                    <Unicode>See entry in Chodorow, Regesta no. 124.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

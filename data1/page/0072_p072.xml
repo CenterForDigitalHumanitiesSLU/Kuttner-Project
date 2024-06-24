@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:22:45.365+02:00</Created>
+        <LastChange>2024-06-21T05:01:12.617+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733417" pageNr="72" tsid="173205278" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=FOXFBFSXSSVHNDQZNWBASITQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDVTTSJHGBZHSFLLLYGWGHXC" imageId="54996289"/>
+    </Metadata>
+    <Page imageFilename="0072_p072.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230046" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_706"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="112,941 3415,941 3415,1139 112,1139"/>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:0;}">
+                <Coords points="202,1111 2213,1088 2152,981 1683,1042 202,1000"/>
+                <Baseline points="224,1069 323,1072 423,1075 523,1075 623,1078 723,1078 823,1075 923,1077 1023,1078 1123,1072 1223,1072 1322,1072 1422,1072 1522,1072 1622,1072 1722,1072 1822,1070 1922,1069 2022,1072 2122,1070 2222,1075"/>
+                <TextEquiv>
+                    <Unicode>Wig.III 19. Cl.135. Chelt.16,21. Cott.VI 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_706" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="99,204 3494,204 3494,987 99,987"/>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:0;}">
+                <Coords points="301,462 321,462 328,469 363,466 374,454 393,462 435,458 424,355 408,355 401,363 374,370 355,366 324,343 290,347"/>
+                <Baseline points="319,424 349,428 379,431 409,433 439,436"/>
+                <TextEquiv>
+                    <Unicode>56</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:1;}">
+                <Coords points="2301,405 2752,397 2805,447 2832,447 2828,355 2668,355 2629,336 2595,355 2507,290 2488,313 2446,313 2412,282 2294,248"/>
+                <Baseline points="2317,364 2343,366 2369,367 2395,369 2421,372 2447,375 2473,379 2500,382 2526,384 2552,386 2578,387 2604,387 2630,385 2656,387 2683,388 2709,388 2735,388 2761,388 2787,388 2813,388 2840,385"/>
+                <TextEquiv>
+                    <Unicode>JL. :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3141,397 3194,408 3221,385 3293,427 3351,405 3442,401 3435,263 3396,271 3377,256 3313,279 3244,244 3209,271 3133,271"/>
+                <Baseline points="3159,379 3185,379 3211,379 3238,381 3264,383 3290,385 3317,387 3343,388 3369,388 3396,389 3422,391 3449,388"/>
+                <TextEquiv>
+                    <Unicode>0062</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:3;}">
+                <Coords points="561,595 3221,607 3221,485 1332,550 985,443 904,519 561,523"/>
+                <Baseline points="582,588 714,586 846,586 979,585 1111,587 1244,585 1376,585 1509,587 1641,585 1774,585 1906,582 2038,582 2171,583 2303,584 2436,582 2568,585 2701,585 2833,582 2966,585 3098,585 3231,576"/>
+                <TextEquiv>
+                    <Unicode>Ad aures nostras sepius pervenisse cognoscas quod defuncto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:4;}">
+                <Coords points="210,706 3053,710 3053,637 2534,672 2431,595 210,641"/>
+                <Baseline points="232,698 373,698 514,698 656,690 797,696 939,698 1080,698 1222,698 1363,695 1505,695 1646,695 1787,695 1929,690 2070,695 2212,695 2353,691 2495,695 2636,695 2778,695 2919,695 3061,692"/>
+                <TextEquiv>
+                    <Unicode>Ulfcutel sacerdote, qui in ecclesie de Dische... personatum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:5;}">
+                <Coords points="202,817 553,851 714,805 889,870 1103,859 1164,813 1630,824 1630,767 1431,740 775,740 733,782 584,779 527,721 202,752"/>
+                <Baseline points="224,809 294,812 365,812 435,812 506,809 577,804 647,803 718,806 788,811 859,813 930,815 1000,815 1071,812 1141,811 1212,809 1283,809 1353,809 1424,809 1494,809 1565,806 1636,809"/>
+                <TextEquiv>
+                    <Unicode>habebat - diutius incumbere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:6;}">
+                <Coords points="202,946 1771,943 1771,870 1523,847 862,897 801,843 660,882 202,843"/>
+                <Baseline points="224,922 301,922 379,922 457,922 535,922 613,924 690,922 768,922 846,922 924,922 1002,921 1079,919 1157,922 1235,920 1313,919 1391,922 1468,919 1546,921 1624,922 1702,922 1780,922"/>
+                <TextEquiv>
+                    <Unicode>Alexander III. Norwicensi episcopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:7;}">
+                <Coords points="2797,939 3019,943 3057,920 3080,935 3198,950 3202,843 3106,828 3072,862 2980,832 2939,836 2919,855 2893,836 2801,847"/>
+                <Baseline points="2819,928 2844,925 2870,922 2896,920 2922,919 2948,919 2974,919 3000,919 3025,917 3051,916 3077,916 3103,917 3129,919 3155,920 3181,923 3207,928"/>
+                <TextEquiv>
+                    <Unicode>(1159-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="50,1137 17,2338 3449,2338 3436,1137"/>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:0;}">
+                <Coords points="198,1233 3240,1256 3267,1137 198,1153"/>
+                <Baseline points="221,1221 373,1219 526,1219 678,1221 831,1223 984,1221 1136,1220 1289,1218 1441,1218 1594,1220 1747,1218 1899,1218 2052,1218 2204,1221 2357,1216 2510,1215 2662,1216 2815,1218 2967,1218 3120,1217 3273,1227"/>
+                <TextEquiv>
+                    <Unicode>a) Bultekel Cl., Ulfcetel Chelt.Cott. b) Diséé Chelt., dilec(?)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:1;}">
+                <Coords points="328,1320 385,1332 416,1309 435,1320 458,1313 508,1320 553,1301 561,1309 603,1309 603,1263 519,1233 504,1244 481,1233 454,1244 382,1236 351,1259 328,1259"/>
+                <Baseline points="349,1293 375,1295 401,1296 427,1296 454,1296 480,1296 506,1296 533,1296 559,1296 585,1294 612,1290"/>
+                <TextEquiv>
+                    <Unicode>Cott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:2;}">
+                <Coords points="202,1443 3183,1446 3133,1355 202,1332"/>
+                <Baseline points="224,1439 372,1443 520,1445 669,1442 817,1443 966,1442 1114,1442 1262,1440 1411,1442 1559,1439 1708,1439 1856,1439 2004,1439 2153,1436 2301,1439 2450,1439 2598,1439 2746,1436 2895,1436 3043,1436 3192,1439"/>
+                <TextEquiv>
+                    <Unicode>Die genannte Kirche ist wohl die von Diss in suffolk. Bester Text</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:3;}">
+                <Coords points="198,1526 393,1542 431,1515 523,1549 534,1534 664,1519 664,1492 637,1492 592,1454 557,1469 496,1454 412,1477 366,1454 305,1473 279,1454 198,1443"/>
+                <Baseline points="221,1520 246,1518 271,1517 296,1517 321,1516 346,1515 371,1514 396,1514 421,1514 446,1514 471,1518 496,1520 521,1518 546,1517 571,1517 596,1517 621,1517 646,1518 672,1520"/>
+                <TextEquiv>
+                    <Unicode>X in Wig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:4;}">
+                <Coords points="691,1542 3206,1546 3206,1454 3038,1443 691,1458"/>
+                <Baseline points="710,1517 835,1520 960,1517 1085,1519 1211,1519 1336,1520 1461,1518 1587,1514 1712,1514 1837,1515 1963,1517 2088,1514 2213,1514 2338,1514 2464,1514 2589,1514 2714,1514 2840,1512 2965,1511 3090,1511 3216,1514"/>
+                <TextEquiv>
+                    <Unicode>Vgl. Ch. Duggan, Twelfth cent. decr. coll. P. 11: Diss:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:5;}">
+                <Coords points="198,1610 462,1614 500,1652 618,1614 695,1656 1107,1591 1351,1633 1412,1603 1477,1660 1580,1637 1580,1553 1481,1526 198,1546"/>
+                <Baseline points="218,1594 286,1590 355,1591 423,1589 492,1591 561,1591 629,1591 698,1591 767,1592 835,1594 904,1591 973,1591 1041,1591 1110,1591 1179,1592 1247,1594 1316,1594 1385,1594 1453,1592 1522,1591 1591,1594"/>
+                <TextEquiv>
+                    <Unicode>Heimat des Radulfus de Diceto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

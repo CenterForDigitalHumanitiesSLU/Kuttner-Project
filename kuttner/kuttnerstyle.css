@@ -41,6 +41,17 @@ head {
 }
 
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+
 
 footer {
 
@@ -99,6 +110,23 @@ a:visited {
   display: flex;
 }
 
+
+.navigation {
+    grid-row: 2;
+  grid-column: 2/11;
+  grid-auto-columns: 50px;
+  position: -webkit-sticky;
+  position: sticky;
+  top:0;
+  background: rgb(103, 49, 71);
+/*  border-radius: 8px;*/
+  z-index: 2;
+  line-height: 1;
+}
+
+
+
+
 .title {
   width: 90%;
 }
@@ -120,21 +148,15 @@ a:visited {
   width:50%;
 }
 
-/*.global-nav {
-  grid-row: 1;
-  grid-column: 6/9;
-  grid-auto-columns: 50px;
-  position: -webkit-sticky;
-  position: sticky;
-  top:0;
-  background: black;
-  border-radius: 8px;
-  z-index: 2;
-  line-height: 1;
-}*/
 
 .info {
   grid-row: 3;
+  grid-column: 3/10;
+  background-color: white;  
+}
+
+.whcard {
+  grid-row: 4;
   grid-column: 3/10;
   background-color: white;  
 }
@@ -189,64 +211,13 @@ button {
 
 
 
-/* Navbar attempt 3 -- code borrowed from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_subnav*/
-
-
-
-.navbar {
-  overflow: hidden;
-    float: right;
-}
-
-.navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.subnav {
-  float: left;
-  overflow: hidden;
-}
-
-.subnav .subnavbtn {
-  font-size: 16px;  
-  border: none;
-  outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-
-.navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: rgb(103, 49, 71);
-}
-
-.subnav-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  background-color: grey;
-  width: 100%;
-  z-index: 1;
-}
-
-.subnav-content a {
-  float: left;
-  color: white;
-  text-decoration: none;
-}
-
-.subnav-content a:hover {
-  background-color: rgb(103, 49, 71);
-  color: white;
-}
-
-.subnav:hover .subnav-content {
-  display: block;
+#myInput {
+  background-image: url('css/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
 }
