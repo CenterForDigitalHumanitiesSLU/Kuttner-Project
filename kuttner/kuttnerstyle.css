@@ -51,7 +51,6 @@ li {
 
 
 footer {
-
 }
 
 
@@ -84,10 +83,6 @@ a:visited {
   row-gap: 20px;
   justify-content: space-evenly;
   grid-template-columns: 1fr repeat(9, minmax(auto, 8em)) 1fr;
-}
-
-
-.pages {
 }
 
 .colophon {
@@ -128,7 +123,6 @@ a:visited {
   text-decoration: none;
 }
 
-
 .title {
   width: 90%;
 }
@@ -149,7 +143,6 @@ a:visited {
 .left .right {
   width:50%;
 }
-
 
 .info {
   grid-row: 3;
@@ -175,11 +168,19 @@ a:visited {
   text-align: center;
 }
 
+#onlineresources_button {
+  background-image: url('css/cardsnip.gif');
+}
+
 .sectionbutton {
   height: 200px;
   text-align: center;
 }
 
+.buttontext {
+  background-color: purple;
+  padding: 5px;
+}
 
 .research {
   grid-row: 5;
@@ -210,8 +211,6 @@ button {
   width: 100%;
   cursor: pointer;
 }
-
-
 
 #myInput {
   background-image: url('css/searchicon.png'); /* Add a search icon to input */
