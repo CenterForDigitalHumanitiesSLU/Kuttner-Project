@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:47.285+02:00</Created>
+        <LastChange>2024-06-21T06:22:12.732+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733500" pageNr="146" tsid="173206995" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=FVXTMNGWCMIPFOILANOMORWM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWHBTDWSYPCYUMVFWCTFJOKD" imageId="54996371"/>
+    </Metadata>
+    <Page imageFilename="0146_p146.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231233" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_463"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="197,777 3454,777 3454,941 197,941"/>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="203,890 2101,916 2145,798 203,835"/>
+                <Baseline points="224,881 238,881 283,878 328,878 373,878 418,881 462,884 507,881 552,884 597,884 643,877 643,877 689,881 734,878 779,881 824,881 869,881 913,881 958,881 1003,881 1048,878 1093,878 1137,881 1182,878 1227,881 1272,881 1317,884 1361,884 1406,881 1451,881 1496,878 1541,878 1585,875 1630,878 1675,878 1720,878 1765,875 1809,875 1854,872 1899,875 1944,881 1989,878 2033,881 2078,884 2123,887 2156,881"/>
+                <TextEquiv>
+                    <Unicode>A V 36,13. Sang.X 63(S.353). Decr. V 40,13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_463" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="138,72 3494,72 3494,783 138,783"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="207,443 225,443 244,458 325,454 336,465 380,462 380,354 347,354 340,347 314,366 277,358 240,369 207,369"/>
+                <Baseline points="226,442 271,439 316,439 361,442 388,445"/>
+                <TextEquiv>
+                    <Unicode>107</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="2430,321 2825,325 2832,203 2666,203 2618,233 2563,236 2526,207 2437,222"/>
+                <Baseline points="2449,307 2479,301 2523,298 2568,295 2613,292 2658,289 2703,283 2747,286 2792,283 2837,280"/>
+                <TextEquiv>
+                    <Unicode>JL. 6598</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3128,306 3179,329 3209,314 3227,329 3268,332 3290,321 3345,329 3364,314 3382,329 3441,318 3441,188 3393,188 3364,210 3312,188 3290,207 3246,192 3227,210 3190,185 3172,196 3128,192"/>
+                <Baseline points="3148,298 3192,307 3237,307 3282,307 3327,304 3372,304 3416,304 3452,304"/>
+                <TextEquiv>
+                    <Unicode>0120</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="524,517 3356,535 3456,524 3456,432 524,443"/>
+                <Baseline points="546,510 549,510 594,513 639,510 683,510 728,510 773,510 818,510 863,510 907,510 952,510 997,510 1042,510 1087,510 1131,510 1176,510 1221,510 1266,510 1311,510 1355,510 1400,510 1445,510 1490,510 1535,510 1579,507 1624,510 1669,510 1714,510 1759,510 1803,510 1848,510 1893,510 1938,507 1983,510 2028,507 2072,510 2117,507 2162,507 2207,507 2252,507 2296,507 2341,507 2386,507 2431,507 2476,507 2520,507 2565,507 2610,507 2655,504 2700,504 2744,501 2789,501 2834,498 2879,498 2924,501 2968,501 3013,504 3058,504 3103,507 3148,507 3192,504 3237,507 3282,510 3327,510 3372,507 3416,504 3461,501"/>
+                <TextEquiv>
+                    <Unicode>Causa Carpensis plebis et infra: Ceterum primitie - sacrilegus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="218,635 676,635 676,550 487,550 465,572 443,558 421,572 399,550 347,550 325,572 299,550 218,550"/>
+                <Baseline points="238,624 283,621 328,624 373,621 418,624 462,621 507,624 552,621 597,621 642,621 683,624"/>
+                <TextEquiv>
+                    <Unicode>indicatur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="199,735 1950,742 1953,676 203,676"/>
+                <Baseline points="221,731 265,731 310,731 355,734 400,734 445,731 489,731 534,731 579,728 624,731 669,728 713,731 758,734 803,728 848,731 893,731 937,731 982,731 1027,731 1072,731 1117,731 1161,728 1206,728 1251,728 1296,728 1341,728 1385,728 1430,731 1475,728 1520,728 1565,728 1609,728 1654,728 1699,728 1744,725 1789,728 1833,728 1878,728 1923,728 1959,731"/>
+                <TextEquiv>
+                    <Unicode>Paschalis II canonicis sancti Martini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="2518,731 2563,753 2666,738 2714,772 2795,716 2869,716 2906,742 3128,746 3128,657 3094,650 2902,654 2873,683 2784,683 2703,624 2662,661 2614,661 2581,628 2518,665"/>
+                <Baseline points="2538,731 2553,731 2598,725 2643,725 2688,725 2732,722 2777,719 2822,716 2867,719 2912,722 2956,725 3001,725 3046,725 3091,725 3136,722"/>
+                <TextEquiv>
+                    <Unicode>(1099 - 1118)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="168,934 3461,947 3461,1040 221,1040"/>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="203,1030 3172,1027 2958,945 203,956"/>
+                <Baseline points="224,1030 262,1027 307,1027 352,1027 397,1030 442,1027 486,1027 531,1030 576,1027 621,1030 666,1027 710,1024 755,1021 800,1024 845,1024 890,1027 934,1024 979,1027 1024,1024 1069,1024 1114,1024 1158,1027 1203,1027 1248,1021 1293,1027 1338,1024 1382,1024 1397,1024 1430,1021 1475,1024 1520,1024 1565,1021 1609,1024 1654,1024 1699,1024 1744,1024 1789,1024 1833,1024 1878,1024 1923,1021 1968,1021 2013,1018 2057,1018 2102,1021 2147,1021 2192,1021 2237,1021 2281,1021 2326,1021 2371,1021 2416,1021 2461,1018 2505,1018 2550,1018 2595,1018 2640,1018 2685,1018 2729,1018 2774,1018 2819,1018 2864,1021 2909,1021 2953,1021 2998,1018 3043,1018 3088,1018 3133,1018 3177,1018"/>
+                <TextEquiv>
+                    <Unicode>Nach JP.III M Nr. 19 an die Kanoniker der Kathedrale von Lucca.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:41.658+02:00</Created>
+        <LastChange>2024-06-13T20:54:55.858+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733383" pageNr="46" tsid="171983174" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=MITQEMWJMSEBWTGFKGUBRXKL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LBFCIAAHTYMBPBNXXZGTHHUN" imageId="54996255"/>
+    </Metadata>
+    <Page imageFilename="0046_p046.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229522" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="17,213 17,2336 3455,2336 3455,213"/>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3165,298 3192,290 3207,298 3238,275 3261,298 3312,282 3331,302 3377,294 3393,306 3455,302 3447,174 3404,174 3389,190 3346,170 3327,193 3285,166 3257,170 3246,186 3223,170 3157,170"/>
+                <Baseline points="3186,271 3212,271 3239,271 3266,271 3293,272 3320,274 3347,277 3374,281 3401,282 3428,284 3455,286"/>
+                <TextEquiv>
+                    <Unicode>0041</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="205,422 3180,437 3122,337 2151,298 1973,379 205,356"/>
+                <Baseline points="226,421 374,419 522,419 670,418 818,418 966,418 1114,421 1262,418 1410,418 1558,418 1706,415 1854,415 2002,415 2150,412 2298,412 2446,412 2594,412 2742,409 2890,411 3038,409 3186,418"/>
+                <TextEquiv>
+                    <Unicode>Libernese bestaetigt Koenig Johann dem Cisterzienserkloster Ford,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="221,507 3037,518 3169,433 224,429"/>
+                <Baseline points="241,495 387,492 534,489 681,489 828,489 975,489 1121,489 1268,491 1415,488 1562,489 1709,486 1855,486 2002,486 2149,483 2296,483 2443,483 2589,483 2736,480 2883,482 3030,483 3177,480"/>
+                <TextEquiv>
+                    <Unicode>(Cal.Charter Rolls III 208), in der Naehe von Chard und Crewerne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="201,569 3312,576 3312,495 201,503"/>
+                <Baseline points="224,564 378,561 533,564 688,561 842,561 997,561 1152,560 1306,560 1461,561 1616,559 1771,558 1925,559 2080,563 2235,558 2389,561 2544,558 2699,555 2853,559 3008,558 3163,555 3318,558"/>
+                <TextEquiv>
+                    <Unicode>liegen Cricket Malherbie und Cricket Sr. „Thomas. Dean von Chichester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="205,646 3172,650 3176,573 209,588"/>
+                <Baseline points="226,636 373,639 521,637 669,636 817,636 965,636 1113,635 1260,636 1408,636 1556,636 1704,636 1852,632 2000,633 2148,636 2295,630 2443,631 2591,630 2739,630 2887,630 3035,630 3183,627"/>
+                <TextEquiv>
+                    <Unicode>waren zuerst der 1174 zum Bischof geweihte Johann Greenford, dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="228,731 3157,646 228,654"/>
+                <Baseline points="250,713 395,710 541,710 687,708 833,707 978,704 1124,704 1270,701 1416,701 1561,698 1707,698 1853,695 1999,695 2144,695 2290,692 2436,692 2582,689 2727,688 2873,689 3019,685 3165,683"/>
+                <TextEquiv>
+                    <Unicode>jordan de Melaburn, sodass die Namenssigle J. auf beide zutrifft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="201,801 3161,774 3161,700 201,720"/>
+                <Baseline points="221,782 368,782 516,783 663,782 811,782 958,779 1106,776 1253,776 1401,775 1548,773 1696,773 1843,770 1991,770 2138,767 2286,767 2433,765 2581,764 2728,764 2876,763 3023,758 3171,755"/>
+                <TextEquiv>
+                    <Unicode>Datierung daher nach der Sessionsdauer des Bischofs Bartholomaeus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="205,859 282,874 375,859 406,874 708,870 708,809 677,801 592,812 565,797 406,793 379,820 348,801 205,809"/>
+                <Baseline points="226,857 251,857 277,857 303,859 329,859 355,857 381,857 407,857 433,859 459,859 485,858 511,857 537,857 563,857 589,857 615,857 641,857 667,857 693,856 719,854"/>
+                <TextEquiv>
+                    <Unicode>von Exeter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

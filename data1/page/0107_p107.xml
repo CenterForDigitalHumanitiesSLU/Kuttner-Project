@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:07</Creator>
+        <Created>2024-04-18T03:23:48.748+02:00</Created>
+        <LastChange>2024-06-21T05:39:18.143+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733460" pageNr="107" tsid="173205662" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=AMFYDSIEXTUQNMZGKIFXZDIP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRXKMOWOTSSWLWLGQTGTVRCO" imageId="54996332"/>
+    </Metadata>
+    <Page imageFilename="0107_p107.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230718" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="72,112 3441,112 3441,1000 72,1000"/>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:0;}">
+                <Coords points="250,466 270,466 293,485 312,485 320,478 327,485 362,481 358,350 331,354 316,339 300,335 285,350 246,350"/>
+                <Baseline points="271,459 316,459 361,462 367,462"/>
+                <TextEquiv>
+                    <Unicode>81</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="2245,397 2288,412 2365,412 2392,404 2411,385 2476,397 2480,339 2461,335 2442,350 2380,347 2357,316 2345,320 2342,312 2326,320 2307,304 2288,312 2253,308"/>
+                <Baseline points="2266,394 2311,394 2356,391 2401,388 2446,385 2490,376"/>
+                <TextEquiv>
+                    <Unicode>JL. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3131,385 3170,401 3197,401 3212,385 3231,401 3277,397 3289,385 3312,401 3354,389 3374,404 3405,401 3401,266 3366,281 3347,262 3316,262 3293,285 3254,258 3127,270"/>
+                <Baseline points="3154,376 3198,379 3243,382 3288,379 3333,382 3378,382 3416,388"/>
+                <TextEquiv>
+                    <Unicode>0091</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="655,616 2731,632 2727,547 651,566"/>
+                <Baseline points="677,606 722,609 767,606 812,606 857,606 901,606 946,606 991,606 1036,606 1081,606 1126,606 1170,606 1215,609 1260,609 1305,609 1350,609 1394,609 1439,609 1484,609 1529,609 1574,612 1618,612 1663,612 1708,606 1753,612 1798,609 1842,609 1887,609 1932,609 1977,609 2022,609 2066,609 2111,612 2156,612 2201,612 2246,612 2290,612 2335,612 2380,612 2425,612 2470,612 2514,612 2559,612 2604,612 2649,612 2694,612 2735,612"/>
+                <TextEquiv>
+                    <Unicode>Ad noticiam nostram noveritis ex conquestione -
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="254,732 2619,732 2619,674 2411,647 254,670"/>
+                <Baseline points="274,716 319,716 364,716 409,716 453,716 498,719 543,719 588,710 633,716 677,716 722,716 767,716 812,716 857,713 901,716 946,716 991,716 1036,716 1081,716 1126,716 1170,719 1215,719 1260,716 1305,716 1350,716 1394,716 1439,716 1484,719 1529,716 1574,716 1618,713 1663,716 1708,716 1753,716 1798,716 1842,719 1887,719 1932,719 1977,719 2022,719 2066,719 2111,719 2156,719 2201,719 2246,722 2290,719 2335,719 2380,719 2425,719 2470,719 2514,716 2559,719 2604,719 2628,719"/>
+                <TextEquiv>
+                    <Unicode>recipi permittatis. Dat. Beneventi X kal. Decembris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:5;}">
+                <Coords points="243,836 3339,836 2869,755 243,782"/>
+                <Baseline points="265,827 298,824 343,824 388,827 433,827 477,824 522,824 567,824 612,824 657,827 701,824 746,824 791,827 836,827 881,827 925,827 970,827 1015,827 1060,827 1105,827 1149,827 1194,827 1239,827 1284,827 1329,827 1373,827 1418,827 1463,827 1508,827 1553,830 1597,830 1642,830 1687,830 1732,830 1777,830 1821,827 1866,827 1911,827 1956,827 2001,827 2045,827 2090,827 2135,827 2180,827 2225,827 2269,827 2314,830 2359,827 2404,830 2449,830 2493,830 2538,830 2583,833 2628,833 2673,830 2717,830 2762,830 2807,830 2852,830 2897,830 2941,830 2986,830 3031,830 3076,830 3121,830 3165,830 3210,830 3255,830 3300,827 3345,821"/>
+                <TextEquiv>
+                    <Unicode>Alexander. archiepiscopis episcopis et abbatibus per Angliam consti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:6;}">
+                <Coords points="243,936 270,936 289,955 535,951 535,897 516,897 497,878 451,882 427,867 404,882 385,867 370,882 320,882 293,867 266,893 243,893"/>
+                <Baseline points="265,934 310,937 355,937 400,937 445,937 489,937 534,937 546,934"/>
+                <TextEquiv>
+                    <Unicode>tutis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="28,989 3437,976 3437,2327 35,2327"/>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:0;}">
+                <Coords points="886,1113 1090,1148 1394,1082 2257,1098 2261,990 890,1055"/>
+                <Baseline points="907,1099 928,1099 973,1102 1018,1102 1063,1102 1108,1102 1152,1102 1197,1102 1242,1102 1287,1096 1332,1096 1376,1096 1421,1096 1466,1096 1511,1093 1556,1093 1600,1090 1645,1090 1690,1090 1735,1090 1780,1090 1824,1090 1869,1090 1914,1090 1959,1087 2004,1087 2048,1084 2093,1084 2138,1084 2183,1081 2228,1084 2272,1084"/>
+                <TextEquiv>
+                    <Unicode>= Font. 2. 21... Daf. bon. x. R. decêto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:1;}">
+                <Coords points="886,1202 928,1213 971,1205 1144,1209 1144,1144 1117,1136 1090,1148 1063,1136 997,1140 971,1121 944,1140 928,1132 920,1140 886,1136"/>
+                <Baseline points="907,1191 931,1191 976,1191 1021,1194 1066,1191 1111,1188 1155,1185"/>
+                <TextEquiv>
+                    <Unicode>siehe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:2;}">
+                <Coords points="874,1306 3158,1317 3393,1298 3431,1205 874,1244"/>
+                <Baseline points="896,1305 928,1302 973,1302 1018,1305 1063,1302 1108,1308 1152,1305 1197,1305 1242,1305 1287,1305 1332,1305 1376,1305 1421,1305 1466,1305 1511,1305 1556,1305 1600,1305 1645,1308 1690,1311 1735,1311 1780,1314 1824,1308 1869,1308 1914,1305 1959,1308 2004,1305 2048,1305 2093,1302 2138,1299 2183,1299 2228,1299 2272,1299 2317,1299 2362,1296 2407,1296 2452,1296 2496,1293 2541,1290 2586,1290 2631,1290 2676,1290 2720,1287 2765,1287 2810,1287 2855,1287 2900,1284 2944,1281 2989,1278 3034,1278 3079,1275 3124,1275 3168,1269 3213,1269 3258,1269 3303,1269 3348,1269 3392,1269 3437,1266"/>
+                <TextEquiv>
+                    <Unicode>Ed. PU in England, 3. 299 no. 157. Benevento, November 22,1167-69.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

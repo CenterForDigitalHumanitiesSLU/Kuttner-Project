@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=50870:lm=none:date=29_04_2024_00:07</Creator>
+        <Created>2024-04-18T03:21:13.059+02:00</Created>
+        <LastChange>2024-06-13T20:43:36.996+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733365" pageNr="34" tsid="171982049" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=OAOQQCHMRHDBRFYVWJVMAJFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SDGFDUGKYLRGOSTNGNUUGVNO" imageId="54996237"/>
+    </Metadata>
+    <Page imageFilename="0034_p034.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229232" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_928"/>
+                <RegionRefIndexed index="1" regionRef="r_937"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+                <RegionRefIndexed index="3" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_928" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="112,1027 3362,1027 3362,1172 112,1172"/>
+            <TextLine id="l_632" custom="readingOrder {index:0;}">
+                <Coords points="197,1172 309,1172 441,1172 559,1172 599,1172 599,1141 559,1141 441,1141 309,1141 197,1141"/>
+                <Baseline points="197,1172 309,1172 441,1172 559,1172 599,1172"/>
+                <TextEquiv>
+                    <Unicode>Belv. 25.
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_937" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="118,171 3454,171 3454,1027 118,1027"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="329,474 375,487 428,480 434,480 434,450 426,450 377,457 337,445"/>
+                <Baseline points="329,474 375,487 428,480 434,480"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:1;}">
+                <Coords points="2382,388 2500,395 2566,395 2612,401 2665,408 2757,408 2803,408 2842,401 2837,372 2800,378 2757,378 2666,378 2616,372 2568,365 2501,365 2383,358"/>
+                <Baseline points="2382,388 2500,395 2566,395 2612,401 2665,408 2757,408 2803,408 2842,401"/>
+                <TextEquiv>
+                    <Unicode>JL. 14223
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3125,329 3191,349 3237,349 3290,349 3336,349 3382,349 3382,349 3382,319 3382,319 3336,319 3290,319 3237,319 3195,319 3134,300"/>
+                <Baseline points="3125,329 3191,349 3237,349 3290,349 3336,349 3382,349 3382,349"/>
+                <TextEquiv>
+                    <Unicode>0032</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_150" custom="readingOrder {index:3;}">
+                <Coords points="711,546 908,553 1092,546 1184,546 1316,546 1415,546 1493,546 1586,546 1822,546 1941,546 2066,553 2224,546 2382,546 2493,546 2632,546 2809,546 3013,540 3105,540 3184,546 3187,516 3107,510 3013,510 2809,516 2632,516 2493,516 2382,516 2223,516 2066,523 1942,516 1822,516 1586,516 1493,516 1415,516 1316,516 1184,516 1092,516 908,523 712,516"/>
+                <Baseline points="635,540 908,553 1092,546 1184,546 1316,546 1415,546 1493,546 1586,546 1822,546 1941,546 2066,553 2224,546 2382,546 2493,546 2632,546 2809,546 3013,540 3105,540 3184,546"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram noveritis pervenisse, quod quidam
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_266" custom="readingOrder {index:4;}">
+                <Coords points="224,658 395,658 586,665 730,658 855,665 974,665 1112,665 1309,665 1520,665 1743,671 2118,665 2309,671 2507,671 2632,678 2776,671 2901,671 2974,671 3053,671 3125,678 3263,678 3296,678 3296,648 3263,648 3126,648 3054,641 2974,641 2901,641 2776,641 2632,648 2507,641 2310,641 2119,635 1744,641 1520,635 1309,635 1112,635 974,635 856,635 730,628 585,635 395,628 224,628"/>
+                <Baseline points="224,658 395,658 586,665 730,658 855,665 974,665 1112,665 1309,665 1520,665 1743,671 2118,665 2309,671 2507,671 2632,678 2776,671 2901,671 2974,671 3053,671 3125,678 3263,678 3296,678"/>
+                <TextEquiv>
+                    <Unicode>clerici in vestra parochia constituti sacerdotum filii - celebrare
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_394" custom="readingOrder {index:5;}">
+                <Coords points="217,763 355,770 533,770 678,783 941,783 1039,783 1105,783 1210,783 1289,777 1287,747 1209,753 1105,753 1039,753 941,753 679,753 534,740 356,740 219,733"/>
+                <Baseline points="217,763 355,770 533,770 678,783 941,783 1039,783 1105,783 1210,783 1289,777"/>
+                <TextEquiv>
+                    <Unicode>nullatenus sustineatis
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_450" custom="readingOrder {index:6;}">
+                <Coords points="217,882 460,875 737,882 895,882 1270,895 1474,895 1684,902 1987,902 2349,902 2539,902 2717,882 2869,882 2967,882 3053,862 3092,869 3097,839 3052,832 2964,852 2869,852 2716,852 2538,872 2349,872 1987,872 1685,872 1474,865 1270,865 895,852 737,852 460,845 216,852"/>
+                <Baseline points="217,882 460,875 737,882 895,882 1270,895 1474,895 1684,902 1987,902 2349,902 2539,902 2717,882 2869,882 2967,882 3053,862 3092,869"/>
+                <TextEquiv>
+                    <Unicode>Alexander (III) ep. s.s.D. venerabili fratri G. Londoniensi
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_544" custom="readingOrder {index:7;}">
+                <Coords points="217,1007 526,1007 618,1020 678,1020 789,1020 947,1033 1092,1020 1217,1027 1329,1014 1325,984 1216,997 1091,990 947,1003 791,990 678,990 621,990 528,977 217,977"/>
+                <Baseline points="217,1007 526,1007 618,1020 678,1020 789,1020 947,1033 1092,1020 1217,1027 1329,1014"/>
+                <TextEquiv>
+                    <Unicode>episcopo sal. et ap. ben.
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_600" custom="readingOrder {index:8;}">
+                <Coords points="2619,1000 2882,1007 2967,994 3066,1007 3165,1007 3165,977 3068,977 2967,964 2880,977 2619,970"/>
+                <Baseline points="2619,1000 2882,1007 2967,994 3066,1007 3165,1007"/>
+                <TextEquiv>
+                    <Unicode>(1163-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="46,1198 3401,1165 3434,2034 66,2034"/>
+            <TextLine id="l_664" custom="readingOrder {index:0;}">
+                <Coords points="217,1290 388,1283 711,1283 901,1283 1066,1290 1276,1290 1474,1290 1684,1290 1868,1283 2079,1283 2322,1290 2507,1290 2711,1283 2882,1283 3099,1277 3243,1270 3242,1240 3098,1247 2881,1253 2710,1253 2506,1260 2323,1260 2079,1253 1868,1253 1684,1260 1474,1260 1276,1260 1066,1260 902,1253 711,1253 388,1253 216,1260"/>
+                <Baseline points="217,1290 388,1283 711,1283 901,1283 1066,1290 1276,1290 1474,1290 1684,1290 1868,1283 2079,1283 2322,1290 2507,1290 2711,1283 2882,1283 3099,1277 3243,1270"/>
+                <TextEquiv>
+                    <Unicode>Da das Stueck pluralisch abgefasst ist, muss es an mehrere Adressa-
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_762" custom="readingOrder {index:1;}">
+                <Coords points="224,1362 401,1362 592,1362 724,1362 1039,1362 1178,1362 1322,1362 1454,1362 1684,1349 1895,1349 2105,1369 2276,1369 2421,1362 2967,1369 3224,1369 3224,1369 3224,1339 3224,1339 2967,1339 2421,1332 2276,1339 2107,1339 1896,1319 1683,1319 1453,1332 1322,1332 1178,1332 1039,1332 724,1332 592,1332 401,1332 224,1332"/>
+                <Baseline points="224,1362 401,1362 592,1362 724,1362 1039,1362 1178,1362 1322,1362 1454,1362 1684,1349 1895,1349 2105,1369 2276,1369 2421,1362 2967,1369 3224,1369 3224,1369"/>
+                <TextEquiv>
+                    <Unicode>ten gegangen sein und zwar nicht nur Bischoefe, denn die Anrede in
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_860" custom="readingOrder {index:2;}">
+                <Coords points="237,1455 467,1461 579,1461 901,1448 1059,1461 1270,1481 1572,1481 1770,1474 1980,1481 2191,1481 2217,1481 2217,1451 2191,1451 1981,1451 1770,1444 1572,1451 1271,1451 1062,1431 902,1418 578,1431 468,1431 238,1424"/>
+                <Baseline points="237,1455 467,1461 579,1461 901,1448 1059,1461 1270,1481 1572,1481 1770,1474 1980,1481 2191,1481 2217,1481"/>
+                <TextEquiv>
+                    <Unicode>der Mandatsformel lautet discretioni vestre.
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:3;}">
+            <Coords points="0,0 0,0 0,0"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:14.929+02:00</Created>
+        <LastChange>2024-06-13T20:13:15.050+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733329" pageNr="2" tsid="171977315" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=WLJWYYVIODZUUSMDBKRJICSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FPWTPDDHZKXWVCYYEIXCBPBY" imageId="54996201"/>
+    </Metadata>
+    <Page imageFilename="0002_p002.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228603" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="8,152 8,2327 3309,2327 3309,152"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="2448,267 2471,263 2569,326 2679,303 2774,350 2840,291 2903,279 2895,141 2754,141 2719,118 2687,149 2550,130 2440,138"/>
+                <Baseline points="2471,268 2629,260 2696,272 2776,272 2914,294"/>
+                <TextEquiv>
+                    <Unicode>0001</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="145,405 3269,393 3308,306 145,318"/>
+                <Baseline points="167,379 324,380 481,379 638,379 795,377 952,378 1109,373 1266,373 1423,375 1580,370 1738,370 1895,370 2052,370 2209,367 2366,367 2523,367 2680,367 2837,364 2994,361 3151,363 3309,361"/>
+                <TextEquiv>
+                    <Unicode>das Vortragekreuz bei Raine, Historeans of the church of York and its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="141,468 1827,475 1886,464 1886,401 141,405"/>
+                <Baseline points="164,450 250,456 336,456 423,456 509,456 596,453 682,453 769,456 855,455 942,453 1028,450 1114,450 1201,450 1287,450 1374,448 1460,450 1547,452 1633,447 1720,445 1806,452 1893,442"/>
+                <TextEquiv>
+                    <Unicode>archbishopS III (London 1894) 50 n.33.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

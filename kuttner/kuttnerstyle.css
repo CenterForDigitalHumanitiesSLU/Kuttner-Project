@@ -5,7 +5,6 @@ body {
 
 }
 
-
 h1 {
   color: whitesmoke;
   text-align: center;
@@ -40,10 +39,18 @@ head {
     padding-left: 50px;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
 
 
 footer {
-
 }
 
 
@@ -69,6 +76,18 @@ a:visited {
   color: lightblue;
 }
 
+button {
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  box-shadow: 0 8px 16px 0 #316831, 0 6px 20px 0 #316831;
+  width: 100%;
+  cursor: pointer;
+}
+
 /* generic page structure */
 .grid {
   display: grid;
@@ -76,10 +95,6 @@ a:visited {
   row-gap: 20px;
   justify-content: space-evenly;
   grid-template-columns: 1fr repeat(9, minmax(auto, 8em)) 1fr;
-}
-
-
-.pages {
 }
 
 .colophon {
@@ -90,13 +105,39 @@ a:visited {
   background-color: rgb(103, 49, 71);
   font-family: "Playfair Display", sans-serif;
   line-height: 35px;
-/*  border-radius: 8px;
-  border-color: black;
-  padding-bottom: 2em;
-  padding-top: 2em;*/
+  padding: 20px;
   font-size: 30px;
-  #border: 2px solid;
   display: flex;
+}
+
+.navigation {
+  grid-row: 2;
+  grid-column: 2/11;
+  grid-auto-columns: 50px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+  background: rgb(103, 49, 71);
+  z-index: 2;
+  line-height: 1;
+}
+
+.navigation li {
+  float: left;
+}
+
+.navigation a:hover {
+  background-color: #316831;
+}
+
+.navigation a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .title {
@@ -120,21 +161,14 @@ a:visited {
   width:50%;
 }
 
-/*.global-nav {
-  grid-row: 1;
-  grid-column: 6/9;
-  grid-auto-columns: 50px;
-  position: -webkit-sticky;
-  position: sticky;
-  top:0;
-  background: black;
-  border-radius: 8px;
-  z-index: 2;
-  line-height: 1;
-}*/
-
 .info {
   grid-row: 3;
+  grid-column: 3/10;
+  background-color: white;  
+}
+
+.whcard {
+  grid-row: 4;
   grid-column: 3/10;
   background-color: white;  
 }
@@ -151,11 +185,24 @@ a:visited {
   text-align: center;
 }
 
+#onlineresources_button {
+  background-image: url('css/cardsnip.gif');
+}
+
 .sectionbutton {
   height: 200px;
   text-align: center;
 }
 
+.sectionbutton hover {
+  box-shadow: 0 8px 16px 0 #316831, 0 6px 20px 0 #316831;
+}
+
+.buttontext {
+  background-color: #316831;
+  color: whitesmoke;
+  padding: 8px;
+}
 
 .research {
   grid-row: 5;
@@ -175,78 +222,15 @@ a:visited {
   grid-column: 2/9;
 }
 
-button {
-  border: none;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 4px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  width: 100%;
-  cursor: pointer;
-}
 
 
-
-/* Navbar attempt 3 -- code borrowed from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_subnav*/
-
-
-
-.navbar {
-  overflow: hidden;
-    float: right;
-}
-
-.navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.subnav {
-  float: left;
-  overflow: hidden;
-}
-
-.subnav .subnavbtn {
-  font-size: 16px;  
-  border: none;
-  outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-
-.navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: rgb(103, 49, 71);
-}
-
-.subnav-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  background-color: grey;
-  width: 100%;
-  z-index: 1;
-}
-
-.subnav-content a {
-  float: left;
-  color: white;
-  text-decoration: none;
-}
-
-.subnav-content a:hover {
-  background-color: rgb(103, 49, 71);
-  color: white;
-}
-
-.subnav:hover .subnav-content {
-  display: block;
+#myInput {
+  background-image: url('css/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 100%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
 }

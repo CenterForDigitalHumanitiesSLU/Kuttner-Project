@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:16.534+02:00</Created>
+        <LastChange>2024-06-13T20:15:37.989+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733333" pageNr="6" tsid="171977067" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=HUBEESFCBKGUECOFIPPEBYIZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DZWVGMMWEGMFWAYTHKLIBCOC" imageId="54996205"/>
+    </Metadata>
+    <Page imageFilename="0006_p006.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228703" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="155,131 155,2330 3434,2330 3434,131"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3042,360 3071,360 3116,319 3148,327 3173,311 3226,323 3234,315 3259,339 3300,339 3316,143 3279,147 3251,131 3230,147 3206,123 3148,147 3120,127 3099,143 3062,139"/>
+                <Baseline points="3070,310 3097,301 3124,303 3151,303 3178,301 3206,298 3233,294 3260,290 3287,289 3315,289"/>
+                <TextEquiv>
+                    <Unicode>0004</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="155,380 2956,384 2993,290 155,307"/>
+                <Baseline points="179,370 327,370 475,367 624,370 772,368 920,367 1069,367 1217,365 1365,367 1514,367 1662,367 1811,366 1959,366 2107,364 2256,364 2404,366 2552,364 2701,364 2849,364 2998,370"/>
+                <TextEquiv>
+                    <Unicode>Im Zusammenhang ist das Stueck nicht ueberliefert, aber Frkf.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:2;}">
+                <Coords points="143,450 3267,458 3193,368 143,372"/>
+                <Baseline points="164,436 319,439 475,439 631,439 787,439 942,439 1098,439 1254,435 1410,436 1565,436 1721,436 1877,434 2033,434 2188,436 2344,433 2500,435 2656,433 2811,436 2967,436 3123,436 3279,427"/>
+                <TextEquiv>
+                    <Unicode>bietet die Teilstuecke (ab) fortlaufend so, wie die Zusammengehoerig¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="143,527 3336,523 3336,446 143,450"/>
+                <Baseline points="164,507 323,511 482,513 641,512 800,512 959,510 1118,507 1277,507 1436,507 1595,507 1754,506 1913,501 2072,503 2231,504 2390,504 2549,507 2708,507 2867,507 3026,507 3185,504 3345,498"/>
+                <TextEquiv>
+                    <Unicode>keit in A und X angedeutet ist. Danach beginnt (b) eigentlich erst mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:4;}">
+                <Coords points="143,597 3083,601 3009,519 143,527"/>
+                <Baseline points="164,582 310,583 456,583 602,585 748,585 895,589 1041,586 1187,585 1333,585 1479,585 1626,585 1772,585 1918,585 2064,586 2210,585 2357,585 2503,583 2649,585 2795,584 2941,582 3088,582"/>
+                <TextEquiv>
+                    <Unicode>Si vero alteruter; der erste Satz de illis qui infra scheint ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="147,675 3255,683 3377,585 147,605"/>
+                <Baseline points="170,660 330,662 491,661 652,663 813,662 974,660 1134,658 1295,659 1456,660 1617,660 1778,660 1938,658 2099,660 2260,657 2421,660 2582,657 2742,657 2903,660 3064,660 3225,658 3386,654"/>
+                <TextEquiv>
+                    <Unicode>spaeterer Ersatz fuer das gestrichene Teilstueck (a) zu sein. In Cl.300</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:6;}">
+                <Coords points="143,744 3279,761 3381,671 143,683"/>
+                <Baseline points="167,734 328,734 489,734 650,732 812,734 973,734 1134,731 1295,729 1457,731 1618,731 1779,731 1940,731 2102,731 2263,731 2424,731 2585,731 2747,731 2908,731 3069,730 3230,731 3392,734"/>
+                <TextEquiv>
+                    <Unicode>und Roff.103 beginnt (b) erst mit Utrum mulier. Dass (c) ein Teilstueck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:7;}">
+                <Coords points="147,818 3140,822 3173,744 147,756"/>
+                <Baseline points="170,806 320,809 471,808 621,806 772,807 923,809 1073,809 1224,806 1375,806 1525,806 1676,806 1827,806 1977,809 2128,808 2279,806 2429,806 2580,805 2731,803 2881,803 3032,803 3183,797"/>
+                <TextEquiv>
+                    <Unicode>von Sicut dignum JL.12180 ist, hat schon Lohmann S.67 mit Recht be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:8;}">
+                <Coords points="143,891 3422,875 143,826"/>
+                <Baseline points="164,881 327,881 491,880 654,881 818,881 981,881 1145,878 1308,881 1472,881 1635,881 1799,881 1962,881 2126,878 2289,878 2453,875 2616,875 2780,875 2943,878 3107,877 3270,873 3434,863"/>
+                <TextEquiv>
+                    <Unicode>zweifelt; das alleinige Zeugnis der Cott. wiegt die vollstaendige Ueber-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:9;}">
+                <Coords points="143,965 3336,961 3242,883 143,891"/>
+                <Baseline points="164,952 323,952 482,952 641,952 800,949 960,952 1119,952 1278,952 1437,950 1596,952 1756,949 1915,949 2074,949 2233,949 2392,948 2552,946 2711,947 2870,946 3029,946 3188,946 3348,946"/>
+                <TextEquiv>
+                    <Unicode>lieferung dieser Dekretale in Wig.alt mit Datum nicht auf. Die falsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:10;}">
+                <Coords points="147,1043 3398,1026 151,965"/>
+                <Baseline points="170,1027 331,1027 493,1027 655,1027 817,1025 979,1027 1141,1025 1302,1027 1464,1024 1626,1027 1788,1024 1950,1021 2112,1023 2274,1024 2435,1023 2597,1021 2759,1021 2921,1019 3083,1021 3245,1022 3407,1030"/>
+                <TextEquiv>
+                    <Unicode>Inskription der App. (nicht cod.Linc., wo sie richtig steht) und Bb.gr..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:11;}">
+                <Coords points="147,1108 3316,1104 3079,1022 147,1043"/>
+                <Baseline points="170,1093 327,1096 485,1093 643,1096 801,1096 959,1096 1117,1093 1274,1096 1432,1096 1590,1095 1748,1092 1906,1093 2064,1093 2222,1093 2379,1093 2537,1094 2695,1093 2853,1093 3011,1093 3169,1093 3327,1084"/>
+                <TextEquiv>
+                    <Unicode>die teilweise auch den verkehrten Verweis auf die vermeintliche Stamm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:12;}">
+                <Coords points="143,1178 3050,1186 3206,1108 143,1120"/>
+                <Baseline points="164,1161 316,1164 468,1167 621,1167 773,1167 926,1167 1078,1167 1231,1164 1383,1164 1536,1166 1688,1167 1840,1164 1993,1167 2145,1164 2298,1164 2450,1164 2603,1164 2755,1164 2908,1162 3060,1164 3213,1161"/>
+                <TextEquiv>
+                    <Unicode>dekretale bringt, ist daraus zu erklaeren, dass die Dekretale Sicut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:13;}">
+                <Coords points="143,1255 3197,1259 3341,1182 143,1190"/>
+                <Baseline points="164,1239 323,1243 482,1242 642,1242 801,1242 960,1242 1120,1242 1279,1242 1438,1242 1598,1242 1757,1240 1916,1239 2076,1237 2235,1239 2394,1239 2554,1239 2713,1239 2872,1236 3032,1236 3191,1239 3351,1233"/>
+                <TextEquiv>
+                    <Unicode>dignum die reichhaltigste und bekannteste Verfuegung Alexanders III. »</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:14;}">
+                <Coords points="135,1321 3324,1321 3275,1247 135,1263"/>
+                <Baseline points="158,1314 316,1316 475,1317 634,1317 793,1316 951,1314 1110,1315 1269,1314 1428,1315 1586,1314 1745,1311 1904,1314 2063,1312 2221,1311 2380,1311 2539,1311 2698,1308 2856,1308 3015,1305 3174,1311 3333,1311"/>
+                <TextEquiv>
+                    <Unicode>ueber Priesterverletzung war; eine Verderbnis des seltenen Bathon. ep.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:15;}">
+                <Coords points="143,1402 3165,1398 3197,1312 143,1329"/>
+                <Baseline points="164,1385 316,1388 468,1388 620,1391 772,1389 924,1388 1076,1387 1229,1388 1381,1388 1533,1385 1685,1379 1837,1387 1989,1385 2141,1385 2294,1382 2446,1382 2598,1382 2750,1382 2902,1381 3054,1379 3207,1382"/>
+                <TextEquiv>
+                    <Unicode>zu Barth.Exon.ep. lag daher nahe.- Da das Bistum Bath vom Tode des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:16;}">
+                <Coords points="143,1480 3242,1484 3422,1472 3426,1382 147,1402"/>
+                <Baseline points="164,1463 327,1463 490,1463 654,1460 817,1463 980,1462 1144,1460 1307,1460 1470,1460 1634,1457 1797,1460 1960,1460 2124,1459 2287,1457 2450,1454 2614,1456 2777,1454 2940,1451 3104,1448 3267,1451 3431,1451"/>
+                <TextEquiv>
+                    <Unicode>Bischofs Robert, 1166 aug. 31 bis zur Weihe Reginalds 1174 Juni 23 vakant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="143,1550 3328,1562 3185,1472 143,1480"/>
+                <Baseline points="167,1538 325,1535 483,1535 641,1535 800,1535 958,1535 1116,1536 1275,1535 1433,1532 1591,1535 1750,1538 1908,1541 2066,1543 2224,1538 2383,1541 2541,1538 2699,1538 2858,1541 3016,1538 3174,1544 3333,1550"/>
+                <TextEquiv>
+                    <Unicode>war, von Beziehungen Roberts zu Alexander III aber nichts bekannt ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="135,1636 3177,1640 3373,1627 3373,1541 135,1550"/>
+                <Baseline points="158,1612 319,1618 480,1616 641,1615 803,1618 964,1618 1125,1616 1286,1615 1448,1615 1609,1615 1770,1615 1931,1615 2093,1615 2254,1610 2415,1615 2576,1615 2738,1612 2899,1617 3060,1613 3221,1614 3383,1615"/>
+                <TextEquiv>
+                    <Unicode>wohl aber der Papst Reginalds Wahl begruesste (PU in England II 325 und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="147,1705 3271,1709 3230,1615 147,1631"/>
+                <Baseline points="170,1690 325,1687 480,1693 635,1693 791,1693 946,1693 1101,1690 1257,1690 1412,1690 1567,1690 1723,1690 1878,1690 2033,1689 2188,1682 2344,1686 2499,1687 2654,1684 2810,1684 2965,1684 3120,1682 3276,1681"/>
+                <TextEquiv>
+                    <Unicode>133) und ihn 1179 privilegierte (ebenda II 384 und 189,- er hat am 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:20;}">
+                <Coords points="135,1783 3083,1799 3341,1701 135,1705"/>
+                <Baseline points="158,1762 317,1762 477,1765 636,1765 796,1765 955,1765 1115,1765 1274,1762 1434,1762 1593,1765 1753,1765 1912,1765 2072,1762 2231,1762 2391,1762 2550,1761 2710,1762 2869,1759 3029,1759 3188,1759 3348,1759"/>
+                <TextEquiv>
+                    <Unicode>Saterankonzil teilgenommen -, ist Reginald wohl der Empfaenger; danach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:21;}">
+                <Coords points="131,1844 262,1877 303,1852 368,1869 540,1852 560,1873 630,1852 716,1873 781,1860 781,1783 343,1775 307,1807 282,1783 131,1787"/>
+                <Baseline points="155,1833 186,1837 218,1839 250,1839 282,1842 314,1840 345,1839 377,1839 409,1839 441,1839 473,1839 504,1839 536,1839 568,1839 600,1839 632,1839 663,1840 695,1842 727,1842 759,1843 791,1845"/>
+                <TextEquiv>
+                    <Unicode>die Datierung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

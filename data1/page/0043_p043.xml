@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:38.254+02:00</Created>
+        <LastChange>2024-06-13T20:51:42.848+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733380" pageNr="43" tsid="171982340" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=WGUTVWGYDPKPUEEBKTISQDNR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PEYRMWQYWDUWXHAGZXSMOUHZ" imageId="54996252"/>
+    </Metadata>
+    <Page imageFilename="0043_p043.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="29,130 29,2337 3467,2337 3467,130"/>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:0;}">
+                <Coords points="145,603 193,615 209,599 253,603 265,591 309,591 317,446 281,446 221,486 193,482 173,502 149,502"/>
+                <Baseline points="167,579 192,582 217,580 243,578 268,576 293,576 319,576"/>
+                <TextEquiv>
+                    <Unicode>35a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="2789,563 2813,563 2841,579 2857,571 2914,579 2942,555 3034,563 3038,498 2966,498 2918,518 2881,478 2861,490 2789,494"/>
+                <Baseline points="2813,561 2838,557 2864,555 2890,553 2916,552 2942,550 2968,549 2994,549 3020,548 3046,546"/>
+                <TextEquiv>
+                    <Unicode>JL —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3106,378 3183,374 3227,398 3255,374 3324,386 3432,374 3424,241 3392,245 3372,225 3352,237 3311,197 3279,217 3211,201 3179,233 3106,269"/>
+                <Baseline points="3127,355 3152,355 3178,355 3204,357 3230,358 3256,358 3282,359 3307,361 3333,363 3359,364 3385,364 3411,363 3437,361"/>
+                <TextEquiv>
+                    <Unicode>0039</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="137,812 3203,808 3368,731 137,743"/>
+                <Baseline points="158,800 318,797 479,794 640,794 800,791 961,791 1122,786 1282,788 1443,791 1604,787 1765,785 1925,785 2086,782 2247,782 2407,781 2568,779 2729,779 2889,778 3050,779 3211,778 3372,767"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram peruenit quod multi in causam coram te uocati --</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="141,872 3143,884 3143,800 141,820"/>
+                <Baseline points="164,869 313,869 462,866 612,866 761,864 910,863 1060,863 1209,863 1358,863 1508,860 1657,861 1806,860 1956,861 2105,857 2254,857 2404,854 2553,854 2702,854 2852,855 3001,855 3151,851"/>
+                <TextEquiv>
+                    <Unicode>tibi excusationem ostendant. Dat. Rome apud sanctam Mariam maiorem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:5;}">
+                <Coords points="133,973 2098,960 2323,952 2327,900 137,868"/>
+                <Baseline points="155,943 264,943 373,943 482,943 591,943 700,940 809,940 919,939 1028,939 1137,937 1246,937 1355,937 1464,936 1573,937 1683,935 1792,937 1901,934 2010,932 2119,931 2228,931 2338,928"/>
+                <TextEquiv>
+                    <Unicode>xiiii kal. Octob. pontificatus nostri anno primo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="145,1101 3255,1105 3199,993 494,1057 145,960"/>
+                <Baseline points="167,1090 321,1090 476,1092 631,1090 786,1090 941,1087 1096,1087 1250,1087 1405,1085 1560,1081 1715,1084 1870,1084 2025,1081 2180,1078 2334,1081 2489,1081 2644,1078 2799,1080 2954,1078 3109,1076 3264,1075"/>
+                <TextEquiv>
+                    <Unicode>Clemens episcopus seruus seruorum Dei uenerabili fratri G. Aquileiensi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:7;}">
+                <Coords points="141,1222 952,1222 1113,1161 2066,1202 2267,1173 2267,1101 141,1113"/>
+                <Baseline points="164,1164 269,1169 374,1167 480,1164 585,1164 691,1164 796,1164 901,1163 1007,1160 1112,1161 1218,1161 1323,1161 1428,1158 1534,1158 1639,1155 1745,1157 1850,1157 1955,1155 2061,1155 2166,1155 2272,1152"/>
+                <TextEquiv>
+                    <Unicode>patriarche salutem et apostolicam benedictionem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="137,1326 3275,1350 3275,1234 3010,1218 137,1218"/>
+                <Baseline points="158,1314 314,1320 470,1312 627,1311 783,1311 939,1308 1096,1311 1252,1311 1408,1308 1565,1308 1721,1305 1877,1305 2034,1305 2190,1302 2346,1302 2503,1302 2659,1302 2815,1299 2972,1299 3128,1296 3285,1302"/>
+                <TextEquiv>
+                    <Unicode>apogr. Holtzmann ex orig. Ciuidale, R. Museo (Arch. capit. Bullarium I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:9;}">
+                <Coords points="137,1419 3111,1423 3034,1310 137,1326"/>
+                <Baseline points="158,1391 306,1395 454,1394 602,1386 750,1388 898,1388 1046,1385 1195,1385 1343,1382 1491,1382 1639,1385 1787,1382 1935,1382 2083,1379 2232,1379 2380,1379 2528,1380 2676,1376 2824,1378 2972,1377 3121,1376"/>
+                <TextEquiv>
+                    <Unicode>fol. 37): cop. San Daniele Bibl. comun, unde ed Kehr, Gött. Nachr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:10;}">
+                <Coords points="153,1499 446,1527 788,1475 997,1519 1157,1463 1334,1515 1475,1463 1776,1491 1849,1471 1849,1411 153,1415"/>
+                <Baseline points="176,1463 260,1463 344,1463 428,1469 512,1463 597,1463 681,1464 765,1463 849,1465 933,1462 1018,1459 1102,1460 1186,1463 1270,1460 1354,1460 1439,1457 1523,1457 1607,1459 1691,1457 1775,1460 1860,1460"/>
+                <TextEquiv>
+                    <Unicode>1899 p. 275 no. 14: IP 7.1.42 no. 113.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:11;}">
+                <Coords points="137,1620 3267,1668 3267,1571 3006,1515 137,1491"/>
+                <Baseline points="158,1615 313,1615 469,1612 625,1609 781,1609 936,1609 1092,1607 1248,1606 1404,1606 1559,1606 1715,1605 1871,1603 2027,1601 2182,1605 2338,1600 2494,1597 2650,1597 2805,1597 2961,1603 3117,1597 3273,1606"/>
+                <TextEquiv>
+                    <Unicode>Epistolam Urbani III eiusdem tenoris dat. Ian. 16 1186-7 ex orig. ed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:12;}">
+                <Coords points="145,1708 977,1748 1527,1688 1756,1736 1820,1684 2090,1744 2202,1696 2150,1616 145,1628"/>
+                <Baseline points="167,1687 269,1686 371,1693 473,1687 576,1687 678,1687 780,1690 883,1688 985,1687 1087,1687 1190,1686 1292,1684 1394,1682 1496,1684 1599,1683 1701,1682 1803,1681 1906,1678 2008,1681 2110,1680 2213,1684"/>
+                <TextEquiv>
+                    <Unicode>Pflugk-Harttung (JL 15770); IP 7.1.41 no. 107.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

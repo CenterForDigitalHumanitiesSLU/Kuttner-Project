@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=11_05_2024_21:14</Creator>
+        <Created>2024-04-18T03:27:40.115+02:00</Created>
+        <LastChange>2024-05-14T19:19:20.013+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733933" pageNr="280" tsid="166245695" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=TMRWFXVPODGTUOZSVJQXZYPU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IZQHZZFNYMHLJEZKSGBKRJPY" imageId="54996631"/>
+    </Metadata>
+    <Page imageFilename="0280_p280.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011234254" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="58,128 58,2334 3482,2334 3482,128"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="305,330 352,346 367,337 377,348 397,348 408,339 438,349 460,333 503,339 506,286 484,278 459,281 447,269 376,272 355,281 332,271 308,283"/>
+                <Baseline points="313,334 340,334 368,332 396,330 423,329 451,328 479,328 507,325"/>
+                <Word id="tr_1_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="304,290 304,350 475,350 475,290 304,290"/>
+                    <TextEquiv>
+                        <Unicode>199v</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>199v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="3033,360 3067,363 3093,349 3108,363 3167,354 3231,363 3247,349 3260,363 3289,364 3312,354 3312,247 3259,252 3232,237 3222,247 3188,243 3163,260 3129,237 3098,266 3068,240 3033,259"/>
+                <Baseline points="3040,346 3065,349 3090,352 3115,352 3140,352 3165,352 3190,351 3215,349 3240,349 3265,349 3290,352 3315,355"/>
+                <Word id="tr_1_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="3037,312 3037,372 3274,372 3274,312 3037,312"/>
+                    <TextEquiv>
+                        <Unicode>9220</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>0220</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:2;}">
+                <Coords points="314,515 768,519 838,496 1040,524 1178,506 1180,465 972,437 850,482 725,448 315,472"/>
+                <Baseline points="322,513 365,513 408,513 451,513 494,511 537,510 580,510 623,510 666,509 709,507 752,506 795,504 838,503 881,501 924,501 967,502 1010,504 1053,501 1096,498 1139,498 1182,498"/>
+                <Word id="tr_1_tl_7_w1" custom="readingOrder {index:0;}">
+                    <Coords points="318,470 318,530 796,530 796,470 318,470"/>
+                    <TextEquiv>
+                        <Unicode>aufeinander</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_7_w2" custom="readingOrder {index:1;}">
+                    <Coords points="862,463 862,523 1166,523 1166,463 862,463"/>
+                    <TextEquiv>
+                        <Unicode>folgen.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>aufeinander folgen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="1410,494 1490,517 1603,484 1850,499 1888,465 1923,499 2374,478 2318,417 2251,410 2182,459 2032,413 1656,435 1619,472 1412,431"/>
+                <Baseline points="1418,489 1468,491 1518,492 1569,492 1619,489 1670,488 1720,486 1771,486 1821,484 1872,485 1922,486 1973,489 2023,489 2074,485 2124,480 2175,480 2225,480 2276,478 2326,477 2377,480"/>
+                <Word id="tr_1_tl_6_w1" custom="readingOrder {index:0;}">
+                    <Coords points="1417,451 1417,511 1576,511 1576,451 1417,451"/>
+                    <TextEquiv>
+                        <Unicode>Vgl.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w2" custom="readingOrder {index:1;}">
+                    <Coords points="1632,446 1632,506 1764,506 1764,446 1632,446"/>
+                    <TextEquiv>
+                        <Unicode>JP.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1820,444 1820,504 1845,504 1845,444 1820,444"/>
+                    <TextEquiv>
+                        <Unicode>V</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1918,449 1918,509 2033,509 2033,449 1918,449"/>
+                    <TextEquiv>
+                        <Unicode>253</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w5" custom="readingOrder {index:4;}">
+                    <Coords points="2097,440 2097,500 2176,500 2176,440 2097,440"/>
+                    <TextEquiv>
+                        <Unicode>n.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_6_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2231,437 2231,497 2363,497 2363,437 2231,437"/>
+                    <TextEquiv>
+                        <Unicode>36.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Vgl. JP. V 253 n. 36.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="317,599 1504,580 1436,509 1254,543 882,519 767,559 607,524 556,573 318,537"/>
+                <Baseline points="325,594 384,591 443,591 502,588 561,586 620,585 679,583 739,583 798,579 857,579 916,577 975,579 1034,575 1093,573 1153,573 1212,572 1271,573 1330,570 1389,567 1448,567 1508,570"/>
+                <Word id="tr_1_tl_8_w1" custom="readingOrder {index:0;}">
+                    <Coords points="322,551 322,611 526,611 526,551 322,551"/>
+                    <TextEquiv>
+                        <Unicode>Brug.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_8_w2" custom="readingOrder {index:1;}">
+                    <Coords points="588,544 588,604 710,604 710,544 588,544"/>
+                    <TextEquiv>
+                        <Unicode>hat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_8_w3" custom="readingOrder {index:2;}">
+                    <Coords points="772,537 772,597 1215,597 1215,537 772,537"/>
+                    <TextEquiv>
+                        <Unicode>gekuerzten</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_1_tl_8_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1284,527 1284,587 1496,587 1496,527 1284,527"/>
+                    <TextEquiv>
+                        <Unicode>Text.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Brug. hat gekuerzten Text.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

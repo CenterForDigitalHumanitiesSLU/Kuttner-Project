@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:14.596+02:00</Created>
+        <LastChange>2024-06-13T20:48:23.392+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733376" pageNr="39" tsid="171982551" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=AKURNEJACZBXYNXFYOGKVBFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSTOYDLQBZCLYMYKVPJCIORO" imageId="54996248"/>
+    </Metadata>
+    <Page imageFilename="0039_p039.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="5,256 5,2335 3440,2335 3440,256"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3145,316 3216,304 3259,324 3286,308 3313,332 3360,316 3380,336 3434,328 3426,199 3391,187 3360,211 3337,191 3309,187 3262,144 3208,140 3188,152 3134,144"/>
+                <Baseline points="3162,295 3187,295 3212,296 3237,301 3263,305 3288,306 3313,309 3338,312 3364,312 3389,310 3414,310 3440,310"/>
+                <TextEquiv>
+                    <Unicode>0035</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1288,460 1370,410 1409,441 2045,457 2502,429 2502,382 2412,343 2283,379 1744,347 1709,382 1643,347 1569,386 1499,343 1339,363 1288,332"/>
+                <Baseline points="1311,424 1371,424 1431,422 1491,424 1551,424 1611,422 1671,421 1731,421 1791,423 1851,424 1911,424 1971,424 2031,421 2091,423 2151,421 2211,424 2271,423 2331,421 2391,421 2451,422 2511,424"/>
+                <TextEquiv>
+                    <Unicode>sab. (=salutem, nach Mon.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1366,535 2857,527 2939,613 3216,613 3220,468 1366,460"/>
+                <Baseline points="1388,531 1480,528 1572,528 1664,528 1756,528 1848,529 1940,533 2032,525 2124,520 2216,523 2308,528 2400,527 2492,530 2584,526 2676,528 2768,528 2860,523 2952,525 3044,522 3136,522 3228,519"/>
+                <TextEquiv>
+                    <Unicode>Lat.1193 April 14 - 1194 April 13. (Hoesch)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:3;}">
+                <Coords points="199,823 3337,843 3337,741 199,753"/>
+                <Baseline points="221,812 377,815 533,811 689,811 845,812 1001,811 1157,807 1313,806 1469,806 1625,809 1781,806 1937,809 2093,806 2249,809 2405,809 2561,812 2717,812 2873,812 3029,812 3185,809 3342,809"/>
+                <TextEquiv>
+                    <Unicode>Decretal tradition (except for 2 Comp.) overlooked in H. Jakobs, Germania pontificia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="285,890 304,890 316,905 375,890 386,905 457,909 460,827 453,823 379,823 371,831 332,823 289,831"/>
+                <Baseline points="307,887 332,887 358,885 384,883 410,879 436,880 462,884"/>
+                <TextEquiv>
+                    <Unicode>(1978)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="519,905 1284,882 1666,909 1666,843 1627,823 968,823 835,855 519,820"/>
+                <Baseline points="540,881 596,881 653,883 710,884 767,881 823,881 880,881 937,884 994,881 1050,881 1107,881 1164,881 1221,879 1277,880 1334,878 1391,878 1448,878 1504,878 1561,878 1618,878 1675,884"/>
+                <TextEquiv>
+                    <Unicode>whence still dated 1191-1198.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:6;}">
+                <Coords points="328,991 390,1015 410,995 441,999 484,956 574,941 605,960 699,960 718,941 870,956 870,882 761,886 710,913 675,898 574,905 507,874 460,917 328,917"/>
+                <Baseline points="349,952 375,950 402,947 428,944 455,942 482,940 508,938 535,937 561,937 588,938 615,940 641,940 668,940 694,940 721,939 748,937 774,937 801,937 827,937 854,939 881,943"/>
+                <TextEquiv>
+                    <Unicode>p. 194 no. 486</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

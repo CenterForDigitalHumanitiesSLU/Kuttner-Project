@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:40.182+02:00</Created>
+        <LastChange>2024-06-20T23:38:49.696+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733336" pageNr="9" tsid="173192482" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=FWQTUTISQNRSTUTOJIWAIAMA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTVHADWLCLKHGJEMUXIQFMPJ" imageId="54996208"/>
+    </Metadata>
+    <Page imageFilename="0009_p009.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228750" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_334"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_334" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="145,599 3434,599 3434,783 145,783"/>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:0;}">
+                <Coords points="212,750 697,762 697,652 607,648 570,668 550,648 428,648 407,668 375,668 338,640 212,660"/>
+                <Baseline points="235,716 261,719 287,722 313,722 339,723 365,725 391,725 417,725 443,725 469,725 495,725 521,725 547,725 573,725 599,725 625,727 651,729 677,731 704,725"/>
+                <TextEquiv>
+                    <Unicode>Wig VII 72.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="66,125 3434,125 3434,619 66,619"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="240,391 269,395 301,424 322,420 358,371 383,363 375,293 354,293 330,326 306,310 293,322 257,301 228,301"/>
+                <Baseline points="257,355 283,369 349,382 394,369"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;} structure {type:page-number;}">
+                <Coords points="3088,326 3120,338 3161,338 3178,326 3218,342 3243,330 3263,342 3296,342 3308,330 3361,342 3365,204 3336,200 3316,220 3279,204 3243,220 3206,200 3178,220 3153,204 3092,216"/>
+                <Baseline points="3112,319 3137,319 3163,319 3189,319 3214,319 3240,319 3266,319 3291,319 3317,319 3343,318 3369,316"/>
+                <TextEquiv>
+                    <Unicode>0008</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="607,468 3068,489 2982,391 607,395"/>
+                <Baseline points="630,465 752,465 874,471 997,468 1119,468 1242,465 1364,465 1487,465 1609,468 1732,467 1854,465 1976,468 2099,465 2221,465 2344,467 2466,468 2589,469 2711,464 2834,468 2956,468 3079,468"/>
+                <TextEquiv>
+                    <Unicode>'Accedens ad presentiam nostram magister Hug(o) - studio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="224,603 2607,599 2546,513 2139,497 224,521"/>
+                <Baseline points="247,567 365,571 483,570 602,570 720,574 839,576 957,579 1076,576 1194,576 1313,573 1431,576 1549,573 1668,579 1786,579 1905,579 2023,579 2142,578 2260,579 2379,582 2497,582 2616,582"/>
+                <TextEquiv>
+                    <Unicode>precavere.' (Alexander III.) Wigorn(iensi) episcopo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="2811,587 2856,611 2888,595 3002,599 3063,583 3116,607 3182,599 3226,611 3226,509 3186,517 3165,501 3149,517 3100,513 3080,534 2998,505 2913,513 2856,501 2811,517"/>
+                <Baseline points="2834,585 2859,585 2884,585 2909,583 2934,582 2959,582 2985,581 3010,579 3035,579 3060,579 3085,579 3111,580 3136,583 3161,585 3186,585 3211,588 3237,591"/>
+                <TextEquiv>
+                    <Unicode>(1164-79)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="62,783 29,2325 3499,2325 3492,764"/>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:0;}">
+                <Coords points="220,884 3442,904 3487,790 220,803"/>
+                <Baseline points="241,866 403,866 566,867 729,866 892,869 1055,869 1218,867 1381,869 1544,872 1707,870 1870,869 2032,869 2195,872 2358,869 2521,869 2684,872 2847,872 3010,871 3173,872 3336,872 3499,877"/>
+                <TextEquiv>
+                    <Unicode>Prozess um die Kirche von Whittlesey (Cambridge, oestl. von Peterborough</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:1;}">
+                <Coords points="224,941 330,970 432,941 1373,957 1373,888 1304,880 741,876 705,913 591,872 448,913 224,884"/>
+                <Baseline points="247,934 303,934 360,937 417,940 474,937 530,939 587,937 644,940 701,937 757,940 814,938 871,940 928,940 984,940 1041,940 1098,940 1155,940 1211,940 1268,940 1325,937 1382,940"/>
+                <TextEquiv>
+                    <Unicode>vgl. dazu Constitutus in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:2;}">
+                <Coords points="1458,941 2355,957 2355,892 2310,888 1458,888"/>
+                <Baseline points="1481,937 1525,940 1569,940 1613,940 1657,940 1702,940 1746,940 1790,940 1834,937 1878,940 1923,943 1967,943 2011,941 2055,940 2099,940 2144,940 2188,942 2232,943 2276,941 2320,942 2365,940"/>
+                <TextEquiv>
+                    <Unicode>und Pervenit ad nos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="220,1027 3100,1027 2750,941 220,953"/>
+                <Baseline points="244,1012 387,1013 530,1015 674,1012 817,1015 961,1015 1104,1015 1247,1015 1391,1015 1534,1014 1678,1015 1821,1015 1964,1015 2108,1015 2251,1015 2395,1015 2538,1015 2681,1015 2825,1015 2968,1013 3112,1009"/>
+                <TextEquiv>
+                    <Unicode>Nach Lohmann zum c. scheint das Stueck einer spaeteren Phase des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="220,1100 3190,1104 3125,1014 220,1027"/>
+                <Baseline points="244,1087 391,1084 539,1084 687,1084 834,1087 982,1088 1130,1087 1277,1087 1425,1085 1573,1087 1721,1087 1868,1087 2016,1087 2164,1087 2311,1087 2459,1090 2607,1087 2754,1093 2902,1093 3050,1091 3198,1090"/>
+                <TextEquiv>
+                    <Unicode>Prozesses anzugehoeren. Die Inskription ist unvollstaendig, da die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="220,1169 2461,1177 2412,1100 216,1104"/>
+                <Baseline points="244,1161 355,1155 466,1155 577,1155 689,1158 800,1158 911,1161 1023,1160 1134,1158 1245,1160 1357,1161 1468,1158 1579,1161 1690,1161 1802,1161 1913,1158 2024,1159 2136,1159 2247,1159 2358,1161 2470,1161"/>
+                <TextEquiv>
+                    <Unicode>Pluralform der Anrede mehrere Richter voraussetzt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

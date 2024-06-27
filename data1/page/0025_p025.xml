@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:08.704+02:00</Created>
+        <LastChange>2024-06-13T20:36:25.547+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733356" pageNr="25" tsid="171978178" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=ISEMGGQFARUJWBIWWGXCMWPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYRMWTAEJZSIUYLRGARKYXQL" imageId="54996228"/>
+    </Metadata>
+    <Page imageFilename="0025_p025.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_336"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="20,790 3322,790 3322,954 20,954"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="159,957 240,933 403,941 428,921 468,941 562,933 566,843 481,843 432,888 391,884 371,864 326,864 310,843 163,847"/>
+                <Baseline points="182,919 207,919 233,919 259,919 285,918 311,916 337,916 363,916 388,918 414,918 440,917 466,916 492,916 518,916 544,916 570,919"/>
+                <TextEquiv>
+                    <Unicode>Belv. 21.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_336" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="26,118 3461,118 3461,810 26,810"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="244,375 265,375 277,391 338,383 354,399 383,399 391,285 371,285 350,257 342,257 310,281 297,281 277,301 248,301"/>
+                <Baseline points="265,361 291,363 317,363 344,362 370,357 397,352"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:1;}">
+                <Coords points="2200,383 2644,375 2644,253 2566,257 2550,240 2497,240 2481,257 2424,257 2391,289 2330,289 2298,257 2257,253 2220,289 2200,289"/>
+                <Baseline points="2222,340 2247,346 2272,344 2297,343 2323,343 2348,343 2373,343 2399,343 2424,343 2449,343 2474,343 2500,345 2525,346 2550,346 2576,345 2601,343 2626,339 2652,334"/>
+                <TextEquiv>
+                    <Unicode>JL. 11398</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3092,383 3149,391 3173,371 3198,387 3235,375 3381,387 3377,248 3345,240 3308,265 3263,240 3239,261 3222,248 3190,248 3165,269 3129,244 3112,261 3088,261"/>
+                <Baseline points="3115,367 3140,365 3165,364 3190,364 3215,365 3240,366 3266,367 3291,367 3316,367 3341,367 3366,369 3392,370"/>
+                <TextEquiv>
+                    <Unicode>0023</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="477,566 3088,538 3088,440 481,473"/>
+                <Baseline points="501,546 637,543 774,540 911,540 1048,537 1184,540 1321,536 1458,534 1595,533 1732,531 1868,531 2005,528 2142,527 2279,523 2416,520 2552,516 2689,521 2826,519 2963,519 3100,516"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram communi fama referente - ab omnibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="167,668 1145,664 1234,721 1300,668 1813,660 1744,578 1418,550 737,623 167,595"/>
+                <Baseline points="188,660 269,657 351,658 432,657 514,656 596,655 677,654 759,652 841,654 922,651 1004,651 1086,651 1167,650 1249,651 1331,651 1412,648 1494,648 1576,645 1657,645 1739,645 1821,642"/>
+                <TextEquiv>
+                    <Unicode>evitari.Dat. Beneventi, XIIII kal.iun.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:5;}">
+                <Coords points="163,786 1634,790 1837,774 1837,688 163,729"/>
+                <Baseline points="185,776 268,773 351,770 434,770 517,770 600,767 683,770 767,764 850,764 933,763 1016,764 1099,764 1182,761 1265,764 1349,761 1432,761 1515,761 1598,758 1681,757 1764,755 1848,752"/>
+                <TextEquiv>
+                    <Unicode>Alexander III. universis episcopis per Angliam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="2061,766 2795,774 2835,737 3027,786 3137,754 3137,603 3092,587 2982,668 2892,676 2738,644 2681,680 2061,684"/>
+                <Baseline points="2084,755 2137,752 2190,750 2243,749 2296,749 2349,748 2402,747 2455,749 2508,747 2561,746 2614,746 2667,746 2720,746 2773,746 2826,743 2879,746 2932,745 2985,742 3038,738 3091,742 3145,737"/>
+                <TextEquiv>
+                    <Unicode>Benevento (1168) mai 19
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="-15,965 5,2334 3446,2334 3466,952"/>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:0;}">
+                <Coords points="159,1075 3251,1047 3198,965 2681,945 159,998"/>
+                <Baseline points="182,1066 344,1063 506,1066 668,1063 830,1060 992,1057 1154,1057 1316,1057 1478,1053 1640,1051 1802,1051 1964,1045 2126,1045 2288,1045 2450,1042 2612,1040 2774,1039 2936,1039 3098,1033 3261,1033"/>
+                <TextEquiv>
+                    <Unicode>Ein Stueck aus dem Briefkorpus des Thomas Becket (ed. Giles II 78 n.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:1;}">
+                <Coords points="167,1157 3398,1149 3434,1023 167,1084"/>
+                <Baseline points="188,1140 350,1144 513,1138 676,1137 839,1134 1002,1131 1165,1131 1328,1129 1491,1128 1654,1126 1817,1123 1979,1120 2142,1120 2305,1120 2468,1120 2631,1114 2794,1111 2957,1111 3120,1108 3283,1107 3446,1114"/>
+                <TextEquiv>
+                    <Unicode>269), wo es mit dem Datum decimo quarto kal. iun. (Danach JL. zu Mai 19)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:2;}">
+                <Coords points="167,1226 3271,1202 3271,1120 167,1169"/>
+                <Baseline points="188,1215 342,1215 497,1212 652,1212 806,1209 961,1209 1116,1206 1270,1206 1425,1206 1580,1203 1735,1200 1889,1197 2044,1195 2199,1194 2353,1194 2508,1197 2663,1190 2817,1188 2972,1185 3127,1183 3282,1182"/>
+                <TextEquiv>
+                    <Unicode>steht (zuletzt bei Robertson, Material VI 419 n. ). Sonst scheint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:3;}">
+                <Coords points="167,1304 2139,1283 2139,1230 167,1238"/>
+                <Baseline points="188,1290 291,1291 394,1293 497,1292 600,1289 703,1287 806,1287 909,1284 1012,1284 1115,1284 1219,1283 1322,1281 1425,1278 1528,1277 1631,1275 1734,1275 1837,1275 1940,1272 2043,1270 2147,1272"/>
+                <TextEquiv>
+                    <Unicode>es kanonistisch nicht ueberliefert zu sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

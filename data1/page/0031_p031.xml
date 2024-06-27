@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:12.485+02:00</Created>
+        <LastChange>2024-06-13T20:41:35.021+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733362" pageNr="31" tsid="171979775" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=UEJXVCSTVUGSOAKPWXZFSKXB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VMDNEIWHWEUIMQSLZKUDWSMD" imageId="54996234"/>
+    </Metadata>
+    <Page imageFilename="0031_p031.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_369"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="79,935 3408,935 3408,1218 79,1218"/>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:0;}">
+                <Coords points="192,1078 334,1101 383,1067 733,1075 770,1037 1195,1048 1195,984 1131,954 1052,984 996,951 958,988 800,969 759,1011 691,954 504,954 436,1011 372,973 192,962"/>
+                <Baseline points="212,1045 261,1042 311,1039 361,1039 410,1040 460,1040 510,1039 559,1039 609,1042 659,1042 709,1039 758,1038 808,1036 858,1036 907,1036 957,1036 1007,1036 1056,1033 1106,1033 1156,1033 1206,1036"/>
+                <TextEquiv>
+                    <Unicode>Cott. II 77. Pet.I 89.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_369" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="39,158 3428,158 3428,948 39,948"/>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="286,466 334,462 346,455 364,462 398,458 391,357 380,357 364,368 353,357 331,372 308,349 293,342 274,346"/>
+                <Baseline points="301,427 328,434 355,439 382,439 409,436"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:1;}">
+                <Coords points="2352,395 2439,398 2454,413 2476,413 2491,398 2596,402 2600,297 2578,293 2548,267 2476,316 2435,278 2356,278"/>
+                <Baseline points="2374,364 2399,361 2425,361 2451,361 2477,361 2503,363 2529,361 2555,354 2581,352 2607,352"/>
+                <TextEquiv>
+                    <Unicode>Jh. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3085,391 3122,398 3138,376 3213,376 3224,361 3243,376 3378,372 3374,210 3340,203 3310,229 3284,218 3262,233 3205,218 3175,248 3149,225 3119,244 3077,244"/>
+                <Baseline points="3103,352 3129,352 3155,352 3181,352 3207,353 3233,355 3259,356 3285,358 3311,358 3337,359 3363,360 3389,364"/>
+                <TextEquiv>
+                    <Unicode>0029</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:3;}">
+                <Coords points="537,590 3122,571 3205,466 537,485"/>
+                <Baseline points="558,555 690,550 823,552 956,552 1089,550 1221,549 1354,548 1487,546 1620,548 1752,546 1885,545 2018,541 2151,545 2283,543 2416,544 2549,544 2682,543 2814,543 2947,543 3080,540 3213,543"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram noveritis pervenisse, quod cum G. de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="180,673 2044,673 1995,586 455,639 180,594"/>
+                <Baseline points="200,663 292,666 385,666 478,666 570,666 663,663 756,657 848,657 941,663 1034,663 1127,662 1219,662 1312,660 1405,660 1497,659 1590,658 1683,657 1775,657 1868,654 1961,654 2054,654"/>
+                <TextEquiv>
+                    <Unicode>Torne miles - inviolabiliter observari.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="173,785 2724,797 3122,710 173,733"/>
+                <Baseline points="194,779 348,776 503,777 658,776 812,776 967,773 1122,773 1276,772 1431,773 1586,770 1740,770 1895,770 2050,767 2204,767 2359,767 2514,767 2668,769 2823,767 2978,764 3133,758"/>
+                <TextEquiv>
+                    <Unicode>Alexander III. magistro L. archidiacono de Bedeford et priori de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:6;}">
+                <Coords points="184,902 1834,898 1774,812 1353,812 1308,857 1240,812 718,819 639,864 184,808"/>
+                <Baseline points="203,893 284,889 366,887 448,887 530,888 612,888 693,887 775,887 857,887 939,884 1021,885 1102,884 1184,883 1266,883 1348,881 1430,881 1511,884 1593,881 1675,881 1757,881 1839,881"/>
+                <TextEquiv>
+                    <Unicode>Novoburgo et magistro R. de Arundel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="98,1247 26,2350 3389,2350 3382,1234"/>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:0;}">
+                <Coords points="286,1454 353,1428 402,1473 552,1402 639,1462 838,1375 1007,1439 1097,1390 1274,1390 1278,1263 1090,1266 988,1323 913,1296 759,1315 725,1281 567,1360 432,1364 293,1281"/>
+                <Baseline points="307,1412 355,1412 404,1411 453,1409 502,1409 551,1407 600,1406 648,1401 697,1397 746,1394 795,1391 844,1388 893,1387 942,1386 990,1387 1039,1383 1088,1380 1137,1375 1186,1373 1235,1370 1284,1373"/>
+                <TextEquiv>
+                    <Unicode>Error of WH. Not printed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:1;}">
+                <Coords points="267,1627 522,1702 767,1586 939,1668 1755,1567 3201,1589 3288,1375 2852,1499 2397,1413 2123,1518 1954,1439 1755,1529 1661,1454 1172,1552 271,1511"/>
+                <Baseline points="289,1591 439,1591 589,1590 739,1588 890,1585 1040,1588 1190,1591 1340,1592 1491,1580 1641,1571 1791,1565 1941,1561 2092,1558 2242,1551 2392,1547 2542,1539 2693,1540 2843,1538 2993,1528 3143,1526 3294,1535"/>
+                <TextEquiv>
+                    <Unicode>In Hampe’s analysis, this letter is neither edited, nor even numbered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:2;}">
+                <Coords points="293,1766 395,1751 436,1789 680,1740 924,1834 1052,1781 1304,1755 1304,1676 1217,1661 1157,1695 1090,1642 853,1680 782,1635 643,1710 293,1638"/>
+                <Baseline points="313,1750 362,1745 412,1741 462,1744 512,1744 562,1744 612,1743 662,1739 712,1740 762,1743 812,1744 861,1744 911,1741 961,1742 1011,1744 1061,1743 1111,1739 1161,1742 1211,1744 1261,1741 1311,1741"/>
+                <TextEquiv>
+                    <Unicode>It is on fol. 224..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:3;}">
+                <Coords points="252,2014 744,2003 838,2048 921,1995 1187,1961 1375,2007 1375,1883 1259,1837 1003,1924 639,1804 256,1811"/>
+                <Baseline points="271,1977 326,1974 382,1974 438,1974 493,1971 549,1971 605,1971 660,1969 716,1965 772,1961 828,1957 883,1956 939,1953 995,1955 1050,1957 1106,1956 1162,1956 1217,1955 1273,1954 1329,1958 1385,1965"/>
+                <TextEquiv>
+                    <Unicode>Chodorow-Duggan nr. 62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

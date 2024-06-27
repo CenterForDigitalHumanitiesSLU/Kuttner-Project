@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.15.0:model_id=51170:date=30_04_2024_23:08</Creator>
+        <Created>2024-04-18T03:24:50.048+02:00</Created>
+        <LastChange>2024-05-04T19:05:59.323+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733528" pageNr="157" tsid="163764385" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=EUFYCOHTNZKTRSBPSDCGUQZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NHURNEEYRDNEOLCKFSLMQNTW" imageId="54996399"/>
+    </Metadata>
+    <Page imageFilename="0157_p157.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011231403" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_891"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="274,257 3419,257 3426,907 274,907"/>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:0;}">
+                <Coords points="254,433 277,433 300,453 445,453 445,363 406,355 386,367 324,371 300,355 285,375 254,375"/>
+                <Baseline points="274,433 319,430 364,433 409,433 453,433"/>
+                <TextEquiv>
+                    <Unicode>115</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2310,390 2482,390 2478,304 2443,308 2408,277 2384,285 2373,277 2357,289 2302,289"/>
+                <Baseline points="2326,352 2371,358 2416,358 2461,361 2484,361"/>
+                <TextEquiv>
+                    <Unicode>JL. -
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:2;}">
+                <Coords points="3142,320 3173,332 3204,332 3220,320 3235,336 3278,340 3356,332 3368,320 3411,332 3411,195 3329,203 3282,191 3247,203 3235,195 3220,207 3196,195 3142,195"/>
+                <Baseline points="3162,310 3195,316 3240,313 3285,316 3330,313 3375,313 3419,307"/>
+                <TextEquiv>
+                    <Unicode>0129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="714,496 3329,511 3329,433 714,453"/>
+                <Baseline points="737,495 740,498 785,498 830,495 875,495 919,495 964,495 1009,495 1054,495 1099,495 1143,495 1188,498 1233,495 1278,495 1323,495 1367,495 1412,498 1457,495 1502,495 1547,495 1591,495 1636,495 1681,495 1726,492 1771,495 1815,495 1860,495 1905,495 1950,492 1995,492 2039,492 2084,495 2129,495 2174,495 2219,492 2263,495 2308,492 2353,495 2398,495 2443,495 2487,495 2532,495 2577,492 2622,495 2667,492 2711,495 2756,492 2801,495 2846,495 2891,495 2935,492 2980,492 3025,492 3070,492 3115,492 3159,492 3204,492 3249,489 3294,489 3339,486"/>
+                <TextEquiv>
+                    <Unicode>Causam que inter Eboracensem archiepiscopum et abbatem et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="261,617 2786,644 3321,620 3321,535 261,566"/>
+                <Baseline points="283,612 328,609 373,612 418,609 462,609 507,609 552,609 597,606 642,606 686,606 731,606 776,609 821,609 866,609 910,609 955,609 1000,609 1045,609 1090,609 1134,609 1179,606 1224,606 1269,606 1314,609 1358,606 1403,609 1448,606 1493,606 1538,606 1582,606 1627,606 1672,606 1717,606 1762,606 1806,603 1851,606 1896,606 1941,606 1986,603 2030,603 2075,606 2120,603 2165,606 2210,606 2254,606 2299,606 2344,606 2389,606 2434,603 2479,606 2523,603 2568,606 2613,606 2658,606 2703,606 2747,606 2792,609 2837,606 2882,606 2927,606 2971,606 3016,606 3061,606 3106,606 3151,606 3195,603 3240,603 3285,603 3330,600"/>
+                <TextEquiv>
+                    <Unicode>fratres de Fontibus super quadam terra que dicitur grangia agitari</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="261,722 2423,734 2349,640 261,671"/>
+                <Baseline points="283,716 328,719 373,719 418,719 462,719 507,716 552,716 597,716 642,716 686,719 731,716 776,710 821,710 866,710 910,716 955,719 1000,722 1045,716 1090,719 1134,719 1179,719 1224,719 1269,716 1314,719 1358,719 1403,719 1448,716 1493,716 1538,716 1582,716 1627,716 1672,716 1717,716 1762,716 1806,713 1851,716 1896,713 1941,713 1986,716 2030,716 2075,716 2120,716 2165,716 2210,716 2254,716 2299,716 2344,716 2389,716 2428,716"/>
+                <TextEquiv>
+                    <Unicode>dinoscitur - appellationis remedio terminari.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="265,835 3403,839 3341,749 265,769"/>
+                <Baseline points="286,830 316,833 361,833 406,830 450,830 495,830 540,833 585,833 630,833 675,830 719,830 764,830 809,827 854,830 899,827 943,830 988,830 1033,827 1078,830 1123,830 1167,830 1212,830 1257,830 1302,830 1347,830 1391,830 1436,830 1481,830 1526,827 1571,827 1615,827 1660,830 1705,827 1750,827 1795,827 1839,827 1884,827 1929,827 1974,824 2019,824 2063,827 2108,827 2153,827 2198,827 2243,827 2287,827 2332,827 2377,824 2422,824 2467,827 2511,827 2556,827 2601,827 2646,830 2691,827 2735,827 2780,827 2825,827 2870,830 2915,827 2959,827 3004,827 3049,827 3094,827 3139,827 3183,827 3228,827 3273,824 3318,824 3363,824 3407,827"/>
+                <TextEquiv>
+                    <Unicode>Cicestrensi et Herefordensi et abbati de Forde et decano Cicestrenni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="182,866 3442,866 3442,1085 182,1085"/>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="265,1050 695,1054 753,1011 1159,1030 1163,941 1050,964 1003,933 804,941 765,980 695,937 628,933 585,976 496,937 269,944"/>
+                <Baseline points="289,1012 334,1018 379,1015 424,1015 468,1015 513,1015 558,1015 603,1015 648,1012 692,1018 737,1015 782,1015 827,1015 872,1012 916,1012 961,1012 1006,1012 1051,1012 1096,1012 1140,1009 1170,1012"/>
+                <TextEquiv>
+                    <Unicode>Bridl. 85. Claud. 68.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_891" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="196,1078 3413,1078 3413,1907 196,1907"/>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="261,1175 3056,1171 3056,1093 261,1101"/>
+                <Baseline points="283,1161 289,1161 334,1158 379,1155 424,1155 468,1158 513,1158 558,1158 603,1158 648,1158 692,1158 737,1158 782,1161 827,1158 872,1158 916,1158 961,1158 1006,1158 1051,1158 1096,1158 1140,1158 1185,1158 1230,1155 1275,1155 1320,1155 1364,1155 1409,1155 1454,1155 1499,1158 1544,1155 1588,1158 1633,1158 1678,1158 1723,1158 1768,1158 1812,1155 1857,1155 1902,1155 1947,1155 1992,1155 2036,1155 2081,1155 2126,1155 2171,1155 2216,1158 2260,1155 2305,1155 2350,1155 2395,1155 2440,1155 2484,1155 2529,1155 2574,1155 2619,1152 2664,1155 2708,1155 2753,1155 2798,1152 2843,1155 2888,1152 2932,1152 2977,1152 3022,1152 3067,1149"/>
+                <TextEquiv>
+                    <Unicode>Das Stueck gehoert offenbar einer spaeteren Phase der auch in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:1;}">
+                <Coords points="265,1253 1725,1249 1686,1175 1300,1206 1155,1167 269,1171"/>
+                <Baseline points="286,1236 301,1239 346,1236 391,1236 436,1239 480,1239 525,1236 570,1239 615,1239 660,1239 704,1239 749,1236 794,1236 839,1236 884,1236 928,1236 973,1236 1018,1233 1063,1233 1108,1233 1152,1233 1197,1236 1242,1236 1287,1236 1332,1233 1376,1233 1421,1233 1466,1233 1511,1233 1556,1233 1600,1230 1645,1230 1690,1233 1735,1233"/>
+                <TextEquiv>
+                    <Unicode>Font.II 15 behandelten Sache an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:2;}">
+                <Coords points="2295,1538 2537,1530 2552,1514 2580,1530 2712,1538 2712,1428 2603,1432 2541,1479 2494,1448 2416,1452 2349,1424 2295,1440"/>
+                <Baseline points="2317,1523 2320,1520 2365,1514 2410,1514 2455,1514 2499,1514 2544,1514 2589,1514 2634,1514 2679,1517 2723,1520"/>
+                <TextEquiv>
+                    <Unicode>[Alex. III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:3;}">
+                <Coords points="316,1698 964,1686 1175,1764 1499,1674 2595,1705 2701,1596 316,1643"/>
+                <Baseline points="337,1702 367,1702 412,1702 456,1702 501,1699 546,1699 591,1699 636,1702 680,1702 725,1702 770,1705 815,1702 860,1702 904,1699 949,1696 994,1696 1039,1696 1084,1696 1128,1699 1173,1699 1218,1699 1263,1699 1308,1702 1352,1699 1397,1696 1442,1696 1487,1699 1532,1699 1577,1696 1621,1693 1666,1693 1711,1690 1756,1690 1801,1687 1809,1681 1815,1684 1860,1681 1905,1678 1950,1678 1995,1675 2039,1675 2084,1675 2129,1675 2174,1675 2219,1672 2263,1672 2308,1669 2353,1669 2398,1666 2443,1672 2487,1672 2532,1672 2577,1672 2622,1675 2667,1678 2711,1675"/>
+                <TextEquiv>
+                    <Unicode>ed. Chodorow-Duggan, Nr. 47 : (1tzu-80) (c. 1175).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

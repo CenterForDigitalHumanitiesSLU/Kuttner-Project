@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:39.701+02:00</Created>
+        <LastChange>2024-06-13T20:16:07.793+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733334" pageNr="7" tsid="171977026" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=IZSFAXDSXZPEILQODLLFMICT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXWTVHBSGNJOJTYOCHASKNXN" imageId="54996206"/>
+    </Metadata>
+    <Page imageFilename="0007_p007.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="92,91 92,1055 3416,1101 3429,111"/>
+            <TextLine id="l_209" custom="readingOrder {index:0;}">
+                <Coords points="142,320 160,317 178,335 214,335 239,324 231,135 206,132 192,117 167,132 132,135"/>
+                <Baseline points="158,276 184,270 204,270 224,270 243,283"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1990,310 2100,324 2179,292 2218,317 2268,310 2307,352 2342,331 2367,338 2421,310 2424,150 2346,139 2257,221 2211,221 2175,256 2118,256 2097,231 1990,231"/>
+                <Baseline points="2010,301 2036,301 2062,301 2088,301 2114,301 2140,299 2166,298 2192,298 2219,297 2245,295 2271,298 2297,300 2323,297 2349,294 2375,290 2401,288 2428,286"/>
+                <TextEquiv>
+                    <Unicode>JL. 14348</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3076,299 3126,313 3151,292 3197,317 3222,292 3250,317 3272,317 3282,303 3300,320 3346,324 3393,278 3410,278 3407,203 3371,203 3354,189 3218,199 3190,182 3158,196 3119,174 3101,192 3069,192"/>
+                <Baseline points="3097,286 3123,286 3150,287 3176,288 3203,290 3229,292 3256,294 3283,295 3309,295 3336,296 3362,298 3389,298 3416,298"/>
+                <TextEquiv>
+                    <Unicode>0005</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="459,459 3321,452 3247,363 459,384"/>
+                <Baseline points="480,456 622,453 764,450 907,450 1049,450 1191,450 1334,449 1476,448 1618,450 1761,448 1903,442 2045,446 2188,445 2330,440 2472,438 2615,442 2757,442 2899,440 3042,441 3184,439 3327,436"/>
+                <TextEquiv>
+                    <Unicode>'A nobis tua discretio requiserit utrum is - beneficio removeri.'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="1004,740 3158,769 3215,641 1004,659"/>
+                <Baseline points="1024,737 1133,742 1243,743 1353,740 1463,742 1573,737 1683,737 1793,737 1903,737 2013,737 2123,735 2232,735 2342,734 2452,734 2562,737 2672,735 2782,737 2892,735 3002,740 3112,741 3222,740"/>
+                <TextEquiv>
+                    <Unicode>ist Teil (c) von Contingit interdum, No. 207 und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="1000,890 1114,929 1303,879 2225,904 2225,826 2154,808 1951,858 1808,783 1655,851 1477,797 1399,844 1218,854 1000,808"/>
+                <Baseline points="1021,887 1081,883 1142,883 1202,884 1263,883 1323,879 1384,875 1444,879 1505,883 1565,887 1626,885 1686,876 1747,876 1807,880 1868,884 1928,887 1989,889 2049,887 2110,885 2170,885 2231,881"/>
+                <TextEquiv>
+                    <Unicode>begins... 'Item a nobis'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

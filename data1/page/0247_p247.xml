@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.15.0:model_id=39995:lm=none:date=11_05_2024_21:14</Creator>
+        <Created>2024-04-18T03:27:01.459+02:00</Created>
+        <LastChange>2024-05-13T22:09:15.037+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733818" pageNr="247" tsid="165871274" status="DONE" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=PLBKNHZHDKRCBFOOKGBSEIII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXVAZAHWSSRUUKQXYZFCJUIG" imageId="54996595"/>
+    </Metadata>
+    <Page imageFilename="0247_p247.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011233469" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="474,518 474,929 3070,929 3070,518"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3028,320 3070,342 3111,329 3127,342 3194,333 3233,342 3261,320 3287,342 3332,339 3335,214 3309,221 3293,205 3229,208 3191,227 3153,208 3124,233 3082,205 3066,221 3031,221"/>
+                <Baseline points="3046,322 3072,322 3099,326 3125,328 3152,328 3179,327 3205,325 3232,325 3259,325 3285,325 3312,323 3339,319"/>
+                <Word id="tr_4_tl_1_w1" custom="readingOrder {index:0;}">
+                    <Coords points="3034,287 3034,347 3293,347 3293,287 3034,287"/>
+                    <TextEquiv>
+                        <Unicode>0197</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>0197</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="457,703 2907,694 2910,624 457,643"/>
+                <Baseline points="474,692 596,693 718,689 840,686 962,683 1084,680 1206,680 1328,683 1450,680 1572,677 1694,680 1816,682 1938,677 2060,675 2182,675 2304,675 2426,672 2548,672 2670,672 2792,672 2915,675"/>
+                <Word id="tr_3_tl_2_w1" custom="readingOrder {index:0;}">
+                    <Coords points="462,652 462,712 515,712 515,652 462,652"/>
+                    <TextEquiv>
+                        <Unicode>On</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w2" custom="readingOrder {index:1;}">
+                    <Coords points="562,652 562,712 584,712 584,652 562,652"/>
+                    <TextEquiv>
+                        <Unicode>M</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w3" custom="readingOrder {index:2;}">
+                    <Coords points="646,645 646,705 1038,705 1038,645 646,645"/>
+                    <TextEquiv>
+                        <Unicode>(Institutes</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1085,640 1085,700 1223,700 1223,640 1085,640"/>
+                    <TextEquiv>
+                        <Unicode>with</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1279,638 1279,698 1747,698 1747,638 1279,638"/>
+                    <TextEquiv>
+                        <Unicode>pre-accursian</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1802,636 1802,696 2086,696 2086,636 1802,636"/>
+                    <TextEquiv>
+                        <Unicode>glossesà</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2134,635 2134,695 2233,695 2233,635 2134,635"/>
+                    <TextEquiv>
+                        <Unicode>see</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2280,634 2280,694 2379,694 2379,634 2280,634"/>
+                    <TextEquiv>
+                        <Unicode>now</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2426,632 2426,692 2494,692 2494,632 2426,632"/>
+                    <TextEquiv>
+                        <Unicode>W.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_2_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2542,632 2542,692 2910,692 2910,632 2542,632"/>
+                    <TextEquiv>
+                        <Unicode>Uruszczak,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>On M (Institutes with pre-accursian glossesà see now W. Uruszczak,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="518,767 2935,755 2935,691 2791,678 521,710"/>
+                <Baseline points="540,755 660,764 780,761 900,758 1020,758 1141,753 1261,752 1381,752 1501,752 1621,749 1742,749 1862,746 1982,746 2102,746 2222,746 2343,743 2463,742 2583,743 2703,740 2823,740 2944,722"/>
+                <Word id="tr_3_tl_3_w1" custom="readingOrder {index:0;}">
+                    <Coords points="531,723 531,783 783,783 783,723 531,723"/>
+                    <TextEquiv>
+                        <Unicode>Alberie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w2" custom="readingOrder {index:1;}">
+                    <Coords points="839,718 839,778 902,778 902,718 839,718"/>
+                    <TextEquiv>
+                        <Unicode>et</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w3" custom="readingOrder {index:2;}">
+                    <Coords points="950,712 950,772 1456,772 1456,712 950,712"/>
+                    <TextEquiv>
+                        <Unicode>L'endelgnement</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1504,711 1504,771 1559,771 1559,711 1504,711"/>
+                    <TextEquiv>
+                        <Unicode>du</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1615,709 1615,769 1788,769 1788,709 1615,709"/>
+                    <TextEquiv>
+                        <Unicode>droit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w6" custom="readingOrder {index:5;}">
+                    <Coords points="1836,706 1836,766 2041,766 2041,706 1836,706"/>
+                    <TextEquiv>
+                        <Unicode>romain</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2097,706 2097,766 2120,766 2120,706 2097,706"/>
+                    <TextEquiv>
+                        <Unicode>à</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2169,705 2169,765 2342,765 2342,705 2169,705"/>
+                    <TextEquiv>
+                        <Unicode>Reims</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2398,702 2398,762 2453,762 2453,702 2398,702"/>
+                    <TextEquiv>
+                        <Unicode>au</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w10" custom="readingOrder {index:9;}">
+                    <Coords points="2501,702 2501,762 2634,762 2634,702 2501,702"/>
+                    <TextEquiv>
+                        <Unicode>XIIe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_3_w11" custom="readingOrder {index:10;}">
+                    <Coords points="2691,700 2691,760 2895,760 2895,700 2691,700"/>
+                    <TextEquiv>
+                        <Unicode>siècle</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Alberie et L'endelgnement du droit romain à Reims au XIIe siècle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="496,841 755,879 3066,831 3066,745 2967,713 2855,780 2491,751 2088,755 2053,790 1816,758 1628,806 950,767 905,812 496,796"/>
+                <Baseline points="513,839 640,837 768,838 896,833 1024,831 1152,833 1280,830 1407,827 1535,828 1663,827 1791,822 1919,823 2047,821 2175,821 2302,818 2430,818 2558,815 2686,815 2814,812 2942,812 3070,806"/>
+                <Word id="tr_3_tl_4_w1" custom="readingOrder {index:0;}">
+                    <Coords points="505,797 505,857 853,857 853,797 505,797"/>
+                    <TextEquiv>
+                        <Unicode>Confluence</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w2" custom="readingOrder {index:1;}">
+                    <Coords points="904,792 904,852 1002,852 1002,792 904,792"/>
+                    <TextEquiv>
+                        <Unicode>des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w3" custom="readingOrder {index:2;}">
+                    <Coords points="1053,792 1053,852 1261,852 1261,792 1053,792"/>
+                    <TextEquiv>
+                        <Unicode>droits</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w4" custom="readingOrder {index:3;}">
+                    <Coords points="1312,787 1312,847 1669,847 1669,787 1312,787"/>
+                    <TextEquiv>
+                        <Unicode>savants...</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w5" custom="readingOrder {index:4;}">
+                    <Coords points="1710,782 1710,842 2008,842 2008,782 1710,782"/>
+                    <TextEquiv>
+                        <Unicode>Colloque</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w6" custom="readingOrder {index:5;}">
+                    <Coords points="2059,781 2059,841 2117,841 2117,781 2059,781"/>
+                    <TextEquiv>
+                        <Unicode>de</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w7" custom="readingOrder {index:6;}">
+                    <Coords points="2158,778 2158,838 2565,838 2565,778 2158,778"/>
+                    <TextEquiv>
+                        <Unicode>Montpellier</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w8" custom="readingOrder {index:7;}">
+                    <Coords points="2616,774 2616,834 2824,834 2824,774 2616,774"/>
+                    <TextEquiv>
+                        <Unicode>(milan</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="tr_3_tl_4_w9" custom="readingOrder {index:8;}">
+                    <Coords points="2875,770 2875,830 3053,830 3053,770 2875,770"/>
+                    <TextEquiv>
+                        <Unicode>1970)</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Confluence des droits savants... Colloque de Montpellier (milan 1970)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="492,914 508,914 521,927 627,914 678,927 723,921 726,847 595,851 592,844 560,844 534,851 496,844"/>
+                <Baseline points="510,913 537,911 565,909 592,907 620,905 648,904 675,904 703,904 731,904"/>
+                <Word id="tr_3_tl_5_w1" custom="readingOrder {index:0;}">
+                    <Coords points="501,867 501,927 682,927 682,867 501,867"/>
+                    <TextEquiv>
+                        <Unicode>39-68</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>39-68</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

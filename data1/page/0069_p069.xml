@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:22:36.205+02:00</Created>
+        <LastChange>2024-06-21T04:58:27.966+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733413" pageNr="69" tsid="173205275" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=XLXLYUDFSJPJLCQOFKAJRKXY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NIZHDFCEFQSZUZHVGZXKIJET" imageId="54996285"/>
+    </Metadata>
+    <Page imageFilename="0069_p069.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230027" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_484"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="151,889 3395,889 3395,1125 151,1125"/>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:0;}">
+                <Coords points="182,1032 2466,1036 2400,931 182,962"/>
+                <Baseline points="203,1018 316,1021 430,1021 543,1021 657,1021 771,1024 884,1024 998,1024 1112,1024 1225,1026 1339,1026 1453,1024 1566,1024 1680,1021 1794,1021 1907,1024 2021,1024 2135,1024 2248,1024 2362,1022 2476,1024"/>
+                <TextEquiv>
+                    <Unicode>Brug.26,1. Sang.X 42(S.351). Abrinc.IX 2,1(S.390).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_484" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="99,191 3441,191 3441,902 99,902"/>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:0;}">
+                <Coords points="274,479 325,483 329,487 348,479 367,479 367,394 348,394 336,379 329,379 309,398 301,394 274,394"/>
+                <Baseline points="295,453 322,451 349,450 376,450"/>
+                <TextEquiv>
+                    <Unicode>54</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:1;}">
+                <Coords points="2369,425 2497,425 2508,433 2532,433 2528,344 2505,344 2443,290 2416,321 2400,321 2389,309 2369,309"/>
+                <Baseline points="2389,391 2418,391 2448,392 2478,394 2508,394 2538,394"/>
+                <TextEquiv>
+                    <Unicode>JL. -
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3088,375 3146,406 3181,371 3235,359 3316,386 3397,359 3393,135 3192,143 3154,131 3138,147 3084,151"/>
+                <Baseline points="3109,349 3136,349 3163,349 3190,349 3217,350 3244,352 3271,352 3298,352 3325,352 3352,353 3379,355 3407,355"/>
+                <TextEquiv>
+                    <Unicode>0060</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:3;}">
+                <Coords points="502,541 3022,584 3289,475 3049,410 2922,483 1782,506 1322,417 502,483"/>
+                <Baseline points="522,534 660,534 799,533 938,534 1077,534 1215,530 1354,527 1493,534 1632,534 1770,534 1909,537 2048,534 2187,534 2325,534 2464,534 2603,534 2742,536 2880,537 3019,537 3158,534 3297,528"/>
+                <TextEquiv>
+                    <Unicode>Ad aures nostras pervenit, quod parrochiani tui in testimu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:4;}">
+                <Coords points="193,676 3301,669 3220,572 193,584"/>
+                <Baseline points="215,645 369,645 524,644 678,648 833,648 987,648 1142,646 1296,648 1451,648 1605,645 1760,644 1915,648 2069,648 2224,648 2378,648 2533,650 2687,651 2842,651 2996,654 3151,649 3306,645"/>
+                <TextEquiv>
+                    <Unicode>lante humani generis inimico - sub dissimulatione facili poterit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:5;}">
+                <Coords points="197,785 367,773 692,792 754,773 754,703 703,688 560,703 495,673 464,703 197,692"/>
+                <Baseline points="218,752 245,758 272,761 299,761 327,761 354,761 381,759 409,758 436,758 463,758 491,758 518,758 545,758 572,758 600,758 627,758 654,760 682,761 709,761 736,761 764,761"/>
+                <TextEquiv>
+                    <Unicode>pertransiri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="189,908 243,928 344,885 557,908 688,873 738,904 1016,901 1125,858 1125,769 1047,812 823,800 700,831 649,800 189,808"/>
+                <Baseline points="212,869 258,872 304,872 350,872 396,872 442,872 488,872 534,872 580,870 626,871 673,872 719,872 765,872 811,872 857,872 903,872 949,872 995,869 1041,866 1087,860 1134,848"/>
+                <TextEquiv>
+                    <Unicode>Ambianensi episcopo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="203,1076 203,2336 3407,2336 3394,1096"/>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:0;}">
+                <Coords points="189,1179 1519,1183 1519,1109 1449,1094 1376,1132 676,1078 189,1113"/>
+                <Baseline points="209,1167 274,1170 340,1172 406,1170 472,1169 538,1170 604,1169 669,1167 735,1170 801,1170 867,1167 933,1169 999,1167 1065,1167 1130,1167 1196,1168 1262,1167 1328,1167 1394,1170 1460,1170 1526,1164"/>
+                <TextEquiv>
+                    <Unicode>a) Ad audientiam nostram Abr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:1;}">
+                <Coords points="1685,1175 1774,1198 1817,1160 2110,1202 2354,1152 2385,1183 2601,1183 2601,1113 2566,1109 1960,1098 1932,1121 1894,1094 1685,1094"/>
+                <Baseline points="1708,1164 1753,1167 1798,1164 1843,1167 1888,1170 1933,1170 1978,1170 2023,1170 2068,1170 2113,1170 2159,1167 2204,1170 2249,1167 2294,1167 2339,1164 2384,1167 2429,1167 2474,1167 2519,1170 2564,1173 2610,1173"/>
+                <TextEquiv>
+                    <Unicode>b) instigante Sang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:2;}">
+                <Coords points="186,1256 2895,1283 2895,1175 186,1187"/>
+                <Baseline points="206,1242 341,1245 476,1245 611,1248 746,1251 881,1248 1016,1248 1151,1245 1286,1248 1421,1248 1556,1245 1691,1248 1826,1261 1961,1264 2096,1272 2231,1269 2366,1268 2501,1273 2636,1280 2771,1267 2906,1263"/>
+                <TextEquiv>
+                    <Unicode>c) Inskription fehlt Sang.Abrinc. d) Abkander Brug (cod. Vat.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:22:11.302+02:00</Created>
+        <LastChange>2024-06-21T04:53:41.458+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733405" pageNr="63" tsid="173205271" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=TNLQENNQSEOYXUMQCAYXIKOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IRHHUFXOTBJMBGXXTAXHCTHB" imageId="54996277"/>
+    </Metadata>
+    <Page imageFilename="0063_p063.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="2,176 2,2330 3506,2330 3506,176"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3077,351 3098,351 3122,330 3139,343 3188,330 3209,351 3267,330 3292,351 3321,351 3321,223 3287,223 3271,206 3250,223 3226,211 3201,223 3180,202 3164,219 3147,211 3126,231 3077,215"/>
+                <Baseline points="3100,319 3125,322 3151,325 3176,323 3202,323 3227,325 3253,322 3278,319 3304,322 3330,322"/>
+                <TextEquiv>
+                    <Unicode>0054</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="182,384 3494,409 3378,301 182,306"/>
+                <Baseline points="203,376 368,374 533,376 698,373 863,375 1028,377 1193,376 1359,379 1524,384 1689,385 1854,382 2019,382 2184,385 2349,382 2515,385 2680,386 2845,391 3010,391 3175,394 3340,400 3506,388"/>
+                <TextEquiv>
+                    <Unicode>Vgl. den Text der Belv. bei J.A.Giles Gilberti (Foliot) epp.II 102 n.370.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

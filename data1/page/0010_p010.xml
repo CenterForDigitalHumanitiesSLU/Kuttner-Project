@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:20:40.386+02:00</Created>
+        <LastChange>2024-06-13T20:17:38.815+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733337" pageNr="10" tsid="171977317" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=SKJDSQHHDUZPTZTNEQAZCGAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXCEAEJIDSCDKFIEXCPWRDYA" imageId="54996209"/>
+    </Metadata>
+    <Page imageFilename="0010_p010.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011228770" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_273"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_273" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="158,790 3467,790 3467,1033 158,1033"/>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:0;}">
+                <Coords points="224,959 533,962 637,943 637,879 616,879 597,858 527,858 499,882 469,861 432,861 404,885 371,864 227,861"/>
+                <Baseline points="241,925 266,927 291,928 316,930 342,930 367,929 392,928 417,928 443,926 468,925 493,925 518,924 544,923 569,923 594,925 619,924 645,922"/>
+                <TextEquiv>
+                    <Unicode>Wig.I 48.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="132,171 3487,171 3487,796 132,796"/>
+            <TextLine id="l_713" custom="readingOrder {index:0;}">
+                <Coords points="214,416 260,423 260,178 245,178 230,193 214,193"/>
+                <Baseline points="230,369 257,369 270,369"/>
+                <TextEquiv>
+                    <Unicode>8
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2098,392 2432,386 2429,334 2404,334 2361,297 2318,334 2263,337 2187,285 2092,291"/>
+                <Baseline points="2111,358 2136,358 2161,358 2186,360 2212,361 2237,361 2262,370 2288,370 2313,370 2338,370 2364,370 2389,371 2414,372 2440,373"/>
+                <TextEquiv>
+                    <Unicode>JL. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3087,328 3139,349 3167,349 3185,334 3237,349 3252,334 3286,358 3311,358 3329,340 3393,346 3396,196 3381,193 3350,224 3286,220 3265,242 3219,205 3157,208 3121,245 3090,242"/>
+                <Baseline points="3105,375 3152,375 3204,369 3244,369 3323,369 3355,369 3402,369"/>
+                <TextEquiv>
+                    <Unicode>0010</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="530,527 2986,511 2937,423 530,453"/>
+                <Baseline points="546,519 668,519 790,516 913,514 1035,513 1158,510 1280,505 1403,504 1525,506 1648,504 1770,501 1892,500 2015,498 2137,498 2260,498 2382,495 2505,495 2627,495 2750,492 2872,489 2995,486"/>
+                <TextEquiv>
+                    <Unicode>Accepimus litteras venerabilis fratris nostri R(icardi)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="214,637 2015,643 2070,588 214,591"/>
+                <Baseline points="232,636 324,636 416,633 508,630 601,630 693,630 785,627 878,622 970,625 1062,627 1155,624 1247,621 1339,621 1431,619 1524,620 1616,616 1708,617 1801,616 1893,615 1985,615 2078,618"/>
+                <TextEquiv>
+                    <Unicode>Cant(uariensis) archiepiscopi ap.sed.leg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:5;}">
+                <Coords points="2162,612 3078,612 3078,557 2781,560 2747,533 2677,579 2640,542 2511,564 2398,533 2266,588 2162,573"/>
+                <Baseline points="2180,597 2225,606 2270,612 2315,609 2360,609 2405,609 2450,606 2495,606 2540,606 2585,606 2631,603 2676,606 2721,603 2766,603 2811,603 2856,603 2901,600 2946,600 2991,603 3036,600 3082,600"/>
+                <TextEquiv>
+                    <Unicode>- mulieram absolvas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="230,753 1926,741 1880,674 1648,658 1522,704 1473,665 230,686"/>
+                <Baseline points="247,749 331,745 415,743 499,743 584,740 668,740 752,742 836,740 921,739 1005,737 1089,736 1173,734 1258,734 1342,731 1426,729 1510,728 1595,727 1679,725 1763,727 1847,725 1932,725"/>
+                <TextEquiv>
+                    <Unicode>(Alexander III.) Wigorniensi episcopo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:7;}">
+                <Coords points="2594,729 2625,741 2661,729 2759,738 2784,720 2814,726 2863,710 2879,729 2995,735 2998,683 2974,680 2940,646 2882,646 2866,662 2827,665 2796,640 2781,652 2765,640 2741,652 2640,640 2597,652"/>
+                <Baseline points="2613,719 2639,721 2665,721 2691,719 2718,719 2744,719 2770,719 2796,717 2823,714 2849,713 2875,713 2901,713 2928,714 2954,715 2980,716 3007,716"/>
+                <TextEquiv>
+                    <Unicode>(1174-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="212,1050 232,2344 3496,2324 3476,1070"/>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:0;}">
+                <Coords points="220,1231 2150,1200 2098,1127 220,1142"/>
+                <Baseline points="238,1221 334,1220 430,1215 526,1216 622,1216 718,1215 814,1212 910,1212 1006,1212 1102,1216 1198,1218 1294,1218 1390,1218 1486,1212 1582,1212 1678,1209 1774,1206 1870,1206 1966,1206 2062,1203 2159,1197"/>
+                <TextEquiv>
+                    <Unicode>Eherechtlicher Fall, Namen gekuerzt: A...A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:54</Creator>
+        <Created>2024-04-18T03:22:35.799+02:00</Created>
+        <LastChange>2024-06-21T04:56:58.871+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733412" pageNr="68" tsid="173205174" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=VCELZNUJIUGLBTKVSTEVSKXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TVTIZIBRXAYMRPVIHXQKUNPJ" imageId="54996284"/>
+    </Metadata>
+    <Page imageFilename="0068_p068.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011230020" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_744"/>
+                <RegionRefIndexed index="2" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="145,862 3461,862 3461,1060 145,1060"/>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:0;}">
+                <Coords points="203,1020 1321,1016 1321,951 1260,927 699,959 549,898 431,943 386,918 203,943"/>
+                <Baseline points="224,1000 279,1000 334,1000 389,1000 445,1000 500,999 555,997 610,997 666,1000 721,1000 776,1000 831,1000 887,1000 942,1000 997,1000 1052,1000 1108,1002 1163,1003 1218,1002 1273,1000 1329,1000"/>
+                <TextEquiv>
+                    <Unicode>Cott.VI 64. Tann.VI 3,4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_744" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="151,191 3487,191 3487,875 151,875"/>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:0;}">
+                <Coords points="244,435 268,427 276,435 284,431 305,431 309,435 329,431 321,341 313,345 293,345 284,354 264,341 232,345"/>
+                <Baseline points="262,382 287,386 312,389 337,391"/>
+                <TextEquiv>
+                    <Unicode>53</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="2507,435 2528,435 2540,447 2572,451 2593,443 2674,447 2670,333 2613,329 2572,337 2564,329 2548,333 2528,354 2503,354"/>
+                <Baseline points="2529,403 2555,406 2581,409 2607,409 2633,409 2659,409 2685,409"/>
+                <TextEquiv>
+                    <Unicode>JL. -
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3166,382 3235,362 3275,374 3308,341 3357,370 3381,354 3414,386 3454,386 3458,142 3324,126 3292,150 3263,150 3243,130 3170,134"/>
+                <Baseline points="3189,328 3214,327 3239,325 3264,325 3289,325 3314,325 3339,324 3364,323 3389,323 3414,325 3439,325 3464,325"/>
+                <TextEquiv>
+                    <Unicode>0059</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="427,524 3125,532 3060,427 427,463"/>
+                <Baseline points="448,516 582,513 716,510 851,513 985,513 1120,510 1254,513 1388,510 1523,513 1657,516 1792,513 1926,516 2060,516 2195,513 2329,513 2464,510 2598,510 2732,510 2867,510 3001,507 3136,513"/>
+                <TextEquiv>
+                    <Unicode>Ad aures nostras pervenit, quod G. quondam Eboracensis abbas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:4;}">
+                <Coords points="211,650 3479,646 3336,545 211,524"/>
+                <Baseline points="235,636 397,627 560,626 722,627 885,627 1047,626 1210,625 1372,627 1535,627 1697,619 1860,627 2022,625 2185,624 2347,627 2510,626 2672,627 2835,624 2997,626 3160,627 3322,624 3485,624"/>
+                <TextEquiv>
+                    <Unicode>patronatum ecclesie de Hotun... cuidam militi B. nomine... concessit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="215,744 601,780 788,740 1309,760 1309,691 1244,650 1012,671 979,703 662,658 215,695"/>
+                <Baseline points="238,725 292,731 346,732 400,734 454,737 508,737 562,737 616,737 670,737 724,736 779,736 833,737 887,737 941,737 995,734 1049,736 1103,737 1157,737 1211,737 1265,737 1320,737"/>
+                <TextEquiv>
+                    <Unicode>- denunties non tenere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="199,862 2032,870 1971,784 199,784"/>
+                <Baseline points="221,851 312,848 403,851 494,851 585,851 676,851 767,851 858,851 949,851 1040,850 1131,849 1222,851 1313,851 1404,851 1495,851 1586,851 1677,849 1768,851 1859,851 1950,851 2042,851"/>
+                <TextEquiv>
+                    <Unicode>Alexander III. Eboracensi archiepiscopo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:7;}">
+                <Coords points="2747,882 2792,882 2816,866 2967,878 2991,853 3149,878 3149,768 3117,780 3048,768 3007,805 2958,764 2857,784 2788,760 2747,780"/>
+                <Baseline points="2768,860 2793,857 2819,854 2845,852 2871,851 2897,851 2923,851 2949,851 2974,849 3000,848 3026,848 3052,848 3078,848 3104,851 3130,855 3156,860"/>
+                <TextEquiv>
+                    <Unicode>(1159-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="204,1040 158,2340 3485,2340 3498,1020"/>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:0;}">
+                <Coords points="199,1146 354,1122 398,1142 504,1118 642,1138 695,1113 748,1134 939,1126 943,1053 776,1028 703,1069 671,1036 581,1024 549,1053 492,1024 329,1053 276,1016 203,1065"/>
+                <Baseline points="224,1108 260,1110 296,1111 333,1111 369,1111 406,1111 442,1111 478,1111 515,1113 551,1114 588,1113 624,1108 660,1110 697,1111 733,1111 770,1110 806,1108 842,1108 879,1110 915,1111 952,1111"/>
+                <TextEquiv>
+                    <Unicode>a) Hic (?) Cott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:1;}">
+                <Coords points="203,1280 2560,1296 3259,1272 3259,1191 203,1195"/>
+                <Baseline points="224,1257 376,1257 528,1257 680,1260 833,1257 985,1257 1137,1257 1290,1260 1442,1258 1594,1257 1747,1257 1899,1258 2051,1257 2203,1259 2356,1257 2508,1254 2660,1254 2813,1254 2965,1254 3117,1254 3270,1257"/>
+                <TextEquiv>
+                    <Unicode>Eine ecclesia de Hte Hoton wurde dem Kloster St. Mary's in York von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:2;}">
+                <Coords points="203,1345 3166,1353 3166,1272 2731,1256 203,1280"/>
+                <Baseline points="224,1332 371,1333 519,1335 666,1332 814,1333 962,1332 1109,1335 1257,1335 1405,1334 1552,1334 1700,1335 1848,1335 1995,1333 2143,1332 2291,1334 2438,1337 2586,1331 2734,1332 2881,1329 3029,1326 3177,1329"/>
+                <TextEquiv>
+                    <Unicode>Nigellus Aossard geschenkt (Mon.Angl.nob.ed. III 551 n.12) und von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:3;}">
+                <Coords points="203,1430 3349,1443 3292,1337 203,1345"/>
+                <Baseline points="224,1406 380,1411 537,1409 693,1409 850,1409 1006,1409 1163,1409 1319,1410 1476,1406 1632,1400 1789,1409 1945,1410 2102,1406 2258,1406 2415,1403 2571,1405 2728,1406 2884,1403 3041,1403 3197,1404 3354,1400"/>
+                <TextEquiv>
+                    <Unicode>Heinrich II. bestaetigt (ebda 549 n.5). Da seine uebrigen Schenkungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:4;}">
+                <Coords points="203,1512 3259,1500 3259,1430 203,1435"/>
+                <Baseline points="226,1481 378,1484 530,1484 682,1484 834,1487 987,1487 1139,1486 1291,1484 1443,1484 1595,1483 1748,1484 1900,1482 2052,1484 2204,1484 2356,1481 2509,1481 2661,1481 2813,1481 2965,1480 3117,1478 3270,1478"/>
+                <TextEquiv>
+                    <Unicode>alle zwischen Doncaster und Sheffield liegen, muss der Ort in einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:5;}">
+                <Coords points="203,1573 3454,1609 3454,1467 203,1512"/>
+                <Baseline points="226,1559 387,1558 549,1559 711,1560 873,1559 1035,1559 1197,1559 1359,1559 1521,1557 1683,1553 1845,1556 2006,1556 2168,1553 2330,1556 2492,1556 2654,1556 2816,1553 2978,1553 3140,1553 3302,1551 3464,1550"/>
+                <TextEquiv>
+                    <Unicode>der dort in Zusammensetzungenen-oft vorkommenden Hoyhton identisch sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:6;}">
+                <Coords points="199,1650 3255,1666 3214,1556 199,1577"/>
+                <Baseline points="221,1624 373,1633 525,1636 677,1634 829,1634 981,1639 1133,1634 1286,1633 1438,1633 1590,1634 1742,1636 1894,1633 2046,1633 2198,1627 2351,1627 2503,1630 2655,1630 2807,1627 2959,1627 3111,1627 3264,1630"/>
+                <TextEquiv>
+                    <Unicode>Nach der im Mon. Angl. nov.ed. III 569 n. 71 gedruckten Abtliste starb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:7;}">
+                <Coords points="203,1723 3300,1654 203,1658"/>
+                <Baseline points="226,1708 380,1708 534,1708 688,1709 842,1711 996,1708 1150,1708 1305,1708 1459,1709 1613,1708 1767,1708 1921,1708 2075,1705 2229,1702 2384,1702 2538,1702 2692,1705 2846,1704 3000,1702 3154,1705 3309,1717"/>
+                <TextEquiv>
+                    <Unicode>der Abt G(otfried) von St. Mary's 1132 und es waere daher moeglich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:8;}">
+                <Coords points="211,1800 3284,1812 3210,1715 211,1723"/>
+                <Baseline points="235,1783 396,1783 557,1783 718,1783 879,1783 1040,1783 1201,1783 1362,1783 1523,1781 1684,1780 1845,1783 2006,1779 2167,1777 2328,1777 2489,1780 2650,1781 2811,1780 2972,1781 3133,1777 3294,1777"/>
+                <TextEquiv>
+                    <Unicode>dass ein Ueberlieferungsfehler fuer S(avarius) vorliegt; Abt Savaric</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:9;}">
+                <Coords points="199,1918 573,1869 683,1918 906,1869 1000,1930 1447,1869 1772,1942 1947,1902 1947,1825 1792,1792 199,1804"/>
+                <Baseline points="221,1857 307,1857 394,1860 481,1860 568,1861 654,1861 741,1862 828,1862 915,1862 1001,1862 1088,1857 1175,1860 1262,1857 1348,1857 1435,1857 1522,1857 1609,1857 1695,1857 1782,1857 1869,1862 1956,1881"/>
+                <TextEquiv>
+                    <Unicode>soll am 3. April 1161 gestorben sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:12.701+02:00</Created>
+        <LastChange>2024-06-13T20:42:17.121+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733363" pageNr="32" tsid="171981238" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=PBONBCSKNWSNRBYIFPEMOWQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VEJBZXGXQUSBRKLXBDONEAXP" imageId="54996235"/>
+    </Metadata>
+    <Page imageFilename="0032_p032.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229177" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_588"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;} structure {type:footnote;}">
+            <Coords points="138,928 3388,928 3388,1119 138,1119"/>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:0;}">
+                <Coords points="180,1078 652,1066 684,1086 742,1059 742,977 688,953 523,961 488,934 398,992 301,977 277,953 180,969"/>
+                <Baseline points="200,1024 227,1030 254,1033 282,1033 309,1034 337,1036 364,1034 392,1031 419,1028 447,1029 474,1030 501,1032 529,1033 556,1033 584,1031 611,1031 639,1032 666,1032 694,1030 721,1032 749,1030"/>
+                <TextEquiv>
+                    <Unicode>Wig. VII 70.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_588" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="99,92 3461,92 3461,935 2967,935 99,935"/>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:0;}">
+                <Coords points="320,453 363,457 383,449 391,457 418,457 418,145 395,141 379,148 371,141 363,148 320,148"/>
+                <Baseline points="340,439 369,437 398,437 427,439"/>
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:1;}">
+                <Coords points="2305,418 2332,418 2355,441 2367,441 2387,422 2469,418 2465,344 2438,348 2387,301 2363,312 2301,309"/>
+                <Baseline points="2323,382 2348,384 2373,385 2398,385 2423,386 2448,387 2473,385"/>
+                <TextEquiv>
+                    <Unicode>JL. -
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:2;} structure {type:page-number;}">
+                <Coords points="3086,363 3152,367 3172,355 3254,379 3309,363 3340,371 3379,336 3406,336 3410,152 3375,145 3359,125 3312,133 3297,113 3207,125 3188,145 3090,145"/>
+                <Baseline points="3109,337 3134,337 3160,337 3185,337 3211,337 3236,337 3262,337 3288,337 3313,337 3339,335 3364,332 3390,331 3416,331"/>
+                <TextEquiv>
+                    <Unicode>0030</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="578,551 1973,551 1977,457 582,480"/>
+                <Baseline points="600,543 669,541 738,540 807,538 877,537 946,537 1015,537 1085,537 1154,534 1223,534 1293,533 1362,531 1431,531 1500,531 1570,531 1639,531 1708,529 1778,528 1847,528 1916,527 1986,522"/>
+                <TextEquiv>
+                    <Unicode>Ad audientiam nostram noveritis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:4;}">
+                <Coords points="2078,520 2148,559 2289,531 3070,535 3070,465 3035,449 2621,492 2449,453 2133,465 2078,430"/>
+                <Baseline points="2099,519 2148,517 2197,523 2246,525 2295,524 2344,522 2393,524 2443,525 2492,525 2541,525 2590,522 2639,522 2688,522 2737,524 2787,522 2836,522 2885,522 2934,522 2983,522 3032,520 3082,522"/>
+                <TextEquiv>
+                    <Unicode>pervenisse, quod cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:5;}">
+                <Coords points="180,668 2680,668 3113,648 3113,570 180,590"/>
+                <Baseline points="200,654 346,657 492,657 638,654 784,652 931,651 1077,648 1223,648 1369,648 1515,642 1662,644 1808,642 1954,642 2100,639 2246,639 2393,639 2539,639 2685,636 2831,636 2977,635 3124,636"/>
+                <TextEquiv>
+                    <Unicode>inter N. capellanum illustris regis Anglie et H(ugonum) clericum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:6;}">
+                <Coords points="176,781 3137,766 3180,695 176,723"/>
+                <Baseline points="197,770 346,771 495,772 645,770 794,766 944,765 1093,764 1243,761 1392,749 1542,756 1691,758 1840,755 1990,755 2139,752 2289,752 2438,752 2588,749 2737,749 2887,746 3036,745 3186,743"/>
+                <TextEquiv>
+                    <Unicode>super capella de Suttona - debito terminetis. Porro si hiis etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:7;}">
+                <Coords points="180,891 1781,887 1781,824 1676,793 734,848 680,805 180,801"/>
+                <Baseline points="200,878 279,881 359,881 438,879 518,880 598,880 677,878 757,875 836,875 916,875 996,875 1075,875 1155,875 1234,874 1314,874 1394,872 1473,869 1553,869 1632,869 1712,868 1792,869"/>
+                <TextEquiv>
+                    <Unicode>Wigorniensi et Exoniensi episcopis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:8;}">
+                <Coords points="2680,875 2711,887 2832,879 2867,898 2934,855 3098,887 3098,777 2973,785 2945,812 2910,785 2777,797 2723,777 2680,789"/>
+                <Baseline points="2703,863 2728,865 2753,866 2779,864 2804,862 2829,861 2855,860 2880,860 2906,857 2931,854 2956,856 2982,858 3007,859 3032,860 3058,860 3083,861 3109,863"/>
+                <TextEquiv>
+                    <Unicode>(1174-81)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="134,1087 95,2339 3416,2339 3423,1094"/>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:0;}">
+                <Coords points="180,1211 242,1199 297,1227 328,1195 367,1207 434,1191 449,1203 688,1191 688,1125 633,1109 570,1105 520,1129 316,1117 266,1082 242,1102 180,1098"/>
+                <Baseline points="200,1179 226,1181 252,1182 278,1182 304,1182 331,1182 357,1184 383,1185 409,1185 435,1184 462,1182 488,1182 514,1182 540,1180 566,1179 593,1179 619,1179 645,1179 671,1179 698,1179"/>
+                <TextEquiv>
+                    <Unicode>a) noveris.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:1;}">
+                <Coords points="180,1359 3156,1324 2867,1195 2312,1277 180,1227"/>
+                <Baseline points="200,1332 348,1332 496,1329 644,1327 793,1326 941,1323 1089,1323 1237,1320 1386,1317 1534,1317 1682,1314 1830,1311 1979,1311 2127,1311 2275,1313 2423,1308 2572,1305 2720,1305 2868,1302 3016,1302 3165,1293"/>
+                <TextEquiv>
+                    <Unicode>Der Ortsname Sutton ist in England so haeufig, dass ueber die ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:2;}">
+                <Coords points="180,1414 3105,1402 3105,1320 180,1359"/>
+                <Baseline points="200,1406 345,1406 491,1406 637,1401 783,1400 928,1397 1074,1397 1220,1394 1366,1391 1511,1391 1657,1390 1803,1388 1949,1388 2094,1385 2240,1382 2386,1382 2532,1382 2677,1379 2823,1379 2969,1374 3115,1370"/>
+                <TextEquiv>
+                    <Unicode>nauere Lage nichts auszumachen ist. Dagegen ist ein koeniglicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:3;}">
+                <Coords points="180,1500 3277,1473 3199,1375 184,1418"/>
+                <Baseline points="206,1478 360,1484 514,1481 668,1478 822,1475 976,1472 1130,1472 1284,1471 1438,1468 1592,1466 1747,1463 1901,1463 2055,1460 2209,1460 2363,1457 2517,1455 2671,1452 2825,1451 2979,1448 3133,1448 3288,1457"/>
+                <TextEquiv>
+                    <Unicode>Kaplan Nicolaus in den Urkunden Heinrichs II. als Zeuge sehr haeufig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:4;}">
+                <Coords points="180,1578 3086,1551 3254,1469 180,1500"/>
+                <Baseline points="203,1553 355,1556 508,1559 661,1553 814,1550 966,1547 1119,1546 1272,1544 1425,1541 1577,1538 1730,1538 1883,1532 2036,1532 2188,1529 2341,1527 2494,1529 2647,1525 2799,1521 2952,1519 3105,1515 3258,1514"/>
+                <TextEquiv>
+                    <Unicode>(Vgl. Eyton, Court, household and itierary of king Henry II (London</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:5;}">
+                <Coords points="195,1652 3301,1664 3332,1496 195,1566"/>
+                <Baseline points="215,1633 371,1631 527,1630 683,1629 839,1626 996,1622 1152,1621 1308,1616 1464,1615 1620,1614 1777,1612 1933,1610 2089,1606 2245,1604 2401,1603 2558,1600 2714,1597 2870,1594 3026,1594 3182,1591 3339,1591"/>
+                <TextEquiv>
+                    <Unicode>1878) Index s.v. Nicholas, Capellanus regis. Die Datierung wird durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:6;}">
+                <Coords points="184,1738 2957,1699 3055,1602 184,1652"/>
+                <Baseline points="206,1702 348,1705 491,1703 634,1705 777,1702 920,1699 1063,1698 1206,1696 1349,1691 1492,1690 1635,1690 1777,1686 1920,1681 2063,1683 2206,1678 2349,1678 2492,1678 2635,1678 2778,1671 2921,1669 3064,1663"/>
+                <TextEquiv>
+                    <Unicode>die Erwachnung des Elekten (Gotfried) von Lincoln (1173-82) und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:7;}">
+                <Coords points="191,1801 3078,1789 3121,1656 191,1719"/>
+                <Baseline points="212,1783 357,1777 503,1780 648,1777 794,1777 940,1773 1085,1770 1231,1768 1376,1762 1522,1765 1668,1762 1813,1759 1959,1762 2104,1761 2250,1752 2396,1747 2541,1747 2687,1744 2832,1744 2978,1744 3124,1735"/>
+                <TextEquiv>
+                    <Unicode>des Erzbischofs B(ichard) von Canterbury (1174-84) bestimmt. Aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:8;}">
+                <Coords points="219,1875 750,1902 844,1859 922,1906 1195,1848 1355,1879 1383,1797 223,1801"/>
+                <Baseline points="241,1857 298,1855 356,1857 413,1857 471,1857 528,1857 586,1854 643,1854 701,1854 758,1854 816,1851 873,1850 931,1846 988,1848 1046,1845 1103,1845 1161,1845 1218,1842 1276,1844 1333,1842 1391,1842"/>
+                <TextEquiv>
+                    <Unicode>steller ist Alexander III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:9;}">
+                <Coords points="332,2031 2562,1992 2723,1910 2887,1977 3129,1914 3133,1777 2383,1879 336,1895"/>
+                <Baseline points="352,1971 491,1974 630,1971 770,1968 909,1967 1048,1962 1188,1965 1327,1967 1466,1962 1606,1948 1745,1941 1884,1938 2024,1941 2163,1932 2302,1929 2442,1922 2581,1918 2720,1914 2860,1914 2999,1908 3139,1908"/>
+                <TextEquiv>
+                    <Unicode>Morey, Barth. of Exeter p.131. ed. Holtzmann-Kemp, Papel decretals.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:10;}">
+                <Coords points="320,2086 352,2102 391,2090 516,2141 535,2125 590,2137 719,2086 824,2102 820,1980 707,1980 684,2000 613,1980 531,2020 441,1992 375,2020 324,1996"/>
+                <Baseline points="343,2075 368,2075 394,2074 420,2073 446,2073 471,2075 497,2072 523,2069 549,2067 575,2066 600,2066 626,2065 652,2063 678,2063 704,2062 729,2059 755,2055 781,2052 807,2052 833,2054"/>
+                <TextEquiv>
+                    <Unicode>Lincoln, Nr. 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:13.930+02:00</Created>
+        <LastChange>2024-06-13T20:47:01.539+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733368" pageNr="37" tsid="171982332" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=DHEIYDWCYSZWRUXFVQLZQIQX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FTDXXPTOXGFOBKUOSICGTJED" imageId="54996240"/>
+    </Metadata>
+    <Page imageFilename="0037_p037.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229345" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="0,299 0,2331 3297,2331 3297,299"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="2991,356 3026,352 3034,344 3069,356 3101,348 3144,356 3136,242 3097,239 3073,227 3034,246 3015,227 2983,231"/>
+                <Baseline points="3007,328 3035,334 3064,338 3093,340 3122,340 3151,337"/>
+                <TextEquiv>
+                    <Unicode>0034
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="141,422 3237,414 2956,325 145,360"/>
+                <Baseline points="167,412 329,412 491,412 653,409 815,412 977,412 1139,409 1301,412 1463,409 1625,409 1787,406 1949,406 2111,407 2273,406 2435,403 2597,403 2759,400 2921,403 3083,398 3246,397"/>
+                <TextEquiv>
+                    <Unicode>soweit mir die Texte bekannt sind, hat nur die App. den auf Sipewell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="156,500 3116,493 3120,418 160,422"/>
+                <Baseline points="179,486 326,483 473,483 621,480 768,480 916,480 1063,480 1210,480 1358,481 1505,480 1653,480 1800,477 1947,478 2095,477 2242,474 2390,474 2537,474 2684,471 2832,471 2979,471 3127,471"/>
+                <TextEquiv>
+                    <Unicode>bezueglichen Zusatz; in der Rot. fehlt er, obwohl dort das Stueck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="141,571 2999,563 3030,489 141,520"/>
+                <Baseline points="164,558 307,555 451,558 595,555 739,555 883,555 1026,552 1170,556 1314,555 1458,555 1602,552 1745,552 1889,555 2033,552 2177,552 2321,549 2464,546 2608,544 2752,546 2896,546 3040,543"/>
+                <TextEquiv>
+                    <Unicode>mit der Adresse Coventry steht (ueber Brug. fehlen die naeheren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="149,649 2534,649 2932,633 2932,563 149,583"/>
+                <Baseline points="170,633 308,630 447,630 585,633 724,631 862,630 1001,630 1139,630 1278,630 1416,630 1555,627 1694,627 1832,625 1971,624 2109,623 2248,621 2386,621 2525,621 2663,620 2802,615 2941,615"/>
+                <TextEquiv>
+                    <Unicode>Angaben). Ich glaube daher, dass die Adresse Coventry und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="145,716 2862,716 2976,633 145,653"/>
+                <Baseline points="167,707 307,704 448,704 589,702 730,704 871,707 1011,701 1152,704 1293,701 1434,701 1575,698 1715,698 1856,695 1997,695 2138,695 2279,696 2419,694 2560,692 2701,690 2842,689 2983,686"/>
+                <TextEquiv>
+                    <Unicode>Zusatz ueber Piperwell eine spaetere Erweiterung darstellt. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="149,798 3022,786 3050,708 149,716"/>
+                <Baseline points="170,779 314,781 459,782 603,779 748,775 892,779 1037,777 1181,776 1326,776 1470,775 1615,775 1760,773 1904,772 2049,770 2193,770 2338,764 2482,767 2627,767 2771,767 2916,767 3061,761"/>
+                <TextEquiv>
+                    <Unicode>Rechtsinhalt - Zehntfreiheit der Zisterzienser - ist durch zahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="152,868 3093,856 3120,770 152,802"/>
+                <Baseline points="173,854 320,853 468,851 616,851 764,851 912,851 1060,851 1207,851 1355,849 1503,850 1651,848 1799,848 1947,848 2095,845 2242,845 2390,842 2538,842 2686,845 2834,841 2982,839 3130,836"/>
+                <TextEquiv>
+                    <Unicode>reiche aehnliche Privilegien belegt, vgl. G. Schreiber, Kurie und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="141,934 1525,934 1466,848 997,899 907,848 829,895 141,876"/>
+                <Baseline points="164,925 232,925 300,925 368,925 437,925 505,925 573,922 641,925 710,925 778,924 846,922 914,922 983,922 1051,922 1119,917 1187,921 1256,919 1324,919 1392,919 1460,919 1529,919"/>
+                <TextEquiv>
+                    <Unicode>Kloster im 12. Jh. I 268 A.1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="149,1013 2921,1013 3296,934 149,946"/>
+                <Baseline points="170,997 326,1000 482,997 639,997 795,1000 951,997 1108,994 1264,994 1420,997 1577,994 1733,991 1889,991 2046,988 2202,988 2358,988 2515,986 2671,985 2827,984 2984,982 3140,982 3297,982"/>
+                <TextEquiv>
+                    <Unicode>Teilweise siehe Summa De iure naturali: Noerr in ZRG. kan. 48,144 n.6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

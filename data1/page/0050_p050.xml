@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.12.0:model_id=51170:date=22_04_2024_19:53</Creator>
+        <Created>2024-04-18T03:21:43.473+02:00</Created>
+        <LastChange>2024-06-13T20:58:17.327+02:00</LastChange>
+        <TranskribusMetadata docId="1969188" pageId="68733387" pageNr="50" tsid="171983276" status="FINAL" userId="235841" imgUrl="https://files.transkribus.eu/Get?id=TXXJCFJNYVZWEPWFTHYEGODS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KKMAGZJZZQYFEBLQLOADKJGA" imageId="54996259"/>
+    </Metadata>
+    <Page imageFilename="0050_p050.jpg" imageWidth="3508" imageHeight="2479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1719011229581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="20,311 20,2327 3291,2327 3291,311"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="3007,336 3054,350 3082,329 3109,350 3130,348 3151,329 3184,352 3214,352 3228,339 3286,348 3281,209 3237,243 3179,199 3135,199 3102,230 3005,234"/>
+                <Baseline points="3019,331 3046,331 3073,332 3100,333 3127,335 3155,337 3182,339 3209,339 3236,337 3263,334 3291,334"/>
+                <TextEquiv>
+                    <Unicode>0044</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="181,431 468,436 501,406 531,436 1180,436 1180,345 1011,350 974,387 932,348 181,352"/>
+                <Baseline points="194,424 243,421 293,421 342,421 392,422 441,422 491,421 540,421 590,424 639,424 689,424 739,424 788,424 838,423 887,422 937,422 986,423 1036,427 1085,427 1135,424 1185,421"/>
+                <TextEquiv>
+                    <Unicode>Stueck von Lucius III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1224,427 3072,434 3072,373 2982,352 2729,397 2678,350 2486,397 2351,352 2293,403 2189,355 1922,403 1860,355 1718,399 1224,371"/>
+                <Baseline points="1236,418 1328,421 1420,424 1512,424 1604,424 1696,424 1788,425 1881,427 1973,427 2065,424 2157,425 2249,432 2341,424 2433,424 2526,424 2618,424 2710,422 2802,421 2894,421 2986,424 3079,421"/>
+                <TextEquiv>
+                    <Unicode>vorausgeht (JL. 15208), das in B erst in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="188,505 2047,503 1950,431 1308,473 188,434"/>
+                <Baseline points="200,495 292,495 385,489 478,493 570,495 663,492 756,491 848,492 941,492 1034,493 1127,492 1219,490 1312,492 1405,492 1497,495 1590,492 1683,492 1775,492 1868,495 1961,495 2054,495"/>
+                <TextEquiv>
+                    <Unicode>I 2,4 folgt. Von Gilbert ist X abhaengig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
