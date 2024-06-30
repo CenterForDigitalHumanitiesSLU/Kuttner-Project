@@ -83,7 +83,7 @@ button {
   display: inline-block;
   font-size: 16px;
   border-radius: 4px;
-  box-shadow: 0 8px 16px 0 #316831, 0 6px 20px 0 #316831;
+  box-shadow: 0 8px 16px 0 #50494c, 0 6px 20px 0 #50494c;
   width: 100%;
   cursor: pointer;
 }
@@ -194,8 +194,9 @@ button {
   text-align: center;
 }
 
-.sectionbutton hover {
+.sectionbutton:hover {
   box-shadow: 0 8px 16px 0 #316831, 0 6px 20px 0 #316831;
+  opacity: 1.5;
 }
 
 .buttontext {
