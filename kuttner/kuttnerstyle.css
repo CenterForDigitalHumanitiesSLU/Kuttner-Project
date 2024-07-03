@@ -163,7 +163,13 @@ button {
 .info {
   grid-row: 3;
   grid-column: 3/10;
-  background-color: white;  
+  
+}
+
+.text {
+  padding: 20px;
+  line-height: 1.6;
+  background-color: white;
 }
 
 .whcard {
